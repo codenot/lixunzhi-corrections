@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-e1b22def62fa22abb092",
+  "question_id": "q-e93e74e2b7e3e9fafdbe",
+  "admitted_attempt_id": "a-e93e74e2b7e3e9fafdbe",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "jump for joy 与 jump with joy 的适用性需要结合原题要求核实，不能仅因不同于旧参考答案判错。"
+}

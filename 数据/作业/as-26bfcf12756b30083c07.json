@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "kind": "assignment",
+  "id": "as-26bfcf12756b30083c07",
+  "title": "数学练习 · 有理数巩固（2026-10-03）",
+  "date": null,
+  "coverage": "指定范围",
+  "scope_note": "历史生成练习资料，尚无学生完成记录。",
+  "pages": [
+    {
+      "id": "pg-26bfcf12756b30083c07",
+      "upload_order": 1,
+      "printed_page": null,
+      "label": "练习/数学/有理数巩固练习-2026-10-03.md",
+      "image_path": null,
+      "sha256": null,
+      "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
+    }
+  ],
+  "expected_question_count": null,
+  "provenance": {
+    "path": "练习/数学/有理数巩固练习-2026-10-03.md",
+    "section": "# 数学练习 · 有理数巩固（2026-10-03）",
+    "line": 1,
+    "end_line": 182,
+    "sha256": "ca04666fab3f74a2fd3ba22cfea12d4c3a5c184cc406ae75f764aee17933c52c"
+  }
+}

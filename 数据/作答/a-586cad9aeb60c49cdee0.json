@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-586cad9aeb60c49cdee0",
+  "question_id": "q-586cad9aeb60c49cdee0",
+  "submission_id": "sub-aea149272975e9276ef1",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ Some years later, he became healthy, and won more medals.",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "待核实",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**He recovered and continued playing tennis, winning more competitions.**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：续写可能存在多种合理答案；became healthy 不应脱离语境被一律判为错误。",
+    "errors": [
+      {
+        "error_type": "写作任务完成",
+        "error_reason": "本题“After winning the silver medal at the first Youth Olympic Games, Yuki faced more challenges. What do you think happened next? Did he keep playing tennis?”，历史作答记录为“❌ Some years later, he became healthy, and won more medals.”。历史参考答案为“**He recovered and continued playing tennis, winning more competitions.**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-e966c4c4b4746315e836"
+        ],
+        "location": "第 10 题",
+        "evidence": "❌ Some years later, he became healthy, and won more medals.",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 10 题",
+    "line": 302,
+    "end_line": 336,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  },
+  "question_context_hash": "a15e4f799823392d966acc2a4e9ed448ff1b765e82d89f9908694a93405c8c09"
+}

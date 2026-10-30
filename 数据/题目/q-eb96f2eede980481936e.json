@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-eb96f2eede980481936e",
+  "assignment_id": "as-320838ee57a8715c1e25",
+  "page_id": "pg-320838ee57a8715c1e25",
+  "original_number": "历史条目 6（原题号未知）",
+  "location": "第 6 题",
+  "subject": "数学",
+  "chapter": "有理数",
+  "prompt": "计算：\\(3 \\times (-5) - (-25) \\div 5\\)",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-7e6da426c5720b4b4339"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-7e6da426c5720b4b4339",
+      "error_type": "运算规则使用错误"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "-10",
+    "solution": "3×(−5)−(−25)÷5=−15+25÷5=−15+5=−10。先将外部两个负号化为正号合法；错误是将 ÷5 改成 ×5。",
+    "basis": {
+      "kind": "AI解答",
+      "evidence": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    "verification": "已核验",
+    "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+  },
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 6 题",
+    "line": 294,
+    "end_line": 354,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  }
+}

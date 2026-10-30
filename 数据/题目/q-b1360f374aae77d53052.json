@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-b1360f374aae77d53052",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "page_id": "pg-be53ae254c00811aaed0",
+  "original_number": "历史条目 5-4（原题号未知）",
+  "location": "(4) 人物事件梳理——父亲\"惯\"出的\"野\"",
+  "subject": "语文",
+  "chapter": "现代文阅读",
+  "prompt": "文中说\"我的'野'，是父亲一手'惯'出来的\"。父亲是如何\"惯\"\"我\"的\"野\"的？请概括两件事。",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-a9c1a5e1d3f122bdf765"
+  ],
+  "knowledge_point_ids": [
+    "k-29bd601797dbf72605df"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-29bd601797dbf72605df",
+      "error_type": "信息提取"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "(1) **父亲**不同意给\"我\"扎耳朵眼、戴耳环（借口说耳后有颗聪明痣，扎穿了孩子会变笨）。\n(2) 父亲不让给\"我\"穿紧鞋，鞋紧了父亲还会埋怨母亲。\n(3) 父亲经常带\"我\"出去骑马、打枪（让\"我\"骑白马，教\"我\"打鸟枪）。",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 语文/现代文阅读.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (4) 人物事件梳理——父亲\"惯\"出的\"野\"",
+    "line": 376,
+    "end_line": 395,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

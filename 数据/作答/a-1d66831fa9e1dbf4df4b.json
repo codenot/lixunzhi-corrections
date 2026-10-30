@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-1d66831fa9e1dbf4df4b",
+  "question_id": "q-1d66831fa9e1dbf4df4b",
+  "submission_id": "sub-ca58f2cdde898e805698",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ A. into",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**C. onto**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "词汇与搭配",
+        "error_reason": "本题“When a child first steps \\___ the climbing wall, they are faced with the challenge. A. into   B. to   C. onto”，历史作答记录为“❌ A. into”。历史参考答案为“**C. onto**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-4375641e44cd9d354a5b"
+        ],
+        "location": "第 7 题",
+        "evidence": "❌ A. into",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 7 题",
+    "line": 197,
+    "end_line": 228,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  },
+  "question_context_hash": "47f6072bbe23b88d545e5f5ceea09acabfb448ac9bf0255735733ac49ec60f34"
+}

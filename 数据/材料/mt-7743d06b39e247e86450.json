@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "kind": "material",
+  "id": "mt-7743d06b39e247e86450",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "title": "第 1 题：《昆虫的\"鼻子\"——触角》",
+  "text": "",
+  "completeness": "缺失",
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "### 第 1 题：《昆虫的\"鼻子\"——触角》",
+    "line": 7,
+    "end_line": 73,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

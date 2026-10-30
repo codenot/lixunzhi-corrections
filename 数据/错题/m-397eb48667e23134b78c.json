@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-397eb48667e23134b78c",
+  "question_id": "q-2e3a0fd7754870b1fb97",
+  "admitted_attempt_id": "a-2e3a0fd7754870b1fb97",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "旧题面未保存给定词或选词范围，不能确定该空只能填 buying。"
+}

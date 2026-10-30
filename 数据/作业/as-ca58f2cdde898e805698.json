@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "kind": "assignment",
+  "id": "as-ca58f2cdde898e805698",
+  "title": "英语错题集 · 词汇与语法",
+  "date": null,
+  "coverage": "历史错题摘录",
+  "scope_note": "历史文档摘录，原作业其他题目、真实页码和原图未知。",
+  "pages": [
+    {
+      "id": "pg-ca58f2cdde898e805698",
+      "upload_order": 1,
+      "printed_page": null,
+      "label": "英语/词汇与语法.md",
+      "image_path": null,
+      "sha256": null,
+      "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
+    }
+  ],
+  "expected_question_count": null,
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "# 英语错题集 · 词汇与语法",
+    "line": 1,
+    "end_line": 399,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  }
+}

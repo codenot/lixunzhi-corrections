@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-79d10d1d6f70637e6b83",
+  "assignment_id": "as-320838ee57a8715c1e25",
+  "page_id": "pg-320838ee57a8715c1e25",
+  "original_number": "历史条目 18（原题号未知）",
+  "location": "第 18 题",
+  "subject": "数学",
+  "chapter": "有理数",
+  "prompt": "计算：\\(-1-\\left\\{(-3)^3-\\left[3+\\dfrac{2}{3}\\times\\left(-1\\dfrac{1}{2}\\right)\\right]\\right\\}\\div(-2)\\)",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-70082514dde43952a7a5"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-70082514dde43952a7a5",
+      "error_type": "运算规则使用错误"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "-31/2",
+    "solution": "从内到外：2/3×(−3/2)=−1；中括号=2；大括号=−29；−29÷(−2)=29/2；最后 −1−29/2=−31/2。外部负号可产生 +27，不能仅据此认定 (−3)³ 算成 +27。",
+    "basis": {
+      "kind": "AI解答",
+      "evidence": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    "verification": "已核验",
+    "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+  },
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 18 题",
+    "line": 1014,
+    "end_line": 1097,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  }
+}

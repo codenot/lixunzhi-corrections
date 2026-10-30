@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-633c674870aa4dfeea4d",
+  "assignment_id": "as-320838ee57a8715c1e25",
+  "page_id": "pg-320838ee57a8715c1e25",
+  "original_number": "历史条目 13（原题号未知）",
+  "location": "第 13 题",
+  "subject": "数学",
+  "chapter": "有理数",
+  "prompt": "若\"\\(*\\)\"是一种新的运算符号，并且规定 \\(a*b=\\dfrac{(a+b)^2}{b}\\)，则 \\(0.5*(-2)=\\) ________。",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-5b9165334cd6bf43015d"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-5b9165334cd6bf43015d",
+      "error_type": "计算错误"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "-9/8",
+    "solution": "代入 a=1/2,b=−2：(1/2−2)²÷(−2)=−9/8。只有终值，无法确认具体是哪一步代入出错。",
+    "basis": {
+      "kind": "AI解答",
+      "evidence": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    "verification": "已核验",
+    "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+  },
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 13 题",
+    "line": 721,
+    "end_line": 778,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  }
+}

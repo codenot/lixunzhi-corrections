@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-e882ccfd044d486e699d",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "page_id": "pg-be53ae254c00811aaed0",
+  "original_number": "历史条目 3-1-1（原题号未知）",
+  "location": "(1) 视角转换补写情节",
+  "subject": "语文",
+  "chapter": "现代文阅读",
+  "prompt": "以新媳妇的视角，把故事情节补充完整（每处不超过 20 字）\n本记录对应第 1 处。",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-dbe233a421511b25d64b"
+  ],
+  "knowledge_point_ids": [
+    "k-72600c329457e29e13c1"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-72600c329457e29e13c1",
+      "error_type": "答案要点缺漏"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "通讯员来我家借被子，我舍不得但还是借了。",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "原题情节图及学生完整答案缺失；旧参考答案可能超过每处20字，需重新核验。"
+    },
+    "verification": "待核实",
+    "note": "原题情节图及学生完整答案缺失；旧参考答案可能超过每处20字，需重新核验。"
+  },
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (1) 视角转换补写情节",
+    "line": 169,
+    "end_line": 191,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

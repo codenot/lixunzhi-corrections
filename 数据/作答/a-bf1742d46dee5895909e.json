@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-bf1742d46dee5895909e",
+  "question_id": "q-bf1742d46dee5895909e",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "(1) 跟祖父种小白菜 ✅\n(2) 跟祖父铲地 ✅\n(3)（没写）❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "1. 跟着祖父种小白菜，用脚把土窝溜平（其实东一脚西一脚瞎闹）；\n2. 跟着祖父铲地，把狗尾草当谷穗留着；\n3. 摘黄瓜吃；\n4. 追蜻蜓玩；\n5. 采倭瓜花；\n6. 捉绿蚂蚱，把蚂蚱腿用线绑上；\n7. 拿着水瓢把水往天空一扬，喊\"下雨啰！下雨啰！\"。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "答案要点缺漏",
+        "error_reason": "本题“\"我\"在后园里做了许多有趣的事，请用简洁的语言写出其中的三件事。”，历史作答记录为“(1) 跟祖父种小白菜 ✅\n(2) 跟祖父铲地 ✅\n(3)（没写）❌”。历史参考答案为“1. 跟着祖父种小白菜，用脚把土窝溜平（其实东一脚西一脚瞎闹）；\n2. 跟着祖父铲地，把狗尾草当谷穗留着；\n3. 摘黄瓜吃；\n4. 追蜻蜓玩；\n5. 采倭瓜花；\n6. 捉绿蚂蚱，把蚂蚱腿用线绑上；\n7. 拿着水瓢把水往天空一扬，喊\"下雨啰！下雨啰！\"。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-2ff27ef2b697222790f7"
+        ],
+        "location": "(2) 内容概括——\"我\"在后园做的趣事",
+        "evidence": "(1) 跟祖父种小白菜 ✅\n(2) 跟祖父铲地 ✅\n(3)（没写）❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (2) 内容概括——\"我\"在后园做的趣事",
+    "line": 329,
+    "end_line": 353,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "06ca9a99bd088be6a842df0adc415662296f853f4d7fc7834a3c60910842162e"
+}

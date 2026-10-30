@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "kind": "material",
+  "id": "mt-888a961ed42cfd216629",
+  "assignment_id": "as-0aeb8b10755cac83ff11",
+  "title": "第 1 题：《越车》文言文阅读",
+  "text": "",
+  "completeness": "缺失",
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 1 题：《越车》文言文阅读",
+    "line": 7,
+    "end_line": 38,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  }
+}

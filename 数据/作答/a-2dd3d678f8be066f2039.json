@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-2dd3d678f8be066f2039",
+  "question_id": "q-2dd3d678f8be066f2039",
+  "submission_id": "sub-aea149272975e9276ef1",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ wear",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "待核实",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**Wearing**\n\n完整句：**Wearing** sports shoes and sunscreen are necessary.",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：旧参考句 Wearing sports shoes and sunscreen are necessary 的主谓结构有疑点，需原图核实，不直接复用。",
+    "errors": [
+      {
+        "error_type": "句子结构",
+        "error_reason": "本题“Third, \\___ sports shoes and sunscreen are necessary.”，历史作答记录为“❌ wear”。历史参考答案为“**Wearing**\n\n完整句：**Wearing** sports shoes and sunscreen are necessary.”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-2468a77113a31447e2f2"
+        ],
+        "location": "第 12 题",
+        "evidence": "❌ wear",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 12 题",
+    "line": 375,
+    "end_line": 406,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  },
+  "question_context_hash": "43ef2840a20f04ea7ecfaf7e65c3eadf1a93f0484a811b17ef733499ff995f96"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-a7b5c70ba1c46a85da2a",
+  "question_id": "q-a7b5c70ba1c46a85da2a",
+  "submission_id": "sub-ca58f2cdde898e805698",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ Ken didn't **controll** his skateboard carefully in the street.",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "Ken didn't **control** his skateboard carefully in the street.",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "拼写",
+        "error_reason": "本题“Ken controlled his skateboard carefully in the street.（改为否定句）”，历史作答记录为“❌ Ken didn't **controll** his skateboard carefully in the street.”。历史参考答案为“Ken didn't **control** his skateboard carefully in the street.”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-0b8bfb321b92570bb607"
+        ],
+        "location": "第 4 题",
+        "evidence": "❌ Ken didn't **controll** his skateboard carefully in the street.",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 4 题",
+    "line": 106,
+    "end_line": 135,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  },
+  "question_context_hash": "6bc6b3714722443493d0b5145600567ede28b2fe85fad002419c480cd3d1bc19"
+}

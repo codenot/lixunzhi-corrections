@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-4c7c3d93b9bf2269c52d",
+  "question_id": "q-4c7c3d93b9bf2269c52d",
+  "submission_id": "sub-aea149272975e9276ef1",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ A. pull",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**D. prepare**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "词汇与搭配",
+        "error_reason": "本题“They help \\___ your body and prevent injuries. A. pull   B. push   C. put   D. prepare”，历史作答记录为“❌ A. pull”。历史参考答案为“**D. prepare**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-9f2b99b87a6189341bd2"
+        ],
+        "location": "第 4 题",
+        "evidence": "❌ A. pull",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 4 题",
+    "line": 105,
+    "end_line": 135,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  },
+  "question_context_hash": "61397d7780bbae25dad4fef052f1215df2b1b4f06f0223e14b4bff733cade0d1"
+}

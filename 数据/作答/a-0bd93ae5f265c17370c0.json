@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-0bd93ae5f265c17370c0",
+  "question_id": "q-0bd93ae5f265c17370c0",
+  "submission_id": "sub-0aeb8b10755cac83ff11",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "(1) 我们不能别人说什么就是什么，要有辨别意识。✅\n\n(2) 我们不能一味地模仿别人。❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "(2) 不能**盲目**模仿，不能**不懂装懂**，要**虚心学习、掌握真正的本领**（不能只学皮毛）。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "答案要点缺漏",
+        "error_reason": "本题“我们可以从越人身上吸取哪些教训？（4 分）”，历史作答记录为“(1) 我们不能别人说什么就是什么，要有辨别意识。✅\n\n(2) 我们不能一味地模仿别人。❌”。历史参考答案为“(2) 不能**盲目**模仿，不能**不懂装懂**，要**虚心学习、掌握真正的本领**（不能只学皮毛）。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-606e633c00dcf56f95d0"
+        ],
+        "location": "第 1 题：《越车》文言文阅读",
+        "evidence": "(1) 我们不能别人说什么就是什么，要有辨别意识。✅\n\n(2) 我们不能一味地模仿别人。❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 1 题：《越车》文言文阅读",
+    "line": 7,
+    "end_line": 38,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  },
+  "question_context_hash": "edb05a964e4147c2fe41cebce5a650307ce8cc0db8742aac9c6edceb6f472489"
+}

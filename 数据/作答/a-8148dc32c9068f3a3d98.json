@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-8148dc32c9068f3a3d98",
+  "question_id": "q-8148dc32c9068f3a3d98",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "昆虫触角对人们的启发",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "人类从触角得到的启示（仿生学应用）",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：原文和填空图未保存；“样子/形态”“启发/启示”等能否替换需根据原文和评分标准判断。",
+    "errors": [
+      {
+        "error_type": "概括与推断",
+        "error_reason": "本题“根据文章内容完成结构梳理填空，本记录对应 ⑦。”，历史作答记录为“昆虫触角对人们的启发”。历史参考答案为“人类从触角得到的启示（仿生学应用）”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-e458d3919a1904f315bd"
+        ],
+        "location": "(3) 文章结构梳理填空",
+        "evidence": "昆虫触角对人们的启发",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (3) 文章结构梳理填空",
+    "line": 48,
+    "end_line": 74,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "3f423889b5a5a6df740a68b5f5b9299b3ce22a2d40918d75210aeeaf91cd33b3"
+}

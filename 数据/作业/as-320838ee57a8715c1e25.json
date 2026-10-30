@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "kind": "assignment",
+  "id": "as-320838ee57a8715c1e25",
+  "title": "数学错题集 · 有理数",
+  "date": null,
+  "coverage": "历史错题摘录",
+  "scope_note": "历史文档摘录，原作业其他题目、真实页码和原图未知。",
+  "pages": [
+    {
+      "id": "pg-320838ee57a8715c1e25",
+      "upload_order": 1,
+      "printed_page": null,
+      "label": "数学/有理数.md",
+      "image_path": null,
+      "sha256": null,
+      "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
+    }
+  ],
+  "expected_question_count": null,
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "# 数学错题集 · 有理数",
+    "line": 1,
+    "end_line": 1097,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  }
+}

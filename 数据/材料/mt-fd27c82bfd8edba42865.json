@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "kind": "material",
+  "id": "mt-fd27c82bfd8edba42865",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "title": "第 2 题：《父亲的游戏》记叙文阅读",
+  "text": "",
+  "completeness": "缺失",
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "### 第 2 题：《父亲的游戏》记叙文阅读",
+    "line": 74,
+    "end_line": 161,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

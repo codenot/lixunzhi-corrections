@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-ce21bf9af80879dba4d5",
+  "question_id": "q-ce21bf9af80879dba4d5",
+  "submission_id": "sub-ca58f2cdde898e805698",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ （填了错误答案）",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "待核实",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**low**\n\n完整句：Foods like chips, candy, and soda are high in sugar and fat but **low** in nutrients.",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：旧文没有保存学生具体填写内容；保留未知，不补写学生答案。",
+    "errors": [
+      {
+        "error_type": "词汇与搭配",
+        "error_reason": "本题“Foods like chips, candy, and soda are high in sugar and fat but \\___ in nutrients.”，历史作答记录为“❌ （填了错误答案）”。历史参考答案为“**low**\n\n完整句：Foods like chips, candy, and soda are high in sugar and fat but **low** in nutrients.”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-6333e07f8fcf5f411e3d"
+        ],
+        "location": "第 1 题",
+        "evidence": "❌ （填了错误答案）",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 1 题",
+    "line": 5,
+    "end_line": 36,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  },
+  "question_context_hash": "5daf16b0d53daa4100c5987b59f1972d88e1aec77b34f906c116d200e3ee53a8"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-e9240fbff30b570ebb51",
+  "question_id": "q-e9240fbff30b570ebb51",
+  "submission_id": "sub-aea149272975e9276ef1",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ B. Ten.",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**C. Six.**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "阅读信息理解",
+        "error_reason": "本题“By now, we have won 4 matches out of 6. How many matches has Timothy's team played so far? A. Four.   B. Ten.   C. Six.   D. Two.”，历史作答记录为“❌ B. Ten.”。历史参考答案为“**C. Six.**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-44473e2d4834fd2e018e"
+        ],
+        "location": "第 1 题",
+        "evidence": "❌ B. Ten.",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 1 题",
+    "line": 5,
+    "end_line": 36,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  },
+  "question_context_hash": "bf2b4fe6ac6b6f1865dc418e0a52c988b8ee9e7bba4555a9e4db9acff9404737"
+}

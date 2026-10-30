@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-da500deb1035f568fc5b",
+  "assignment_id": "as-f2fa3cb1b6f68256599a",
+  "page_id": "pg-f2fa3cb1b6f68256599a",
+  "original_number": "历史条目 3（原题号未知）",
+  "location": "第 3 题：加点字注音有误的一项",
+  "subject": "语文",
+  "chapter": "字词基础",
+  "prompt": "下列加点字注音有误的一项是（　）\n\nA. 派遣(qiǎn)　热忱(chén)　废墟(xū)　拈轻怕重(niān)\n\nB. 担子(dān)　狭隘(yì)　纯粹(cuì)　刨根问底(páo)\n\nC. 殉职(xùn)　教训(xùn)　延安(yán)　参差不齐(cī)\n\nD. 殖民(zhí)　鄙薄(bǐ)　呼啸(xiào)　见异思迁(qiān)",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-4c7fde22e0c5c56b1200"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-4c7fde22e0c5c56b1200",
+      "error_type": "字音判断"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**B ✅**\n\n**B 选项有两个明显错误：**\n- \"担子\"的\"担\"作名词时读 **dàn**，不是 dān（dān 是动词\"担负\"）\n- \"狭隘\"的\"隘\"读 **ài**，不是 yì\n\n**C 选项为什么不是答案：** \"教训\"的\"训\"确实读轻声 xun，但教材和考试中标成第四声 xùn 也算可接受，不算硬伤。",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "旧解释称“教训”标第四声在小学阶段可接受，缺少教材或评分依据。"
+    },
+    "verification": "待核实",
+    "note": "旧解释称“教训”标第四声在小学阶段可接受，缺少教材或评分依据。"
+  },
+  "provenance": {
+    "path": "语文/字词基础.md",
+    "section": "## 第 3 题：加点字注音有误的一项",
+    "line": 61,
+    "end_line": 103,
+    "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+  }
+}

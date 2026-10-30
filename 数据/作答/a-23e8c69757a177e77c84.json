@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-23e8c69757a177e77c84",
+  "question_id": "q-23e8c69757a177e77c84",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "\\(-\\dfrac{1}{4}\\) ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "-4/25",
+    "analysis": "(11/2)×(1/6)×(3/11)×(4/5)×4×(−1/5)=−4/25。结果不符可以确认，但不能仅凭 −1/4 断定约分位置。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "计算错误",
+        "error_reason": "针对“计算：\\(\\left|-5\\dfrac{1}{2}\\right|\\times\\left(\\dfrac{1}{2}-\\dfrac{1}{3}\\right)\\times\\dfrac{3}{11}\\div1\\dfrac{1}{4}\\times(-2)^2\\div(-5)\\)”，历史记录的作答为“\\(-\\dfrac{1}{4}\\) ❌”；复核说明：(11/2)×(1/6)×(3/11)×(4/5)×4×(−1/5)=−4/25。结果不符可以确认，但不能仅凭 −1/4 断定约分位置。",
+        "knowledge_point_ids": [
+          "k-9a3d8ba0f6940dc8512b"
+        ],
+        "location": "第 16 题",
+        "evidence": "\\(-\\dfrac{1}{4}\\) ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 16 题",
+    "line": 908,
+    "end_line": 959,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "be67e60cc8e2126fbd3cd41dc65d0a9a4d86ce112108213e4d8f1108a68af7ff"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-586cad9aeb60c49cdee0",
+  "assignment_id": "as-aea149272975e9276ef1",
+  "page_id": "pg-aea149272975e9276ef1",
+  "original_number": "历史条目 10（原题号未知）",
+  "location": "第 10 题",
+  "subject": "英语",
+  "chapter": "阅读理解",
+  "prompt": "After winning the silver medal at the first Youth Olympic Games, Yuki faced more challenges. What do you think happened next? Did he keep playing tennis?",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-9df340928bf5d85580f4"
+  ],
+  "knowledge_point_ids": [
+    "k-e966c4c4b4746315e836"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-e966c4c4b4746315e836",
+      "error_type": "写作任务完成"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**He recovered and continued playing tennis, winning more competitions.**",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "续写可能存在多种合理答案；became healthy 不应脱离语境被一律判为错误。"
+    },
+    "verification": "待核实",
+    "note": "续写可能存在多种合理答案；became healthy 不应脱离语境被一律判为错误。"
+  },
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 10 题",
+    "line": 302,
+    "end_line": 336,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  }
+}

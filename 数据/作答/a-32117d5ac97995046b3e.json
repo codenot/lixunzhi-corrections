@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-32117d5ac97995046b3e",
+  "question_id": "q-32117d5ac97995046b3e",
+  "submission_id": "sub-0aeb8b10755cac83ff11",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "山村 ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**山城，依山而建的城郭（外城）。**\"郭\"在古代指外城，不是村庄。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "词句理解",
+        "error_reason": "本题“解释词语：**山郭**（出自\"水村山郭酒旗风\"）”，历史作答记录为“山村 ❌”。历史参考答案为“**山城，依山而建的城郭（外城）。**\"郭\"在古代指外城，不是村庄。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-59bbc2ab18c17ace4242"
+        ],
+        "location": "第 2 题：《江南春》词语解释",
+        "evidence": "山村 ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 2 题：《江南春》词语解释",
+    "line": 39,
+    "end_line": 64,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  },
+  "question_context_hash": "a454b85442051d731d28e52fcd42c84b94d4cab6dd5bebd1ac37d945139cd922"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-c3d24f1da3a29e42f85c",
+  "question_id": "q-c3d24f1da3a29e42f85c",
+  "submission_id": "sub-f2fa3cb1b6f68256599a",
+  "submitted_at": "2025-10-21",
+  "recorded_at": "2026-10-30",
+  "student_answer": "A ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "待核实",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "B ✅\n\n**解析：** B 选项中\"结，是解不完的\"和\"人生中的问题也是解不完的\"是两个并列的分句，中间应该用**分号**（或句号），不能只用逗号。原句\"结，是解不完的，人生中的问题也是解不完的\"一逗到底，是典型的标点错误。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：保留原记录日期 2025-10-21。旧解析把并列分句必须用分号绝对化，不能据此直接判逗号错误，需原题和标准答案。",
+    "errors": [
+      {
+        "error_type": "标点使用",
+        "error_reason": "本题“下列语句中标点符号有误的一项是（　）  A. 静寂的草原热闹起来：欢呼声，车声，马蹄声，响成一片。  B. 结，是解不完的，人生中的问题也是解不完的。不然，岂不太平淡无味了吗？  C. 新中国的国旗——五星红旗在雄壮的《义勇军进行曲》中徐徐上升。  D. 两股\"红流\"分头向东城、西城的街道流去，光明充满了整个北京城。”，历史作答记录为“A ❌”。历史参考答案为“B ✅\n\n**解析：** B 选项中\"结，是解不完的\"和\"人生中的问题也是解不完的\"是两个并列的分句，中间应该用**分号**（或句号），不能只用逗号。原句\"结，是解不完的，人生中的问题也是解不完的\"一逗到底，是典型的标点错误。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-8b6111c50ffc082876a1"
+        ],
+        "location": "第 1 题：标点符号判断",
+        "evidence": "A ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/字词基础.md",
+    "section": "## 第 1 题：标点符号判断",
+    "line": 104,
+    "end_line": 164,
+    "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+  },
+  "question_context_hash": "7b54f278e2620e842631ed996e675466871943e9c665a386aaf441239ea20b00"
+}

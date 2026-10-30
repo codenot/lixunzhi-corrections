@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "kind": "assignment",
+  "id": "as-be53ae254c00811aaed0",
+  "title": "语文错题集 · 现代文阅读",
+  "date": null,
+  "coverage": "历史错题摘录",
+  "scope_note": "历史文档摘录，原作业其他题目、真实页码和原图未知。",
+  "pages": [
+    {
+      "id": "pg-be53ae254c00811aaed0",
+      "upload_order": 1,
+      "printed_page": null,
+      "label": "语文/现代文阅读.md",
+      "image_path": null,
+      "sha256": null,
+      "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
+    }
+  ],
+  "expected_question_count": null,
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "# 语文错题集 · 现代文阅读",
+    "line": 1,
+    "end_line": 394,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

@@ -1,0 +1,914 @@
+{
+  "version": 1,
+  "migrated_at": "2026-10-30",
+  "records": [
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 1 题",
+      "token": "1",
+      "question_id": "q-6c89156603e619d666a1",
+      "attempt_id": "a-6c89156603e619d666a1",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 2 题",
+      "token": "2",
+      "question_id": "q-6536bf9dffad7a42021f",
+      "attempt_id": "a-6536bf9dffad7a42021f",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 3 题",
+      "token": "3",
+      "question_id": "q-47aef8b26ab77e577cd7",
+      "attempt_id": "a-47aef8b26ab77e577cd7",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 4 题",
+      "token": "4",
+      "question_id": "q-da80448c314d73a4d1cb",
+      "attempt_id": "a-da80448c314d73a4d1cb",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 5 题",
+      "token": "5",
+      "question_id": "q-f05331a34b166eb8898d",
+      "attempt_id": "a-f05331a34b166eb8898d",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 6 题",
+      "token": "6",
+      "question_id": "q-eb96f2eede980481936e",
+      "attempt_id": "a-eb96f2eede980481936e",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 7 题",
+      "token": "7",
+      "question_id": "q-43640325f164a9abfc02",
+      "attempt_id": "a-43640325f164a9abfc02",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 8 题",
+      "token": "8",
+      "question_id": "q-ae9000abbabd379273a1",
+      "attempt_id": "a-ae9000abbabd379273a1",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 9 题",
+      "token": "9",
+      "question_id": "q-c706bff0f36b49bd4508",
+      "attempt_id": "a-c706bff0f36b49bd4508",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 10 题",
+      "token": "10",
+      "question_id": "q-4a42fc4cbbf751ee6e66",
+      "attempt_id": "a-4a42fc4cbbf751ee6e66",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 11 题",
+      "token": "11",
+      "question_id": "q-8c8fd20627cba2bcb31a",
+      "attempt_id": "a-8c8fd20627cba2bcb31a",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 12 题",
+      "token": "12",
+      "question_id": "q-58e2a5c05ecd4762cc4d",
+      "attempt_id": "a-58e2a5c05ecd4762cc4d",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 13 题",
+      "token": "13",
+      "question_id": "q-633c674870aa4dfeea4d",
+      "attempt_id": "a-633c674870aa4dfeea4d",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 14 题",
+      "token": "14",
+      "question_id": "q-290338ecc6a7a4378ed8",
+      "attempt_id": "a-290338ecc6a7a4378ed8",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 15 题",
+      "token": "15",
+      "question_id": "q-73dda3561fc56aa74146",
+      "attempt_id": "a-73dda3561fc56aa74146",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 16 题",
+      "token": "16",
+      "question_id": "q-23e8c69757a177e77c84",
+      "attempt_id": "a-23e8c69757a177e77c84",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 17 题",
+      "token": "17",
+      "question_id": "q-cdb2a94a3643a14043f0",
+      "attempt_id": "a-cdb2a94a3643a14043f0",
+      "admitted": true
+    },
+    {
+      "path": "数学/有理数.md",
+      "section": "## 第 18 题",
+      "token": "18",
+      "question_id": "q-79d10d1d6f70637e6b83",
+      "attempt_id": "a-79d10d1d6f70637e6b83",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 1 题",
+      "token": "1",
+      "question_id": "q-ce21bf9af80879dba4d5",
+      "attempt_id": "a-ce21bf9af80879dba4d5",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 2 题",
+      "token": "2",
+      "question_id": "q-6779939412e052522ed0",
+      "attempt_id": "a-6779939412e052522ed0",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 3 题",
+      "token": "3",
+      "question_id": "q-e93e74e2b7e3e9fafdbe",
+      "attempt_id": "a-e93e74e2b7e3e9fafdbe",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 4 题",
+      "token": "4",
+      "question_id": "q-a7b5c70ba1c46a85da2a",
+      "attempt_id": "a-a7b5c70ba1c46a85da2a",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 5 题",
+      "token": "5",
+      "question_id": "q-24f9707f86df2f80393e",
+      "attempt_id": "a-24f9707f86df2f80393e",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 6 题",
+      "token": "6",
+      "question_id": "q-3b64cc34c275acbf6d37",
+      "attempt_id": "a-3b64cc34c275acbf6d37",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 7 题",
+      "token": "7",
+      "question_id": "q-1d66831fa9e1dbf4df4b",
+      "attempt_id": "a-1d66831fa9e1dbf4df4b",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 8 题",
+      "token": "8",
+      "question_id": "q-b5b01bbcc79c269222d8",
+      "attempt_id": "a-b5b01bbcc79c269222d8",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 9 题",
+      "token": "9",
+      "question_id": "q-058d551ee8ca282f14e6",
+      "attempt_id": "a-058d551ee8ca282f14e6",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 10 题",
+      "token": "10",
+      "question_id": "q-8372f743a6bd191fbb46",
+      "attempt_id": "a-8372f743a6bd191fbb46",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 11 题",
+      "token": "11",
+      "question_id": "q-57c7faf0cb72a58ba96f",
+      "attempt_id": "a-57c7faf0cb72a58ba96f",
+      "admitted": true
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 12 题",
+      "token": "12-1",
+      "question_id": "q-525ff0a970c9c0a729f5",
+      "attempt_id": "a-525ff0a970c9c0a729f5",
+      "admitted": false
+    },
+    {
+      "path": "英语/词汇与语法.md",
+      "section": "## 第 12 题",
+      "token": "12-2",
+      "question_id": "q-be615087ee41870d5fc1",
+      "attempt_id": "a-be615087ee41870d5fc1",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 1 题",
+      "token": "1",
+      "question_id": "q-e9240fbff30b570ebb51",
+      "attempt_id": "a-e9240fbff30b570ebb51",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 2 题",
+      "token": "2",
+      "question_id": "q-8eb02b18308c228a70f2",
+      "attempt_id": "a-8eb02b18308c228a70f2",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 3 题",
+      "token": "3",
+      "question_id": "q-c5cc21d27fc4101aa87d",
+      "attempt_id": "a-c5cc21d27fc4101aa87d",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 4 题",
+      "token": "4",
+      "question_id": "q-4c7c3d93b9bf2269c52d",
+      "attempt_id": "a-4c7c3d93b9bf2269c52d",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 5 题",
+      "token": "5",
+      "question_id": "q-c2a2494c3e87d7f125b0",
+      "attempt_id": "a-c2a2494c3e87d7f125b0",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 6 题",
+      "token": "6",
+      "question_id": "q-7ce66db99221f7832ee4",
+      "attempt_id": "a-7ce66db99221f7832ee4",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 7 题",
+      "token": "7",
+      "question_id": "q-537cea47cfa140696a3b",
+      "attempt_id": "a-537cea47cfa140696a3b",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 8 题",
+      "token": "8",
+      "question_id": "q-181d1c2e3452a827a90a",
+      "attempt_id": "a-181d1c2e3452a827a90a",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 9 题",
+      "token": "9",
+      "question_id": "q-279864bd5bc55adede2c",
+      "attempt_id": "a-279864bd5bc55adede2c",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 10 题",
+      "token": "10",
+      "question_id": "q-586cad9aeb60c49cdee0",
+      "attempt_id": "a-586cad9aeb60c49cdee0",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 11 题",
+      "token": "11",
+      "question_id": "q-2e3a0fd7754870b1fb97",
+      "attempt_id": "a-2e3a0fd7754870b1fb97",
+      "admitted": true
+    },
+    {
+      "path": "英语/阅读理解.md",
+      "section": "## 第 12 题",
+      "token": "12",
+      "question_id": "q-2dd3d678f8be066f2039",
+      "attempt_id": "a-2dd3d678f8be066f2039",
+      "admitted": true
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 1 题：《越车》文言文阅读",
+      "token": "1",
+      "question_id": "q-0bd93ae5f265c17370c0",
+      "attempt_id": "a-0bd93ae5f265c17370c0",
+      "admitted": true
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 2 题：《江南春》词语解释",
+      "token": "2",
+      "question_id": "q-32117d5ac97995046b3e",
+      "attempt_id": "a-32117d5ac97995046b3e",
+      "admitted": true
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 3 题：《管鲍之交》古文翻译 —— 被动句",
+      "token": "3",
+      "question_id": "q-9babb1edcbb8e33b49fe",
+      "attempt_id": "a-9babb1edcbb8e33b49fe",
+      "admitted": true
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 4 题：《管鲍之交》人物形象概括",
+      "token": "4",
+      "question_id": "q-0c5fcf076f7301afc9ec",
+      "attempt_id": "a-0c5fcf076f7301afc9ec",
+      "admitted": true
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 5 题：《螳螂捕蝉》文言实词——\"取\"",
+      "token": "5",
+      "question_id": "q-6368276ad178543890fa",
+      "attempt_id": "a-6368276ad178543890fa",
+      "admitted": true
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+      "token": "6-1",
+      "question_id": "q-e500139ceb8ca6d50be7",
+      "attempt_id": "a-e500139ceb8ca6d50be7",
+      "admitted": false
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+      "token": "6-2",
+      "question_id": "q-f7b66d9b0853bb15b29e",
+      "attempt_id": "a-f7b66d9b0853bb15b29e",
+      "admitted": false
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+      "token": "6-3",
+      "question_id": "q-0e9b76091dd7b4939ee7",
+      "attempt_id": "a-0e9b76091dd7b4939ee7",
+      "admitted": false
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+      "token": "6-4",
+      "question_id": "q-ce92f049e2372290d27c",
+      "attempt_id": "a-ce92f049e2372290d27c",
+      "admitted": false
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+      "token": "6-5",
+      "question_id": "q-12f9bd4bf0dd06fc4dde",
+      "attempt_id": "a-12f9bd4bf0dd06fc4dde",
+      "admitted": false
+    },
+    {
+      "path": "语文/古诗文.md",
+      "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+      "token": "6-6",
+      "question_id": "q-94df0ef207a94c6e9849",
+      "attempt_id": "a-94df0ef207a94c6e9849",
+      "admitted": true
+    },
+    {
+      "path": "语文/病句修改.md",
+      "section": "## 第 1 题：成分残缺——\"具有\"后面缺宾语",
+      "token": "1",
+      "question_id": "q-766c2f27c5c51a5ff1a8",
+      "attempt_id": "a-766c2f27c5c51a5ff1a8",
+      "admitted": true
+    },
+    {
+      "path": "语文/字词基础.md",
+      "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+      "token": "2-1",
+      "question_id": "q-3007b4f6fef0fdee83c0",
+      "attempt_id": "a-3007b4f6fef0fdee83c0",
+      "admitted": false
+    },
+    {
+      "path": "语文/字词基础.md",
+      "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+      "token": "2-2",
+      "question_id": "q-8b3405f1dd9622045797",
+      "attempt_id": "a-8b3405f1dd9622045797",
+      "admitted": true
+    },
+    {
+      "path": "语文/字词基础.md",
+      "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+      "token": "2-3",
+      "question_id": "q-f25009a60d873a56881d",
+      "attempt_id": "a-f25009a60d873a56881d",
+      "admitted": true
+    },
+    {
+      "path": "语文/字词基础.md",
+      "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+      "token": "2-4",
+      "question_id": "q-ccde1d36f1207d36f8a1",
+      "attempt_id": "a-ccde1d36f1207d36f8a1",
+      "admitted": false
+    },
+    {
+      "path": "语文/字词基础.md",
+      "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+      "token": "2-5",
+      "question_id": "q-2b11f428752ed60527d5",
+      "attempt_id": "a-2b11f428752ed60527d5",
+      "admitted": false
+    },
+    {
+      "path": "语文/字词基础.md",
+      "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+      "token": "2-6",
+      "question_id": "q-7882fac67d684f993d88",
+      "attempt_id": "a-7882fac67d684f993d88",
+      "admitted": true
+    },
+    {
+      "path": "语文/字词基础.md",
+      "section": "## 第 3 题：加点字注音有误的一项",
+      "token": "3",
+      "question_id": "q-da500deb1035f568fc5b",
+      "attempt_id": "a-da500deb1035f568fc5b",
+      "admitted": true
+    },
+    {
+      "path": "语文/字词基础.md",
+      "section": "## 第 1 题：标点符号判断",
+      "token": "1",
+      "question_id": "q-c3d24f1da3a29e42f85c",
+      "attempt_id": "a-c3d24f1da3a29e42f85c",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (1) 引号的作用",
+      "token": "1-1",
+      "question_id": "q-4dfbdd45cc29c092dfbe",
+      "attempt_id": "a-4dfbdd45cc29c092dfbe",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (2) 开头讲故事的作用",
+      "token": "1-2",
+      "question_id": "q-7341a1b857a6b53729f1",
+      "attempt_id": "a-7341a1b857a6b53729f1",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (3) 文章结构梳理填空",
+      "token": "1-3-1",
+      "question_id": "q-247a81a137cfc22a0b3e",
+      "attempt_id": "a-247a81a137cfc22a0b3e",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (3) 文章结构梳理填空",
+      "token": "1-3-2",
+      "question_id": "q-6c721bf2413f25668d54",
+      "attempt_id": "a-6c721bf2413f25668d54",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (3) 文章结构梳理填空",
+      "token": "1-3-3",
+      "question_id": "q-8148dc32c9068f3a3d98",
+      "attempt_id": "a-8148dc32c9068f3a3d98",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (1) 概括 \"游戏\" 的内容和目的",
+      "token": "2-1-1",
+      "question_id": "q-4dd2a4b1df9a18c86956",
+      "attempt_id": "a-4dd2a4b1df9a18c86956",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (1) 概括 \"游戏\" 的内容和目的",
+      "token": "2-1-2",
+      "question_id": "q-921de134364019f37dbe",
+      "attempt_id": "a-921de134364019f37dbe",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (2) 描写方法及作用",
+      "token": "2-2-1",
+      "question_id": "q-6152b05c4c6db66df08c",
+      "attempt_id": "a-6152b05c4c6db66df08c",
+      "admitted": false
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (2) 描写方法及作用",
+      "token": "2-2-2",
+      "question_id": "q-75fcbe82875bf09a73f6",
+      "attempt_id": "a-75fcbe82875bf09a73f6",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (3) 标题的含义",
+      "token": "2-3",
+      "question_id": "q-4622b80471fd1682533c",
+      "attempt_id": "a-4622b80471fd1682533c",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (4) 主旨理解选择题",
+      "token": "2-4",
+      "question_id": "q-bec9d307f65f19114639",
+      "attempt_id": "a-bec9d307f65f19114639",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (1) 视角转换补写情节",
+      "token": "3-1-1",
+      "question_id": "q-e882ccfd044d486e699d",
+      "attempt_id": "a-e882ccfd044d486e699d",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (1) 视角转换补写情节",
+      "token": "3-1-2",
+      "question_id": "q-f945acd5942a38d861b4",
+      "attempt_id": "a-f945acd5942a38d861b4",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (1) 视角转换补写情节",
+      "token": "3-1-3",
+      "question_id": "q-0ca9c555f4715570e5c8",
+      "attempt_id": "a-0ca9c555f4715570e5c8",
+      "admitted": false
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (2) 句子赏析：\"是我的 ——\" 她气汹汹地嚷了半句，就扭过脸去。",
+      "token": "3-2",
+      "question_id": "q-5b2ab64fa64e91ae6ea7",
+      "attempt_id": "a-5b2ab64fa64e91ae6ea7",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (3) 标题 \"百合花\" 的含义",
+      "token": "3-3",
+      "question_id": "q-c12d4d9ba39c01055d33",
+      "attempt_id": "a-c12d4d9ba39c01055d33",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (1) 写作手法与内容理解选择题",
+      "token": "4-1",
+      "question_id": "q-b9925ba191821cf23bdd",
+      "attempt_id": "a-b9925ba191821cf23bdd",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (2) 二月兰精神内涵理解选择题",
+      "token": "4-2",
+      "question_id": "q-ca980a7738f447978e09",
+      "attempt_id": "a-ca980a7738f447978e09",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (1) 词语赏析——\"毛嘟嘟\"",
+      "token": "5-1",
+      "question_id": "q-fc05e8976858547c3ff6",
+      "attempt_id": "a-fc05e8976858547c3ff6",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (2) 内容概括——\"我\"在后园做的趣事",
+      "token": "5-2",
+      "question_id": "q-bf1742d46dee5895909e",
+      "attempt_id": "a-bf1742d46dee5895909e",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (3) 修辞手法判断——\"我一跨进这个门槛，我就出不来了！\"",
+      "token": "5-3-1",
+      "question_id": "q-f46ccda9b4362a4d9363",
+      "attempt_id": "a-f46ccda9b4362a4d9363",
+      "admitted": true
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (3) 修辞手法判断——\"我一跨进这个门槛，我就出不来了！\"",
+      "token": "5-3-2",
+      "question_id": "q-9b93d498d10f1bb6850d",
+      "attempt_id": "a-9b93d498d10f1bb6850d",
+      "admitted": false
+    },
+    {
+      "path": "语文/现代文阅读.md",
+      "section": "#### (4) 人物事件梳理——父亲\"惯\"出的\"野\"",
+      "token": "5-4",
+      "question_id": "q-b1360f374aae77d53052",
+      "attempt_id": "a-b1360f374aae77d53052",
+      "admitted": true
+    },
+    {
+      "path": "英语/写作.md",
+      "section": "## 第 1 题",
+      "token": "1",
+      "question_id": "q-4811132a327f38bf33a5",
+      "attempt_id": "a-4811132a327f38bf33a5",
+      "admitted": true
+    }
+  ],
+  "audit_notes": [
+    {
+      "question_id": "q-6c89156603e619d666a1",
+      "path": "数学/有理数.md",
+      "note": "若题干确为“需要满足”，A 与 C 都是必要条件，需核对原图的单选表述。"
+    },
+    {
+      "question_id": "q-6536bf9dffad7a42021f",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-47aef8b26ab77e577cd7",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-da80448c314d73a4d1cb",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-f05331a34b166eb8898d",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-eb96f2eede980481936e",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-43640325f164a9abfc02",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-ae9000abbabd379273a1",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-c706bff0f36b49bd4508",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-4a42fc4cbbf751ee6e66",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-8c8fd20627cba2bcb31a",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-58e2a5c05ecd4762cc4d",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-633c674870aa4dfeea4d",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-290338ecc6a7a4378ed8",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-73dda3561fc56aa74146",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-23e8c69757a177e77c84",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-cdb2a94a3643a14043f0",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-79d10d1d6f70637e6b83",
+      "path": "数学/有理数.md",
+      "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    {
+      "question_id": "q-ce21bf9af80879dba4d5",
+      "path": "英语/词汇与语法.md",
+      "note": "旧文没有保存学生具体填写内容；保留未知，不补写学生答案。"
+    },
+    {
+      "question_id": "q-e93e74e2b7e3e9fafdbe",
+      "path": "英语/词汇与语法.md",
+      "note": "jump for joy 与 jump with joy 的适用性需要结合原题要求核实，不能仅因不同于旧参考答案判错。"
+    },
+    {
+      "question_id": "q-24f9707f86df2f80393e",
+      "path": "英语/词汇与语法.md",
+      "note": "原文没有保留同义改写题的完整空格限制，需核实是否确实要求填写整句。"
+    },
+    {
+      "question_id": "q-3b64cc34c275acbf6d37",
+      "path": "英语/词汇与语法.md",
+      "note": "原题词表含 The，参考答案以 Go 开头，词表与答案可能不一致；需核对原图。"
+    },
+    {
+      "question_id": "q-57c7faf0cb72a58ba96f",
+      "path": "英语/词汇与语法.md",
+      "note": "feel good 与 feel well 的语义及题目限制需要核实，不能套用“系动词后用副词”的错误解释。"
+    },
+    {
+      "question_id": "q-c5cc21d27fc4101aa87d",
+      "path": "英语/阅读理解.md",
+      "note": "make it easier 中 easier 是形容词比较级，不是旧标签所称副词；选择仍需结合原文。"
+    },
+    {
+      "question_id": "q-537cea47cfa140696a3b",
+      "path": "英语/阅读理解.md",
+      "note": "短语作答是否扣分取决于题目要求；旧文转述老师要求“写完整”，原始评分依据待核实。"
+    },
+    {
+      "question_id": "q-181d1c2e3452a827a90a",
+      "path": "英语/阅读理解.md",
+      "note": "短语作答是否允许需核实题目要求，不能一律把非完整句判错。"
+    },
+    {
+      "question_id": "q-586cad9aeb60c49cdee0",
+      "path": "英语/阅读理解.md",
+      "note": "续写可能存在多种合理答案；became healthy 不应脱离语境被一律判为错误。"
+    },
+    {
+      "question_id": "q-2e3a0fd7754870b1fb97",
+      "path": "英语/阅读理解.md",
+      "note": "旧题面未保存给定词或选词范围，不能确定该空只能填 buying。"
+    },
+    {
+      "question_id": "q-2dd3d678f8be066f2039",
+      "path": "英语/阅读理解.md",
+      "note": "旧参考句 Wearing sports shoes and sunscreen are necessary 的主谓结构有疑点，需原图核实，不直接复用。"
+    },
+    {
+      "question_id": "q-94df0ef207a94c6e9849",
+      "path": "语文/古诗文.md",
+      "note": "旧文将⑤也描述为未答，与“我的答案”中⑤正确相矛盾；按作答段保留⑤正确、⑥历史漏答。"
+    },
+    {
+      "question_id": "q-f25009a60d873a56881d",
+      "path": "语文/字词基础.md",
+      "note": "旧记录把“数次”注作 shuò，需查可靠词典和原题；暂不判定学生 shù 错误。"
+    },
+    {
+      "question_id": "q-da500deb1035f568fc5b",
+      "path": "语文/字词基础.md",
+      "note": "旧解释称“教训”标第四声在小学阶段可接受，缺少教材或评分依据。"
+    },
+    {
+      "question_id": "q-c3d24f1da3a29e42f85c",
+      "path": "语文/字词基础.md",
+      "note": "保留原记录日期 2025-10-21。旧解析把并列分句必须用分号绝对化，不能据此直接判逗号错误，需原题和标准答案。"
+    },
+    {
+      "question_id": "q-247a81a137cfc22a0b3e",
+      "path": "语文/现代文阅读.md",
+      "note": "原文和填空图未保存；“样子/形态”“启发/启示”等能否替换需根据原文和评分标准判断。"
+    },
+    {
+      "question_id": "q-6c721bf2413f25668d54",
+      "path": "语文/现代文阅读.md",
+      "note": "原文和填空图未保存；“样子/形态”“启发/启示”等能否替换需根据原文和评分标准判断。"
+    },
+    {
+      "question_id": "q-8148dc32c9068f3a3d98",
+      "path": "语文/现代文阅读.md",
+      "note": "原文和填空图未保存；“样子/形态”“启发/启示”等能否替换需根据原文和评分标准判断。"
+    },
+    {
+      "question_id": "q-e882ccfd044d486e699d",
+      "path": "语文/现代文阅读.md",
+      "note": "原题情节图及学生完整答案缺失；旧参考答案可能超过每处20字，需重新核验。"
+    },
+    {
+      "question_id": "q-f945acd5942a38d861b4",
+      "path": "语文/现代文阅读.md",
+      "note": "原题情节图及学生完整答案缺失；旧参考答案可能超过每处20字，需重新核验。"
+    },
+    {
+      "question_id": "q-0ca9c555f4715570e5c8",
+      "path": "语文/现代文阅读.md",
+      "note": "原题情节图及学生完整答案缺失；旧参考答案可能超过每处20字，需重新核验。"
+    },
+    {
+      "question_id": "q-c12d4d9ba39c01055d33",
+      "path": "语文/现代文阅读.md",
+      "note": "“我的答案”只保留整理者评价，没有学生逐字作答。"
+    },
+    {
+      "question_id": "q-4811132a327f38bf33a5",
+      "path": "英语/写作.md",
+      "note": "按旧文全文以空白分词（数字计一词），学生 49 词，参考作文 71 词；原记录“约42词/约60词”不准确。末尾提问及一般现在时的自我介绍不能一律判错；按内容和题目要求判断。"
+    },
+    {
+      "question_id": "q-ed7f222bc160b9d610ed",
+      "path": "练习/语文/语文巩固练习-2026-10-05.md",
+      "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。旧解析“他不是真的开心”与喜极而泣及题面矛盾，不能继续复用。"
+    }
+  ]
+}

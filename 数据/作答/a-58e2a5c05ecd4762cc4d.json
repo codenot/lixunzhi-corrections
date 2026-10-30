@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-58e2a5c05ecd4762cc4d",
+  "question_id": "q-58e2a5c05ecd4762cc4d",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "\\(27\\) ❌（只写了一个）",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "±27",
+    "analysis": "x²=9 得 x=3 或 −3，故 x³=27 或 −27。零的平方根只有一个，不能把“任意平方条件都有两个解”当成规则。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "条件遗漏或误用",
+        "error_reason": "针对“一个数的平方等于 9，这个数的立方等于 ________。”，历史记录的作答为“\\(27\\) ❌（只写了一个）”；复核说明：x²=9 得 x=3 或 −3，故 x³=27 或 −27。零的平方根只有一个，不能把“任意平方条件都有两个解”当成规则。",
+        "knowledge_point_ids": [
+          "k-01fbce85c0148e90cb0a"
+        ],
+        "location": "第 12 题",
+        "evidence": "\\(27\\) ❌（只写了一个）",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 12 题",
+    "line": 680,
+    "end_line": 720,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "da0f67edcb7bf575bead3a978ea3b9b55e39abb4e25779a571af60095c85c8dd"
+}

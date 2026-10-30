@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-3a86e13c9c01059a8efb",
+  "assignment_id": "as-26bfcf12756b30083c07",
+  "page_id": "pg-26bfcf12756b30083c07",
+  "original_number": "练习 5 / 小题 2",
+  "location": "练习 5（对应错题 5 · 乘除混合）",
+  "subject": "数学",
+  "chapter": "历史巩固练习",
+  "prompt": "2. 小华的第一步写成了：\n   \\[\n   (-100) \\times \\dfrac{5}{2} \\times \\dfrac{3}{8} \\times \\left(-\\dfrac{1}{15}\\right)\n   \\]\n   他错在哪？请写出正确第一步。",
+  "content_status": "待核实",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-9a3d8ba0f6940dc8512b"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-9a3d8ba0f6940dc8512b",
+      "error_type": "计算错误"
+    }
+  ],
+  "assessment_kind": "同类变式",
+  "source_mistake_ids": [
+    "m-8ab8a3ec6a9c92fa7cdc"
+  ],
+  "origin": "历史练习",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "1.\n\\[\n\\begin{aligned}\n& (-100) \\div 2\\dfrac{1}{2} \\times \\dfrac{3}{8} \\div (-15) \\\\\n=& (-100) \\times \\dfrac{2}{5} \\times \\dfrac{3}{8} \\times \\left(-\\dfrac{1}{15}\\right) \\quad \\text{（负负得正，全部变乘）} \\\\\n=& \\dfrac{100 \\times 2 \\times 3}{5 \\times 8 \\times 15} \\\\\n=& \\dfrac{100}{5} \\times \\dfrac{2}{8} \\times \\dfrac{3}{15} = 20 \\times \\dfrac{1}{4} \\times \\dfrac{1}{5} \\\\\n=& 1\n\\end{aligned}\n\\]\n\n2. **小华错在：** \\(2\\dfrac{1}{2}\\) 化成假分数是 \\(\\dfrac{5}{2}\\)，**除以**它应**乘它的倒数** \\(\\dfrac{2}{5}\\)，他写成了 \\(\\times \\dfrac{5}{2}\\)——除法变乘法时忘了取倒数。\n   正确第一步：\n   \\[\n   (-100) \\times \\dfrac{2}{5} \\times \\dfrac{3}{8} \\times \\left(-\\dfrac{1}{15}\\right)\n   \\]\n\n**步骤口诀：** 一变（除变乘倒数）→ 二定号（负负得正）→ 三约分（能约尽约）→ 四计算。动笔前先核对题目数字是否抄对。",
+    "solution": "该小题对应的精确答案与评分要点待从分组解析核验。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "练习/数学/有理数巩固练习-2026-10-03.md 第二部分练习 5 答案"
+    },
+    "verification": "待核实",
+    "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。"
+  },
+  "provenance": {
+    "path": "练习/数学/有理数巩固练习-2026-10-03.md",
+    "section": "## 练习 5（对应错题 5 · 乘除混合）",
+    "line": 80,
+    "end_line": 94,
+    "sha256": "ca04666fab3f74a2fd3ba22cfea12d4c3a5c184cc406ae75f764aee17933c52c"
+  }
+}

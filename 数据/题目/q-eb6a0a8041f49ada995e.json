@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-eb6a0a8041f49ada995e",
+  "assignment_id": "as-26bfcf12756b30083c07",
+  "page_id": "pg-26bfcf12756b30083c07",
+  "original_number": "练习 2 / 小题 4",
+  "location": "练习 2（对应错题 2 · 说法判断）",
+  "subject": "数学",
+  "chapter": "历史巩固练习",
+  "prompt": "④ 若 \\(|a|=|b|\\)，则 \\(a=b\\)（　）",
+  "content_status": "待核实",
+  "material_ids": [
+    "mt-372d88108fa67631c754"
+  ],
+  "knowledge_point_ids": [
+    "k-eb6f6ec652cf2c327374"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-eb6f6ec652cf2c327374",
+      "error_type": "条件遗漏或误用"
+    }
+  ],
+  "assessment_kind": "同类变式",
+  "source_mistake_ids": [
+    "m-0d681593e7078e41b350"
+  ],
+  "origin": "历史练习",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "| 序号 | 对错 | 理由 / 反例 |\n| --- | --- | --- |\n| ① | ✗ | \\(a=b=0\\) 时 \\(\\frac{a}{b}\\) 无意义，不能做分母。正确说法应加 \\(a\\neq0\\) |\n| ② | ✓ | 偶数个负因数相抵，积为正 |\n| ③ | ✓ | 因数中只要有一个 0，积就是 0 |\n| ④ | ✗ | \\(|a|=|b|\\) 只能说明两数绝对值相等，\\(a=3,\\ b=-3\\) 时 \\(|a|=|b|\\) 但 \\(a\\neq b\\) |\n| ⑤ | ✓ | 交叉相乘：\\(\\frac{a}{b}=\\frac{c}{d}\\) ⇔ \\(ad=bc\\)（分母不为 0） |\n| ⑥ | ✓ | 和为 0 的两个数互为相反数 |\n\n**通用检查步骤：** 看到除法/分母 → 先问\"分母能为 0 吗？\"；看到等式变形 → 交叉相乘验证。",
+    "solution": "该小题对应的精确答案与评分要点待从分组解析核验。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "练习/数学/有理数巩固练习-2026-10-03.md 第二部分练习 2 答案"
+    },
+    "verification": "待核实",
+    "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。"
+  },
+  "provenance": {
+    "path": "练习/数学/有理数巩固练习-2026-10-03.md",
+    "section": "## 练习 2（对应错题 2 · 说法判断）",
+    "line": 28,
+    "end_line": 48,
+    "sha256": "ca04666fab3f74a2fd3ba22cfea12d4c3a5c184cc406ae75f764aee17933c52c"
+  }
+}

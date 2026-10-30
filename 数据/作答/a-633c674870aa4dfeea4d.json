@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-633c674870aa4dfeea4d",
+  "question_id": "q-633c674870aa4dfeea4d",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "\\(-\\dfrac{25}{8}\\) ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "-9/8",
+    "analysis": "代入 a=1/2,b=−2：(1/2−2)²÷(−2)=−9/8。只有终值，无法确认具体是哪一步代入出错。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "计算错误",
+        "error_reason": "针对“若\"\\(*\\)\"是一种新的运算符号，并且规定 \\(a*b=\\dfrac{(a+b)^2}{b}\\)，则 \\(0.5*(-2)=\\) ________。”，历史记录的作答为“\\(-\\dfrac{25}{8}\\) ❌”；复核说明：代入 a=1/2,b=−2：(1/2−2)²÷(−2)=−9/8。只有终值，无法确认具体是哪一步代入出错。",
+        "knowledge_point_ids": [
+          "k-5b9165334cd6bf43015d"
+        ],
+        "location": "第 13 题",
+        "evidence": "\\(-\\dfrac{25}{8}\\) ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 13 题",
+    "line": 721,
+    "end_line": 778,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "2b27b216050ac0ce8f37af4b093972c9a307db02490fc72cf1d7ae9f16f4a637"
+}

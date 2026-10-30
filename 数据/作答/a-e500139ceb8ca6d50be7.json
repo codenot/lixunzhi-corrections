@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-e500139ceb8ca6d50be7",
+  "question_id": "q-e500139ceb8ca6d50be7",
+  "submission_id": "sub-0aeb8b10755cac83ff11",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "树",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "树",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": []
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+    "line": 177,
+    "end_line": 209,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  },
+  "question_context_hash": "95896ffdbb6217dbfda75d4c6ca44f70403ed0269f44977d2f736031ca380b67"
+}

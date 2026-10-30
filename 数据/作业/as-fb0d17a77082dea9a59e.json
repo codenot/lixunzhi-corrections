@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "kind": "assignment",
+  "id": "as-fb0d17a77082dea9a59e",
+  "title": "语文练习 · 巩固（2026-10-05）",
+  "date": null,
+  "coverage": "指定范围",
+  "scope_note": "历史生成练习资料，尚无学生完成记录。",
+  "pages": [
+    {
+      "id": "pg-fb0d17a77082dea9a59e",
+      "upload_order": 1,
+      "printed_page": null,
+      "label": "练习/语文/语文巩固练习-2026-10-05.md",
+      "image_path": null,
+      "sha256": null,
+      "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
+    }
+  ],
+  "expected_question_count": null,
+  "provenance": {
+    "path": "练习/语文/语文巩固练习-2026-10-05.md",
+    "section": "# 语文练习 · 巩固（2026-10-05）",
+    "line": 1,
+    "end_line": 245,
+    "sha256": "184f1d0accc91d0ce0530d60882024d3714deb4487a73a4cd15da4de36f9b42d"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-335395d6ca75f666bc21",
+  "question_id": "q-94df0ef207a94c6e9849",
+  "admitted_attempt_id": "a-94df0ef207a94c6e9849",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "旧文将⑤也描述为未答，与“我的答案”中⑤正确相矛盾；按作答段保留⑤正确、⑥历史漏答。"
+}

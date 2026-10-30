@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-16bcb819d11c57ae95e6",
+  "assignment_id": "as-26bfcf12756b30083c07",
+  "page_id": "pg-26bfcf12756b30083c07",
+  "original_number": "练习 4 / 小题 1",
+  "location": "练习 4（对应错题 4 · 提负号变号）",
+  "subject": "数学",
+  "chapter": "历史巩固练习",
+  "prompt": "1. 填空：\n   - \\(-a-b=-(a\\ \\square\\ b)\\)，方框内填 **+ 或 −**\n   - \\(-a+b=-(a\\ \\square\\ b)\\)，方框内填 **+ 或 −**\n   - \\(-\\dfrac{1}{2}-\\dfrac{1}{3}=-\\left(\\dfrac{1}{2}\\ \\square\\ \\dfrac{1}{3}\\right)\\)，方框内填 **+ 或 −**",
+  "content_status": "待核实",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-729f95680193f1df42f4"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-729f95680193f1df42f4",
+      "error_type": "运算规则使用错误"
+    }
+  ],
+  "assessment_kind": "同类变式",
+  "source_mistake_ids": [
+    "m-d1c5e03d6449be976a5f"
+  ],
+  "origin": "历史练习",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "1. 依次填：**+**、**−**、**+**。\n   - \\(-a-b=-(a+b)\\)\n   - \\(-a+b=-(a-b)\\)\n   - \\(-\\frac{1}{2}-\\frac{1}{3}=-(\\frac{1}{2}+\\frac{1}{3})\\)\n\n2.\n\\[\n\\begin{aligned}\n-\\dfrac{5}{6}-\\dfrac{7}{12}-\\dfrac{1}{4}\n&= -\\left( \\dfrac{5}{6}+\\dfrac{7}{12}+\\dfrac{1}{4} \\right) \\\\\n&= -\\left( \\dfrac{10}{12}+\\dfrac{7}{12}+\\dfrac{3}{12} \\right) \\\\\n&= -\\dfrac{20}{12} \\\\\n&= -\\dfrac{5}{3}\n\\end{aligned}\n\\]\n\n**口诀：** 负号提出来，括号里全变号；加变减、减变加，正负别搞混。",
+    "solution": "该小题对应的精确答案与评分要点待从分组解析核验。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "练习/数学/有理数巩固练习-2026-10-03.md 第二部分练习 4 答案"
+    },
+    "verification": "待核实",
+    "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。"
+  },
+  "provenance": {
+    "path": "练习/数学/有理数巩固练习-2026-10-03.md",
+    "section": "## 练习 4（对应错题 4 · 提负号变号）",
+    "line": 67,
+    "end_line": 80,
+    "sha256": "ca04666fab3f74a2fd3ba22cfea12d4c3a5c184cc406ae75f764aee17933c52c"
+  }
+}

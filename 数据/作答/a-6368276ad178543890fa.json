@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-6368276ad178543890fa",
+  "question_id": "q-6368276ad178543890fa",
+  "submission_id": "sub-0aeb8b10755cac83ff11",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "吃 ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**捕捉、猎取（想要捉蝉）。**\n\n\"取\"在古文中有\"捕捉、拿取\"的意思，不是\"吃\"。螳螂在蝉后面是想要**捉**蝉来吃，\"取\"是\"捉、捕\"，不是\"吃\"。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "词句理解",
+        "error_reason": "本题“解释句中加点的词： **欲取蝉**”，历史作答记录为“吃 ❌”。历史参考答案为“**捕捉、猎取（想要捉蝉）。**\n\n\"取\"在古文中有\"捕捉、拿取\"的意思，不是\"吃\"。螳螂在蝉后面是想要**捉**蝉来吃，\"取\"是\"捉、捕\"，不是\"吃\"。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-59bbc2ab18c17ace4242"
+        ],
+        "location": "第 5 题：《螳螂捕蝉》文言实词——\"取\"",
+        "evidence": "吃 ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 5 题：《螳螂捕蝉》文言实词——\"取\"",
+    "line": 144,
+    "end_line": 176,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  },
+  "question_context_hash": "b787cc4b8fd8c8d41b490adf09e187f641e692e44ed395077b37cd10aad2fd87"
+}

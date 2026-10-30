@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-580d54c4fb6627a9c720",
+  "question_id": "q-f945acd5942a38d861b4",
+  "admitted_attempt_id": "a-f945acd5942a38d861b4",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "原题情节图及学生完整答案缺失；旧参考答案可能超过每处20字，需重新核验。"
+}

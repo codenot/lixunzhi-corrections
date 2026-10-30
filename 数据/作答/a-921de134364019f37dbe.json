@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-921de134364019f37dbe",
+  "question_id": "q-921de134364019f37dbe",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "让儿子和妻子相信他的肺病好了，不让……（旧文仅保留片段）",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "让家人相信他的肺病好了、使家人放心；其他动机需结合原文核实。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "答案要点缺漏",
+        "error_reason": "本题“用简洁的语言概括父亲做此游戏的目的。”，历史作答记录为“让儿子和妻子相信他的肺病好了，不让……（旧文仅保留片段）”。历史参考答案为“让家人相信他的肺病好了、使家人放心；其他动机需结合原文核实。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-149df03d4e075d6a95f6"
+        ],
+        "location": "(1) 概括 \"游戏\" 的内容和目的",
+        "evidence": "让儿子和妻子相信他的肺病好了，不让……（旧文仅保留片段）",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (1) 概括 \"游戏\" 的内容和目的",
+    "line": 81,
+    "end_line": 105,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "a7f51e1160451c54d6c7aae43d881816d9eb6e1731d0f24f66b6b91fc8e0e64e"
+}

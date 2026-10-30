@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-f25009a60d873a56881d",
+  "question_id": "q-f25009a60d873a56881d",
+  "submission_id": "sub-f2fa3cb1b6f68256599a",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "shù",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "待核实",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "shuò（旧记录，待核实）",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：旧记录把“数次”注作 shuò，需查可靠词典和原题；暂不判定学生 shù 错误。",
+    "errors": [
+      {
+        "error_type": "字音判断",
+        "error_reason": "本题“给“数次”中的多音字注音。  原题上下文： 读句子，给下列加点的多音字注音：  (1) 自从做了语文课代表这一差（　）使，我的语文成绩也算是差（　）强人意了。  (2) 校足球队已经数（　）次取得好成绩，成为区里数（　）一数二的强队。  (4) 自从他的腿摔骨折（　）了就再也不折（　）腾了，只能乖乖待在家里。”，历史作答记录为“shù”。历史参考答案为“shuò（旧记录，待核实）”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-bdf0cdb10f52785dc692"
+        ],
+        "location": "第 2 题：多音字注音（差 / 数 / 折）",
+        "evidence": "shù",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/字词基础.md",
+    "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+    "line": 7,
+    "end_line": 60,
+    "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+  },
+  "question_context_hash": "cebaf0833612a361a6bfebd78ae7245a110750e2776115d6209ed9e1be4310ca"
+}

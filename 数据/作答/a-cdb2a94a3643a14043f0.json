@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-cdb2a94a3643a14043f0",
+  "question_id": "q-cdb2a94a3643a14043f0",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "\\(-41.1\\) ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "-248/5",
+    "analysis": "(7/10)×(13/9+5/9)−17×(11/4+1/4)=7/5−51=−248/5=−49.6。旧文猜测系数变成 1/2 会得到 −7.1，并不能解释 −41.1，撤回该归因。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "计算错误",
+        "error_reason": "针对“计算：\\(0.7\\times1\\dfrac{4}{9}+2\\dfrac{3}{4}\\times(-17)+0.7\\times\\dfrac{5}{9}+\\dfrac{1}{4}\\times(-17)\\)”，历史记录的作答为“\\(-41.1\\) ❌”；复核说明：(7/10)×(13/9+5/9)−17×(11/4+1/4)=7/5−51=−248/5=−49.6。旧文猜测系数变成 1/2 会得到 −7.1，并不能解释 −41.1，撤回该归因。",
+        "knowledge_point_ids": [
+          "k-f018c2379a5b63a04a63"
+        ],
+        "location": "第 17 题",
+        "evidence": "\\(-41.1\\) ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 17 题",
+    "line": 960,
+    "end_line": 1013,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "83a27c7378b917409f88fccb21321c3c1274d71f03a4912745106709810d7119"
+}

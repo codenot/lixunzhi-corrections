@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-8372f743a6bd191fbb46",
+  "question_id": "q-8372f743a6bd191fbb46",
+  "submission_id": "sub-ca58f2cdde898e805698",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ A. school",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**D. good**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "待分类",
+        "error_reason": "本题“选出画线部分发音不同的单词。  A. sch**oo**l   B. t**oo**th   C. f**oo**d   D. g**oo**d”，历史作答记录为“❌ A. school”。历史参考答案为“**D. good**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-6d3f4afc6cf860ab9c59"
+        ],
+        "location": "第 10 题",
+        "evidence": "❌ A. school",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 10 题",
+    "line": 295,
+    "end_line": 333,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  },
+  "question_context_hash": "ea292f900786e20155e72569b5534adbba88d7afaa1106789e5b1b2b6d799b4a"
+}

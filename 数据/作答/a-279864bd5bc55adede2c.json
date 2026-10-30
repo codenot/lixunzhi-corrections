@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-279864bd5bc55adede2c",
+  "question_id": "q-279864bd5bc55adede2c",
+  "submission_id": "sub-aea149272975e9276ef1",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ Because he **get** hurt during the match.",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**Because he got hurt during the match.**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "时态与语态",
+        "error_reason": "本题“Why did Yuki stop playing in the finals of the first Youth Olympic Games?”，历史作答记录为“❌ Because he **get** hurt during the match.”。历史参考答案为“**Because he got hurt during the match.**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-0e5cbb3e6110543ac4f3"
+        ],
+        "location": "第 9 题",
+        "evidence": "❌ Because he **get** hurt during the match.",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 9 题",
+    "line": 267,
+    "end_line": 301,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  },
+  "question_context_hash": "5c2f59e051e83e58d45cd380ef16b27d6f23bd9539c46e157c76c2c43494b910"
+}

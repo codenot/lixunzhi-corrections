@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-9e4a16a09847faf16457",
+  "question_id": "q-da500deb1035f568fc5b",
+  "admitted_attempt_id": "a-da500deb1035f568fc5b",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "旧解释称“教训”标第四声在小学阶段可接受，缺少教材或评分依据。"
+}

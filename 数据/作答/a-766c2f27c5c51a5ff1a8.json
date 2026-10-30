@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-766c2f27c5c51a5ff1a8",
+  "question_id": "q-766c2f27c5c51a5ff1a8",
+  "submission_id": "sub-83a561179bdeb54ec381",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "D ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**C ✅**\n\n**C 句的问题：** \"具有快速阅读、捕捉有效信息\"——\"具有\"这个动词后面没有宾语中心语。应该说\"具有快速阅读、捕捉有效信息**的能力**\"。\n\nD 句\"切忌胡编乱造\"是正确的，没有语病。\"切忌\"= 务必不要，后面直接跟错误行为，用法正确。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "语法与病句",
+        "error_reason": "本题“下列各项中，有语病的一项是（　）  A. 上海铁路局宣布将加开 30 对临时客车，用于疏通国庆长假的客流。  B. 当前物价上涨形势必须引起高度重视，要千方百计保持物价总水平的基本稳定。  C. 在信息时代，一个人是否具有快速阅读、捕捉有效信息决定着他成就的大小。  D. 同学们写作文，要细心观察各种事物和现象，要有真情实感，切忌胡编乱造。”，历史作答记录为“D ❌”。历史参考答案为“**C ✅**\n\n**C 句的问题：** \"具有快速阅读、捕捉有效信息\"——\"具有\"这个动词后面没有宾语中心语。应该说\"具有快速阅读、捕捉有效信息**的能力**\"。\n\nD 句\"切忌胡编乱造\"是正确的，没有语病。\"切忌\"= 务必不要，后面直接跟错误行为，用法正确。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-4ec69691abd73867c2a6"
+        ],
+        "location": "第 1 题：成分残缺——\"具有\"后面缺宾语",
+        "evidence": "D ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/病句修改.md",
+    "section": "## 第 1 题：成分残缺——\"具有\"后面缺宾语",
+    "line": 7,
+    "end_line": 52,
+    "sha256": "c3ded915d148126fb60c580196203c39f48ca190538009d5c9735b167985792a"
+  },
+  "question_context_hash": "783e57900ee40bb54dd69897a7a7b153b3f3126ccb7c7df085d058acba1f7aa0"
+}

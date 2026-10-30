@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-9babb1edcbb8e33b49fe",
+  "question_id": "q-9babb1edcbb8e33b49fe",
+  "submission_id": "sub-0aeb8b10755cac83ff11",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "B ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**C ✅**（C 才是理解错误的那一项）",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "词句理解",
+        "error_reason": "本题“下列对乙文语句理解不正确的一项是（　）  A. \"分财利多自与\" = 管仲分配财物时多给自己。 B. \"鲍叔不以我为贪\" = 鲍叔牙不认为我是贪婪的。 C. \"吾尝三仕三见逐于君\" = 我曾经三次做官三次见到君王驱逐。 D. \"知我者鲍子也\" = 懂我的人是鲍叔牙啊。”，历史作答记录为“B ❌”。历史参考答案为“**C ✅**（C 才是理解错误的那一项）”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-0aea8358ec9fa2310f69"
+        ],
+        "location": "第 3 题：《管鲍之交》古文翻译 —— 被动句",
+        "evidence": "B ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 3 题：《管鲍之交》古文翻译 —— 被动句",
+    "line": 65,
+    "end_line": 108,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  },
+  "question_context_hash": "81d5f403c111c445b58b759f3f29e87633bd012bdcbe838402821428832b3855"
+}

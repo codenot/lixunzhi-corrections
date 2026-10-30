@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-e9240fbff30b570ebb51",
+  "assignment_id": "as-aea149272975e9276ef1",
+  "page_id": "pg-aea149272975e9276ef1",
+  "original_number": "历史条目 1（原题号未知）",
+  "location": "第 1 题",
+  "subject": "英语",
+  "chapter": "阅读理解",
+  "prompt": "By now, we have won 4 matches out of 6. How many matches has Timothy's team played so far?\nA. Four.   B. Ten.   C. Six.   D. Two.",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-44473e2d4834fd2e018e"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-44473e2d4834fd2e018e",
+      "error_type": "阅读信息理解"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**C. Six.**",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 英语/阅读理解.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 1 题",
+    "line": 5,
+    "end_line": 36,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  }
+}

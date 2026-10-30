@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-6152b05c4c6db66df08c",
+  "question_id": "q-6152b05c4c6db66df08c",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "动作描写",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "动作描写",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": []
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (2) 描写方法及作用",
+    "line": 105,
+    "end_line": 127,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "7b6617d8ffd18af67b2565916ad61a62522a77523d4ea11887b810fe18bcf636"
+}

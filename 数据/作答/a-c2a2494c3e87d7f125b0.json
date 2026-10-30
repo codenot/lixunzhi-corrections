@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-c2a2494c3e87d7f125b0",
+  "question_id": "q-c2a2494c3e87d7f125b0",
+  "submission_id": "sub-aea149272975e9276ef1",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ C. when",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**A. before**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "词汇与搭配",
+        "error_reason": "本题“Just remember to warm up \\___ starting. A. before   B. after   C. when   D. while”，历史作答记录为“❌ C. when”。历史参考答案为“**A. before**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-15236f36a971596734a8"
+        ],
+        "location": "第 5 题",
+        "evidence": "❌ C. when",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 5 题",
+    "line": 136,
+    "end_line": 167,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  },
+  "question_context_hash": "949572153df2c84511d8428dfe26991d268609916455cb55a5673d5327c8ac09"
+}

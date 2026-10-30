@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-d59d6c2c30e7c8d50657",
+  "question_id": "q-4a42fc4cbbf751ee6e66",
+  "admitted_attempt_id": "a-4a42fc4cbbf751ee6e66",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+}

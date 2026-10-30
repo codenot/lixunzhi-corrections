@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-fc05e8976858547c3ff6",
+  "question_id": "q-fc05e8976858547c3ff6",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "这句话中\"毛嘟嘟\"写出了狗尾草的样子。❌（不完整）",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "\"毛嘟嘟\"是 **ABB 式叠词**，生动形象地写出了狗尾草**毛茸茸、圆滚滚的样子**，读起来亲切又可爱；同时体现了小时候的\"我\"在园子里观察事物时那种**天真、童趣的眼光**，表达了作者对童年园子生活的喜爱和怀念。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "答案要点缺漏",
+        "error_reason": "本题“联系加点词，分析文中画线句\"狗尾草却没有，只是毛嘟嘟的，很像狗尾巴\"的语言表现力。”，历史作答记录为“这句话中\"毛嘟嘟\"写出了狗尾草的样子。❌（不完整）”。历史参考答案为“\"毛嘟嘟\"是 **ABB 式叠词**，生动形象地写出了狗尾草**毛茸茸、圆滚滚的样子**，读起来亲切又可爱；同时体现了小时候的\"我\"在园子里观察事物时那种**天真、童趣的眼光**，表达了作者对童年园子生活的喜爱和怀念。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-60597588ac569b05202f"
+        ],
+        "location": "(1) 词语赏析——\"毛嘟嘟\"",
+        "evidence": "这句话中\"毛嘟嘟\"写出了狗尾草的样子。❌（不完整）",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (1) 词语赏析——\"毛嘟嘟\"",
+    "line": 307,
+    "end_line": 329,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "7cf45221b99483eb5165cf7348a0f16237649c9e70fc147b4c1a5c498bdd00ea"
+}

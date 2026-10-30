@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "kind": "assignment",
+  "id": "as-feb004f54e8005ce3501",
+  "title": "英语错题集 · 写作",
+  "date": null,
+  "coverage": "历史错题摘录",
+  "scope_note": "历史文档摘录，原作业其他题目、真实页码和原图未知。",
+  "pages": [
+    {
+      "id": "pg-feb004f54e8005ce3501",
+      "upload_order": 1,
+      "printed_page": null,
+      "label": "英语/写作.md",
+      "image_path": null,
+      "sha256": null,
+      "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
+    }
+  ],
+  "expected_question_count": null,
+  "provenance": {
+    "path": "英语/写作.md",
+    "section": "# 英语错题集 · 写作",
+    "line": 1,
+    "end_line": 42,
+    "sha256": "a049e8a64688f5f2b781c23c260ddae6872c99838b4a28ce1e195968efbdfb28"
+  }
+}

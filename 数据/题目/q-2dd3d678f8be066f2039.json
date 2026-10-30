@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-2dd3d678f8be066f2039",
+  "assignment_id": "as-aea149272975e9276ef1",
+  "page_id": "pg-aea149272975e9276ef1",
+  "original_number": "历史条目 12（原题号未知）",
+  "location": "第 12 题",
+  "subject": "英语",
+  "chapter": "阅读理解",
+  "prompt": "Third, \\___ sports shoes and sunscreen are necessary.",
+  "content_status": "待核实",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-2468a77113a31447e2f2"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-2468a77113a31447e2f2",
+      "error_type": "句子结构"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**Wearing**\n\n完整句：**Wearing** sports shoes and sunscreen are necessary.",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "旧参考句 Wearing sports shoes and sunscreen are necessary 的主谓结构有疑点，需原图核实，不直接复用。"
+    },
+    "verification": "待核实",
+    "note": "旧参考句 Wearing sports shoes and sunscreen are necessary 的主谓结构有疑点，需原图核实，不直接复用。"
+  },
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 12 题",
+    "line": 375,
+    "end_line": 406,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-da80448c314d73a4d1cb",
+  "assignment_id": "as-320838ee57a8715c1e25",
+  "page_id": "pg-320838ee57a8715c1e25",
+  "original_number": "历史条目 4（原题号未知）",
+  "location": "第 4 题",
+  "subject": "数学",
+  "chapter": "有理数",
+  "prompt": "计算：\\(\\dfrac{4}{9} + (-7.4) + \\left(-2\\dfrac{5}{12}\\right) + \\left(-\\dfrac{4}{9}\\right)\\)",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-729f95680193f1df42f4"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-729f95680193f1df42f4",
+      "error_type": "运算规则使用错误"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "-589/60",
+    "solution": "抵消 4/9 与 −4/9；−37/5−29/12=−(444+145)/60=−589/60。旧解 −299/60 与正确值相差 290/60，不是 290。",
+    "basis": {
+      "kind": "AI解答",
+      "evidence": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    "verification": "已核验",
+    "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+  },
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 4 题",
+    "line": 172,
+    "end_line": 236,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  }
+}

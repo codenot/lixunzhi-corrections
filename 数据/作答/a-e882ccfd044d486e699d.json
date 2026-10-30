@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-e882ccfd044d486e699d",
+  "question_id": "q-e882ccfd044d486e699d",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "有两个让我把我的被子嫁妆借给他们",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "通讯员来我家借被子，我舍不得但还是借了。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：原题情节图及学生完整答案缺失；旧参考答案可能超过每处20字，需重新核验。",
+    "errors": [
+      {
+        "error_type": "答案要点缺漏",
+        "error_reason": "本题“以新媳妇的视角，把故事情节补充完整（每处不超过 20 字） 本记录对应第 1 处。”，历史作答记录为“有两个让我把我的被子嫁妆借给他们”。历史参考答案为“通讯员来我家借被子，我舍不得但还是借了。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-72600c329457e29e13c1"
+        ],
+        "location": "(1) 视角转换补写情节",
+        "evidence": "有两个让我把我的被子嫁妆借给他们",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (1) 视角转换补写情节",
+    "line": 169,
+    "end_line": 191,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "0762d8180ab31b1e8428eaadd90f35861f316a62f13a77f394f18453e5922057"
+}

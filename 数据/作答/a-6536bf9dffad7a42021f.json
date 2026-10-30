@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-6536bf9dffad7a42021f",
+  "question_id": "q-6536bf9dffad7a42021f",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "选了 C（3个），漏判了说法① ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "B（4 个）",
+    "analysis": "错误说法为①③④⑤。①相反数可同时为 0，除法无意义；③含零因数时积为 0；④两点距离和的最小值为 6；⑤用 a=2,b=4,c=3,d=6 可反证。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "条件遗漏或误用",
+        "error_reason": "针对“现有下列说法：\n\n① 若 \\(a、b\\) 互为相反数，则 \\(\\dfrac{a}{b}=-1\\)；  \n② 若 \\(b<0<a\\)，且 |a|<|b|，则 \\(|a+b|=-|a|+|b|\\)；  \n③ 几个有理数相乘，如果负乘数的个数为奇数个，那么积为负；  \n④ 当 \\(x=1\\) 时，\\(|x”，历史记录的作答为“选了 C（3个），漏判了说法① ❌”；复核说明：错误说法为①③④⑤。①相反数可同时为 0，除法无意义；③含零因数时积为 0；④两点距离和的最小值为 6；⑤用 a=2,b=4,c=3,d=6 可反证。",
+        "knowledge_point_ids": [
+          "k-eb6f6ec652cf2c327374"
+        ],
+        "location": "第 2 题",
+        "evidence": "选了 C（3个），漏判了说法① ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 2 题",
+    "line": 49,
+    "end_line": 107,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "d73abc6a26bb9b16428c180975a13d7818c5da292a03df3e31293274804a2946"
+}

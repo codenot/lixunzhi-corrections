@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "kind": "assignment",
+  "id": "as-0aeb8b10755cac83ff11",
+  "title": "语文错题集 · 古诗文",
+  "date": null,
+  "coverage": "历史错题摘录",
+  "scope_note": "历史文档摘录，原作业其他题目、真实页码和原图未知。",
+  "pages": [
+    {
+      "id": "pg-0aeb8b10755cac83ff11",
+      "upload_order": 1,
+      "printed_page": null,
+      "label": "语文/古诗文.md",
+      "image_path": null,
+      "sha256": null,
+      "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
+    }
+  ],
+  "expected_question_count": null,
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "# 语文错题集 · 古诗文",
+    "line": 1,
+    "end_line": 209,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-eb96f2eede980481936e",
+  "question_id": "q-eb96f2eede980481936e",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-08",
+  "recorded_at": "2026-10-30",
+  "student_answer": "\\[\n\\begin{aligned}\n& 3 \\times (-5) - (-25) \\div 5 \\\\\n=& -15 + 25 \\times 5 \\\\\n=& 125 - 15 \\\\\n=& 110\n\\end{aligned}\n\\]",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "-10",
+    "analysis": "3×(−5)−(−25)÷5=−15+25÷5=−15+5=−10。先将外部两个负号化为正号合法；错误是将 ÷5 改成 ×5。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "运算规则使用错误",
+        "error_reason": "针对“计算：\\(3 \\times (-5) - (-25) \\div 5\\)”，历史记录的作答为“\\[\n\\begin{aligned}\n& 3 \\times (-5) - (-25) \\div 5 \\\\\n=& -15 + 25 \\times 5 \\\\\n=& 125 - 15 \\\\\n=& 110\n\\end{aligned}\n\\]”；复核说明：3×(−5)−(−25)÷5=−15+25÷5=−15+5=−10。先将外部两个负号化为正号合法；错误是将 ÷5 改成 ×5。",
+        "knowledge_point_ids": [
+          "k-7e6da426c5720b4b4339"
+        ],
+        "location": "第 6 题",
+        "evidence": "\\[\n\\begin{aligned}\n& 3 \\times (-5) - (-25) \\div 5 \\\\\n=& -15 + 25 \\times 5 \\\\\n=& 125 - 15 \\\\\n=& 110\n\\end{aligned}\n\\]",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 6 题",
+    "line": 294,
+    "end_line": 354,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "d946bcf83d37991cd7126350b680d49b13d93953d0d739540f2dcb2f3d3fe9e8"
+}

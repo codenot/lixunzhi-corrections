@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-f05331a34b166eb8898d",
+  "question_id": "q-f05331a34b166eb8898d",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "\\[\n\\begin{aligned}\n&= 8\\mathbf{0} \\times \\dfrac{4}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{15} \\\\\n&= \\dfrac{320}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{15} \\\\\n&= \\dfrac{64}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{3} \\\\\n&= \\dfrac{256}{81} \\times \\dfrac{1}{3} \\\\\n&= \\dfrac{256}{243} = 1\\dfrac{13}{243}\n\\end{aligned}\n\\]",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "16/15",
+    "analysis": "除以 9/4 改为乘 4/9；两个负号抵消，81 与 9×9 约分，结果为 16/15。是否抄成 80 仍需原图确认。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "计算错误",
+        "error_reason": "针对“计算：\\((-81) \\div 2\\dfrac{1}{4} \\times \\dfrac{4}{9} \\div (-15)\\)”，历史记录的作答为“\\[\n\\begin{aligned}\n&= 8\\mathbf{0} \\times \\dfrac{4}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{15} \\\\\n&= \\dfrac{320}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{15} \\\\\n&= \\dfrac{64}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{3} \\\\\n&= \\dfrac{256}{81} \\times \\dfrac{1}{3} \\\\\n&= \\dfrac{256}{243} = 1\\dfrac{13}{243}\n\\end{aligned}\n\\]”；复核说明：除以 9/4 改为乘 4/9；两个负号抵消，81 与 9×9 约分，结果为 16/15。是否抄成 80 仍需原图确认。",
+        "knowledge_point_ids": [
+          "k-9a3d8ba0f6940dc8512b"
+        ],
+        "location": "第 5 题",
+        "evidence": "\\[\n\\begin{aligned}\n&= 8\\mathbf{0} \\times \\dfrac{4}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{15} \\\\\n&= \\dfrac{320}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{15} \\\\\n&= \\dfrac{64}{9} \\times \\dfrac{4}{9} \\times \\dfrac{1}{3} \\\\\n&= \\dfrac{256}{81} \\times \\dfrac{1}{3} \\\\\n&= \\dfrac{256}{243} = 1\\dfrac{13}{243}\n\\end{aligned}\n\\]",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 5 题",
+    "line": 237,
+    "end_line": 293,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "c2958ee510d01259536eec7e4a8b4bb54c61aecbdfe5fa6bf79e6cf21d06a330"
+}

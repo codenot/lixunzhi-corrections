@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-0bd93ae5f265c17370c0",
+  "assignment_id": "as-0aeb8b10755cac83ff11",
+  "page_id": "pg-0aeb8b10755cac83ff11",
+  "original_number": "历史条目 1（原题号未知）",
+  "location": "第 1 题：《越车》文言文阅读",
+  "subject": "语文",
+  "chapter": "古诗文",
+  "prompt": "我们可以从越人身上吸取哪些教训？（4 分）",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-888a961ed42cfd216629"
+  ],
+  "knowledge_point_ids": [
+    "k-606e633c00dcf56f95d0"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-606e633c00dcf56f95d0",
+      "error_type": "答案要点缺漏"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "(2) 不能**盲目**模仿，不能**不懂装懂**，要**虚心学习、掌握真正的本领**（不能只学皮毛）。",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 语文/古诗文.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 1 题：《越车》文言文阅读",
+    "line": 7,
+    "end_line": 38,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  }
+}

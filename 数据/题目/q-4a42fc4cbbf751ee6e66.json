@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-4a42fc4cbbf751ee6e66",
+  "assignment_id": "as-320838ee57a8715c1e25",
+  "page_id": "pg-320838ee57a8715c1e25",
+  "original_number": "历史条目 10（原题号未知）",
+  "location": "第 10 题",
+  "subject": "数学",
+  "chapter": "有理数",
+  "prompt": "已知有理数 \\(a、b、c\\) 满足 \\(a+b+c=0\\)，\\(abc<0\\)，\\(x=\\dfrac{b+c}{|a|}+\\dfrac{a+c}{|b|}+\\dfrac{a+b}{|c|}\\)，则 \\(x^{2023}\\) 的值为（　）\n\n- A. \\(1\\)\n- B. \\(-1\\)\n- C. \\(3^{2023}\\)\n- D. \\(-3^{2023}\\)",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-5446601d90dde6b3f894"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-5446601d90dde6b3f894",
+      "error_type": "概念或性质应用错误"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "B（−1）",
+    "solution": "abc<0 且 a+b+c=0，所以恰有一负两正。x=−a/|a|−b/|b|−c/|c|=1−1−1=−1，奇次幂仍为 −1。旧推导中将负数对应项写成 −1 有误。",
+    "basis": {
+      "kind": "AI解答",
+      "evidence": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    "verification": "已核验",
+    "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+  },
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 10 题",
+    "line": 549,
+    "end_line": 625,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  }
+}

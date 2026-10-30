@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "kind": "material",
+  "id": "mt-372d88108fa67631c754",
+  "assignment_id": "as-26bfcf12756b30083c07",
+  "title": "练习 2（对应错题 2 · 说法判断）",
+  "text": "判断下列说法是否正确（对的画 ✓，错的画 ✗，错的写出反例）：",
+  "completeness": "完整",
+  "provenance": {
+    "path": "练习/数学/有理数巩固练习-2026-10-03.md",
+    "section": "## 练习 2（对应错题 2 · 说法判断）",
+    "line": 28,
+    "end_line": 48,
+    "sha256": "ca04666fab3f74a2fd3ba22cfea12d4c3a5c184cc406ae75f764aee17933c52c"
+  }
+}

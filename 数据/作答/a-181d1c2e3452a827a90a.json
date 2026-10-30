@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-181d1c2e3452a827a90a",
+  "question_id": "q-181d1c2e3452a827a90a",
+  "submission_id": "sub-aea149272975e9276ef1",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ 6 years old.",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "待核实",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**He started playing tennis at the age of six.** / **He was six years old when he started playing tennis.**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：短语作答是否允许需核实题目要求，不能一律把非完整句判错。",
+    "errors": [
+      {
+        "error_type": "句子结构",
+        "error_reason": "本题“At what age did Yuki start playing tennis?”，历史作答记录为“❌ 6 years old.”。历史参考答案为“**He started playing tennis at the age of six.** / **He was six years old when he started playing tennis.**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-eacce8ce1742841e8536"
+        ],
+        "location": "第 8 题",
+        "evidence": "❌ 6 years old.",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 8 题",
+    "line": 237,
+    "end_line": 266,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  },
+  "question_context_hash": "6262672ad1f28432a0fd2c819a050494528650d4f5b14ca9c47c72c22921a68e"
+}

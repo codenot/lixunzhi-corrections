@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "kind": "assignment",
+  "id": "as-aea149272975e9276ef1",
+  "title": "英语错题集 · 阅读理解",
+  "date": null,
+  "coverage": "历史错题摘录",
+  "scope_note": "历史文档摘录，原作业其他题目、真实页码和原图未知。",
+  "pages": [
+    {
+      "id": "pg-aea149272975e9276ef1",
+      "upload_order": 1,
+      "printed_page": null,
+      "label": "英语/阅读理解.md",
+      "image_path": null,
+      "sha256": null,
+      "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
+    }
+  ],
+  "expected_question_count": null,
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "# 英语错题集 · 阅读理解",
+    "line": 1,
+    "end_line": 406,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  }
+}

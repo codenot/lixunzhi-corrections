@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-58e2a5c05ecd4762cc4d",
+  "assignment_id": "as-320838ee57a8715c1e25",
+  "page_id": "pg-320838ee57a8715c1e25",
+  "original_number": "历史条目 12（原题号未知）",
+  "location": "第 12 题",
+  "subject": "数学",
+  "chapter": "有理数",
+  "prompt": "一个数的平方等于 9，这个数的立方等于 ________。",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-01fbce85c0148e90cb0a"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-01fbce85c0148e90cb0a",
+      "error_type": "条件遗漏或误用"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "±27",
+    "solution": "x²=9 得 x=3 或 −3，故 x³=27 或 −27。零的平方根只有一个，不能把“任意平方条件都有两个解”当成规则。",
+    "basis": {
+      "kind": "AI解答",
+      "evidence": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    "verification": "已核验",
+    "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+  },
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 12 题",
+    "line": 680,
+    "end_line": 720,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  }
+}

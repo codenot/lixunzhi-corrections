@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-ae9000abbabd379273a1",
+  "question_id": "q-ae9000abbabd379273a1",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-08",
+  "recorded_at": "2026-10-30",
+  "student_answer": "**C（17 和 18）** ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "D（18 和 19）",
+    "analysis": "18×3=54<55<57=19×3，因此 18<55/3<19。仅凭选项不能认定孩子把商当作区间上限。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "概念或性质应用错误",
+        "error_reason": "针对“分数 \\(\\dfrac{55}{3}\\) 介于哪两个正整数之间？（　）\n\n- A. 15 和 16\n- B. 16 和 17\n- C. 17 和 18\n- D. 18 和 19”，历史记录的作答为“**C（17 和 18）** ❌”；复核说明：18×3=54<55<57=19×3，因此 18<55/3<19。仅凭选项不能认定孩子把商当作区间上限。",
+        "knowledge_point_ids": [
+          "k-bfcee61bc688181028bd"
+        ],
+        "location": "第 8 题",
+        "evidence": "**C（17 和 18）** ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 8 题",
+    "line": 434,
+    "end_line": 491,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "6e16b94fa9dbdc2a8161adf9a9417c7a7adcb4bdfc4deeb52ac3f57e6fda1a67"
+}

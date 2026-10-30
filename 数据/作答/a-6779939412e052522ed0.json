@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-6779939412e052522ed0",
+  "question_id": "q-6779939412e052522ed0",
+  "submission_id": "sub-ca58f2cdde898e805698",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ Yes, she is did.",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**Yes, she did.**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "句子结构",
+        "error_reason": "本题“Nina realized how lucky she was to have all of her family, didn't she?”，历史作答记录为“❌ Yes, she is did.”。历史参考答案为“**Yes, she did.**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-7b68915517fe25553d75"
+        ],
+        "location": "第 2 题",
+        "evidence": "❌ Yes, she is did.",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 2 题",
+    "line": 37,
+    "end_line": 69,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  },
+  "question_context_hash": "d1728d0bc87d0fb48335aaa4fed81beb70840019c094e743bd235962c798a9be"
+}

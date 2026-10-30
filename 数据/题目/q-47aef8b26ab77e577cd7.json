@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-47aef8b26ab77e577cd7",
+  "assignment_id": "as-320838ee57a8715c1e25",
+  "page_id": "pg-320838ee57a8715c1e25",
+  "original_number": "历史条目 3（原题号未知）",
+  "location": "第 3 题",
+  "subject": "数学",
+  "chapter": "有理数",
+  "prompt": "计算：\\(\\dfrac{5}{8} \\times \\left[ 1 \\div \\left( \\dfrac{3}{4} - \\dfrac{3}{8} \\right) \\right]\\)",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-3821b839c030c35d21e9"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-3821b839c030c35d21e9",
+      "error_type": "运算规则使用错误"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "5/3",
+    "solution": "先算括号：3/4−3/8=3/8，再算 (5/8)÷(3/8)=5/3。a÷(b−c) 不能拆成 a÷b−a÷c；而 (a−b)÷c 在 c≠0 时可以逐项除。",
+    "basis": {
+      "kind": "AI解答",
+      "evidence": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+    },
+    "verification": "已核验",
+    "note": "按当前转录题面独立复算；这不等于原图和学生作答已经核实。"
+  },
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 3 题",
+    "line": 108,
+    "end_line": 171,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  }
+}

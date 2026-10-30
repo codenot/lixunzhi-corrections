@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-6c3c6c9bfe0b92f17be2",
+  "assignment_id": "as-fb0d17a77082dea9a59e",
+  "page_id": "pg-fb0d17a77082dea9a59e",
+  "original_number": "练习 1 / 小题 2",
+  "location": "练习 1（对应错题 · 文言文启示题《越车》)",
+  "subject": "语文",
+  "chapter": "历史巩固练习",
+  "prompt": "2. 我们可以从这个故事中得到什么教训？（4 分）",
+  "content_status": "待核实",
+  "material_ids": [
+    "mt-c58505d21799f1baadf1"
+  ],
+  "knowledge_point_ids": [
+    "k-606e633c00dcf56f95d0"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-606e633c00dcf56f95d0",
+      "error_type": "答案要点缺漏"
+    }
+  ],
+  "assessment_kind": "同类变式",
+  "source_mistake_ids": [
+    "m-e48444642af5fcf14e06"
+  ],
+  "origin": "历史练习",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**1. 故事大意：** 有个燕国寿陵的少年，听说邯郸人走路姿势优美，就去邯郸学走路。结果不但没学会邯郸人走路的样子，反而把自己原来走路的姿势也忘了，最后只能爬着回家。\n\n**2. 教训（4 分，要答到\"怎么做\"）：**\n\n① 不能**盲目模仿**别人，生搬硬套、丢掉自己的根本，最终一事无成；（1 分）\n\n② 学习别人的长处时，要**抓住精髓、真正掌握本领**，不能只学皮毛；（2 分）\n\n③ 在模仿之前，先**认清自己的特点和优势**，保持自己的根本。（1 分）\n\n**得分要点：** 只写\"不能模仿\"得 1～2 分；写到\"应该怎么做\"（掌握精髓、保持根本）才能拿满分。",
+    "solution": "该小题对应的精确答案与评分要点待从分组解析核验。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "练习/语文/语文巩固练习-2026-10-05.md 第二部分练习 1 答案"
+    },
+    "verification": "待核实",
+    "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。"
+  },
+  "provenance": {
+    "path": "练习/语文/语文巩固练习-2026-10-05.md",
+    "section": "## 练习 1（对应错题 · 文言文启示题《越车》)",
+    "line": 10,
+    "end_line": 30,
+    "sha256": "184f1d0accc91d0ce0530d60882024d3714deb4487a73a4cd15da4de36f9b42d"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-57c7faf0cb72a58ba96f",
+  "question_id": "q-57c7faf0cb72a58ba96f",
+  "submission_id": "sub-ca58f2cdde898e805698",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "❌ good",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "待核实",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**well**\n\n完整句：Uncle Wang is not feeling **well** today.",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：feel good 与 feel well 的语义及题目限制需要核实，不能套用“系动词后用副词”的错误解释。",
+    "errors": [
+      {
+        "error_type": "词汇与搭配",
+        "error_reason": "本题“Uncle Wang is not feeling \\___ (good) today.”，历史作答记录为“❌ good”。历史参考答案为“**well**\n\n完整句：Uncle Wang is not feeling **well** today.”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-d94e5196037e7a0e8173"
+        ],
+        "location": "第 11 题",
+        "evidence": "❌ good",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 11 题",
+    "line": 334,
+    "end_line": 368,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  },
+  "question_context_hash": "46c4cf6be56bb76112edab6100ca8aefac7b7df08063b7d075fee180f8b3734e"
+}

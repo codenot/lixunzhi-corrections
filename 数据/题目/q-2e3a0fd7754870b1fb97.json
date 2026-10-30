@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-2e3a0fd7754870b1fb97",
+  "assignment_id": "as-aea149272975e9276ef1",
+  "page_id": "pg-aea149272975e9276ef1",
+  "original_number": "历史条目 11（原题号未知）",
+  "location": "第 11 题",
+  "subject": "英语",
+  "chapter": "阅读理解",
+  "prompt": "Second, bring your own things instead of \\___ the expensive things inside.",
+  "content_status": "待核实",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-06283eddd061f9be9209"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-06283eddd061f9be9209",
+      "error_type": "词形变化"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**buying**\n\n完整句：bring your own things instead of **buying** the expensive things inside.",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "旧题面未保存给定词或选词范围，不能确定该空只能填 buying。"
+    },
+    "verification": "待核实",
+    "note": "旧题面未保存给定词或选词范围，不能确定该空只能填 buying。"
+  },
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 11 题",
+    "line": 337,
+    "end_line": 374,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  }
+}

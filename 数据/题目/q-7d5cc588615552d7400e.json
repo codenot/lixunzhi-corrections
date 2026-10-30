@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-7d5cc588615552d7400e",
+  "assignment_id": "as-26bfcf12756b30083c07",
+  "page_id": "pg-26bfcf12756b30083c07",
+  "original_number": "练习 1 / 小题 2",
+  "location": "练习 1（对应错题 1 · 符号判断）",
+  "subject": "数学",
+  "chapter": "历史巩固练习",
+  "prompt": "2. 若 \\(ab>0\\)，且 \\(a+b<0\\)，则（　）\n   - A. \\(a>0,\\ b>0\\)\n   - B. \\(a<0,\\ b<0\\)\n   - C. \\(a、b\\) 异号，且正数的绝对值较大\n   - D. \\(a、b\\) 异号，且负数的绝对值较大",
+  "content_status": "待核实",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-5b82466a38a51690510a"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-5b82466a38a51690510a",
+      "error_type": "概念或性质应用错误"
+    }
+  ],
+  "assessment_kind": "同类变式",
+  "source_mistake_ids": [
+    "m-f3bfad309ec14ce98a4c"
+  ],
+  "origin": "历史练习",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "1. **C**。\\(ab<0\\) ⇒ \\(a、b\\) 异号；\\(a+b>0\\) ⇒ 正数绝对值较大。\n2. **B**。\\(ab>0\\) ⇒ \\(a、b\\) 同号；\\(a+b<0\\) ⇒ 同为负数。\n\n**口诀再背一遍：** 乘积定同异号，和定正负倾向。",
+    "solution": "该小题对应的精确答案与评分要点待从分组解析核验。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "练习/数学/有理数巩固练习-2026-10-03.md 第二部分练习 1 答案"
+    },
+    "verification": "待核实",
+    "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。"
+  },
+  "provenance": {
+    "path": "练习/数学/有理数巩固练习-2026-10-03.md",
+    "section": "## 练习 1（对应错题 1 · 符号判断）",
+    "line": 10,
+    "end_line": 28,
+    "sha256": "ca04666fab3f74a2fd3ba22cfea12d4c3a5c184cc406ae75f764aee17933c52c"
+  }
+}

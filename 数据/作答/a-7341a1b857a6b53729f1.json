@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-7341a1b857a6b53729f1",
+  "question_id": "q-7341a1b857a6b53729f1",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "给读者制造悬念，激发读者的阅读兴趣。❌（不完整）",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "1. **引出说明对象**—— 通过故事引出蚂蚁靠触角找蜜糖，进而引出本文说明对象 \"昆虫的触角\"；\n2. **激发读者阅读兴趣**—— 用历史故事开头，生动有趣；\n3. **增强文章趣味性和可读性**。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "答案要点缺漏",
+        "error_reason": "本题“开头讲述 \"霸王自刎乌江\" 的故事的作用是？”，历史作答记录为“给读者制造悬念，激发读者的阅读兴趣。❌（不完整）”。历史参考答案为“1. **引出说明对象**—— 通过故事引出蚂蚁靠触角找蜜糖，进而引出本文说明对象 \"昆虫的触角\"；\n2. **激发读者阅读兴趣**—— 用历史故事开头，生动有趣；\n3. **增强文章趣味性和可读性**。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-ce8706218d5109439980"
+        ],
+        "location": "(2) 开头讲故事的作用",
+        "evidence": "给读者制造悬念，激发读者的阅读兴趣。❌（不完整）",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (2) 开头讲故事的作用",
+    "line": 27,
+    "end_line": 48,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "6225e4316e2e1651257bce702e9154588a16ae93672e98d240eb02fa20ca05ef"
+}

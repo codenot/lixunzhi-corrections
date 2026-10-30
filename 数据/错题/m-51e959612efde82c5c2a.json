@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-51e959612efde82c5c2a",
+  "question_id": "q-8148dc32c9068f3a3d98",
+  "admitted_attempt_id": "a-8148dc32c9068f3a3d98",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "原文和填空图未保存；“样子/形态”“启发/启示”等能否替换需根据原文和评分标准判断。"
+}

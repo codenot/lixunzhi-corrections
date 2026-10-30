@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-4622b80471fd1682533c",
+  "question_id": "q-4622b80471fd1682533c",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "父亲和儿子做 \"游戏\"，用安检仪模拟检查身体……（只答了表面意思）",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "- **表层含义：** 父亲和儿子在火车站玩的 \"安检仪照肺\" 的游戏；\n- **深层含义：** 这个 \"游戏\" 是父亲善意的谎言 —— 他舍不得花钱看病，又不想让家人担心，用这种方式骗儿子说自己没病，体现了父亲对家人深沉的爱和责任感。",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "答案要点缺漏",
+        "error_reason": "本题“本文标题 \"父亲的游戏\" 的含义是？”，历史作答记录为“父亲和儿子做 \"游戏\"，用安检仪模拟检查身体……（只答了表面意思）”。历史参考答案为“- **表层含义：** 父亲和儿子在火车站玩的 \"安检仪照肺\" 的游戏；\n- **深层含义：** 这个 \"游戏\" 是父亲善意的谎言 —— 他舍不得花钱看病，又不想让家人担心，用这种方式骗儿子说自己没病，体现了父亲对家人深沉的爱和责任感。”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-4384dfb06b7337668510"
+        ],
+        "location": "(3) 标题的含义",
+        "evidence": "父亲和儿子做 \"游戏\"，用安检仪模拟检查身体……（只答了表面意思）",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (3) 标题的含义",
+    "line": 127,
+    "end_line": 144,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "b245d69887957165115f47d0d302c4086bc1efd59a59962c6500f0f30b69a6b1"
+}

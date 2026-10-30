@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-94df0ef207a94c6e9849",
+  "question_id": "q-94df0ef207a94c6e9849",
+  "submission_id": "sub-0aeb8b10755cac83ff11",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "",
+  "answer_fidelity": "未知",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "未作答",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "它们自己（蝉、螳螂、黄雀）",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：旧文将⑤也描述为未答，与“我的答案”中⑤正确相矛盾；按作答段保留⑤正确、⑥历史漏答。",
+    "errors": [
+      {
+        "error_type": "漏题未答",
+        "error_reason": "本题“根据材料，写出其⑥的指代。”，历史作答记录为“未保留作答内容”。历史参考答案为“它们自己（蝉、螳螂、黄雀）”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-e2df6755937c294aabc6"
+        ],
+        "location": "第 6 题：《螳螂捕蝉》\"其\"字指代",
+        "evidence": "历史文档未保存该处学生答案；不据此推断空白。",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+    "line": 177,
+    "end_line": 209,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  },
+  "question_context_hash": "0a00b8805cd7b5b3a3cc6b32d0fae0366ec71fe8c95ff223e45aad424ac97082"
+}

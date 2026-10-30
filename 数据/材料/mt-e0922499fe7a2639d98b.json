@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "kind": "material",
+  "id": "mt-e0922499fe7a2639d98b",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "title": "第 4 题：《送春》宗璞 散文阅读",
+  "text": "",
+  "completeness": "缺失",
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "### 第 4 题：《送春》宗璞 散文阅读",
+    "line": 232,
+    "end_line": 298,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

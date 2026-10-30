@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-cf063d74318498e5598e",
+  "question_id": "q-3b64cc34c275acbf6d37",
+  "admitted_attempt_id": "a-3b64cc34c275acbf6d37",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "原题词表含 The，参考答案以 Go 开头，词表与答案可能不一致；需核对原图。"
+}

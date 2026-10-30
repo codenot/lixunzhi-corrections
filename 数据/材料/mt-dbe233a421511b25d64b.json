@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "kind": "material",
+  "id": "mt-dbe233a421511b25d64b",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "title": "第 3 题：《百合花》小说阅读",
+  "text": "",
+  "completeness": "缺失",
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "### 第 3 题：《百合花》小说阅读",
+    "line": 162,
+    "end_line": 231,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

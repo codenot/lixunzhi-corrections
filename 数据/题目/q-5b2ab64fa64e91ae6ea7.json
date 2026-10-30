@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-5b2ab64fa64e91ae6ea7",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "page_id": "pg-be53ae254c00811aaed0",
+  "original_number": "历史条目 3-2（原题号未知）",
+  "location": "(2) 句子赏析：\"是我的 ——\" 她气汹汹地嚷了半句，就扭过脸去。",
+  "subject": "语文",
+  "chapter": "现代文阅读",
+  "prompt": "(2) 句子赏析：\"是我的 ——\" 她气汹汹地嚷了半句，就扭过脸去。",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-dbe233a421511b25d64b"
+  ],
+  "knowledge_point_ids": [
+    "k-6f0753b8dd2f7648facd"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-6f0753b8dd2f7648facd",
+      "error_type": "答案要点缺漏"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "这句话运用了**语言描写和动作描写**。\n\n- \"气汹汹\"**不是真的生气**，而是新媳妇看到通讯员牺牲后，内心悲痛到极点的表现；\n- 她为什么 \"气汹汹\"？因为卫生员要把通讯员抬进棺材，还要揭掉他身上的被子，她舍不得；\n- \"是我的 ——\" 意思是这条被子是我的，我要盖在他身上；\n- 表现了新媳妇对通讯员的**崇敬、痛惜，以及淳朴善良的品质**。",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 语文/现代文阅读.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (2) 句子赏析：\"是我的 ——\" 她气汹汹地嚷了半句，就扭过脸去。",
+    "line": 191,
+    "end_line": 214,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

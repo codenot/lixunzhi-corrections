@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-279864bd5bc55adede2c",
+  "assignment_id": "as-aea149272975e9276ef1",
+  "page_id": "pg-aea149272975e9276ef1",
+  "original_number": "历史条目 9（原题号未知）",
+  "location": "第 9 题",
+  "subject": "英语",
+  "chapter": "阅读理解",
+  "prompt": "Why did Yuki stop playing in the finals of the first Youth Olympic Games?",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-9df340928bf5d85580f4"
+  ],
+  "knowledge_point_ids": [
+    "k-0e5cbb3e6110543ac4f3"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-0e5cbb3e6110543ac4f3",
+      "error_type": "时态与语态"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**Because he got hurt during the match.**",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 英语/阅读理解.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 9 题",
+    "line": 267,
+    "end_line": 301,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  }
+}

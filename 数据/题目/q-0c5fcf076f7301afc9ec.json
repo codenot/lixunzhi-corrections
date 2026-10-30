@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-0c5fcf076f7301afc9ec",
+  "assignment_id": "as-0aeb8b10755cac83ff11",
+  "page_id": "pg-0aeb8b10755cac83ff11",
+  "original_number": "历史条目 4（原题号未知）",
+  "location": "第 4 题：《管鲍之交》人物形象概括",
+  "subject": "语文",
+  "chapter": "古诗文",
+  "prompt": "请结合甲乙两文的具体情节，分析鲍叔牙的人物形象。",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-8c5100da74f4c91a69ad"
+  ],
+  "knowledge_point_ids": [
+    "k-3cd6416b36ca29347f46"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-3cd6416b36ca29347f46",
+      "error_type": "概括与推断"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "鲍叔牙是一个**知人善任、宽容大度、公而忘私**的人：\n\n1. **慧眼识才**——管仲贫困时\"鲍叔知其贤\"，早就看出管仲有大才；\n2. **宽容理解**——管仲多分钱他不认为贪，管仲办事失败他不认为愚，管仲打仗逃跑他不认为怯，管仲受辱他不认为无耻——**他总能透过现象看到管仲的处境和本心**；\n3. **为国让贤**——齐桓公即位后，他主动推荐管仲做相，自己甘居其下，把国家利益放在个人恩怨之上。",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 语文/古诗文.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 4 题：《管鲍之交》人物形象概括",
+    "line": 109,
+    "end_line": 143,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  }
+}

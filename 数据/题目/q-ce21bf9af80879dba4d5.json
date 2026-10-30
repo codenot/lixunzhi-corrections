@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-ce21bf9af80879dba4d5",
+  "assignment_id": "as-ca58f2cdde898e805698",
+  "page_id": "pg-ca58f2cdde898e805698",
+  "original_number": "历史条目 1（原题号未知）",
+  "location": "第 1 题",
+  "subject": "英语",
+  "chapter": "词汇与语法",
+  "prompt": "Foods like chips, candy, and soda are high in sugar and fat but \\___ in nutrients.",
+  "content_status": "待核实",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-6333e07f8fcf5f411e3d"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-6333e07f8fcf5f411e3d",
+      "error_type": "词汇与搭配"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**low**\n\n完整句：Foods like chips, candy, and soda are high in sugar and fat but **low** in nutrients.",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "旧文没有保存学生具体填写内容；保留未知，不补写学生答案。"
+    },
+    "verification": "待核实",
+    "note": "旧文没有保存学生具体填写内容；保留未知，不补写学生答案。"
+  },
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 1 题",
+    "line": 5,
+    "end_line": 36,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-7477f8bb5038d92097da",
+  "assignment_id": "as-fb0d17a77082dea9a59e",
+  "page_id": "pg-fb0d17a77082dea9a59e",
+  "original_number": "练习 6 / 小题 2",
+  "location": "练习 6（对应错题 · 描写方法及作用《父亲的游戏》)",
+  "subject": "语文",
+  "chapter": "历史巩固练习",
+  "prompt": "2. 它的作用是什么？（先写表面写出了什么，再写背后表现了什么）",
+  "content_status": "待核实",
+  "material_ids": [
+    "mt-f9acbd320143113698e8"
+  ],
+  "knowledge_point_ids": [
+    "k-6ba71135dd3c6e4f1ab8"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-6ba71135dd3c6e4f1ab8",
+      "error_type": "答案要点缺漏"
+    }
+  ],
+  "assessment_kind": "同类变式",
+  "source_mistake_ids": [
+    "m-0634ef993d4d6a3bae15"
+  ],
+  "origin": "历史练习",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**1. 动作**描写。\n\n**2. 作用：**\n\n① **表面：** \"抚摸\"\"久久没有说话\"写出爷爷对这台收音机的珍视和不舍；（1 分）\n\n② **深层：** 这台旧收音机承载着爷爷的回忆（可能想起知青岁月、故人、往事），久久不说话是因为他沉浸在回忆中，表现了爷爷对往事的深深怀念。（2 分）\n\n**记叙文描写作用答题模板：**\n\n① 点明描写方法；\n\n② 写出了人物……的状态 / 样子；\n\n③ 表现了人物……的心情 / 情感 / 品质；\n\n④ 为下文……做铺垫（如有）。",
+    "solution": "该小题对应的精确答案与评分要点待从分组解析核验。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "练习/语文/语文巩固练习-2026-10-05.md 第二部分练习 6 答案"
+    },
+    "verification": "待核实",
+    "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。"
+  },
+  "provenance": {
+    "path": "练习/语文/语文巩固练习-2026-10-05.md",
+    "section": "## 练习 6（对应错题 · 描写方法及作用《父亲的游戏》)",
+    "line": 92,
+    "end_line": 110,
+    "sha256": "184f1d0accc91d0ce0530d60882024d3714deb4487a73a4cd15da4de36f9b42d"
+  }
+}

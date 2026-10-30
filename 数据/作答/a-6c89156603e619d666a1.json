@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-6c89156603e619d666a1",
+  "question_id": "q-6c89156603e619d666a1",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "**D** ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**A** ✅",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：若题干确为“需要满足”，A 与 C 都是必要条件，需核对原图的单选表述。",
+    "errors": [
+      {
+        "error_type": "概念或性质应用错误",
+        "error_reason": "本题“若 \\(a+b>0\\)，且 \\(ab>0\\)，则需要满足（　）  - A. \\(a>0,\\ b>0\\) - B. \\(a<0,\\ b<0\\) - C. \\(a、b\\) 同号 - D. \\(a、b\\) 中一为正且绝对值较大”，历史作答记录为“**D** ❌”。历史参考答案为“**A** ✅”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-5b82466a38a51690510a"
+        ],
+        "location": "第 1 题",
+        "evidence": "**D** ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 1 题",
+    "line": 7,
+    "end_line": 48,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "fcf41d9f5ee6fc05a26c3267aec1a27d7af08c9e0122969989b21c7205703f26"
+}

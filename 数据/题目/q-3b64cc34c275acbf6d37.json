@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-3b64cc34c275acbf6d37",
+  "assignment_id": "as-ca58f2cdde898e805698",
+  "page_id": "pg-ca58f2cdde898e805698",
+  "original_number": "历史条目 6（原题号未知）",
+  "location": "第 6 题",
+  "subject": "英语",
+  "chapter": "词汇与语法",
+  "prompt": "to, The, knee, and, go, hurt, when, you, fall, clinic, your, (.)",
+  "content_status": "待核实",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-40298d46d6fb090551a3"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-40298d46d6fb090551a3",
+      "error_type": "拼写"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "Go to the **clinic** when you fall and hurt your knee.",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "原题词表含 The，参考答案以 Go 开头，词表与答案可能不一致；需核对原图。"
+    },
+    "verification": "待核实",
+    "note": "原题词表含 The，参考答案以 Go 开头，词表与答案可能不一致；需核对原图。"
+  },
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 6 题",
+    "line": 167,
+    "end_line": 196,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  }
+}

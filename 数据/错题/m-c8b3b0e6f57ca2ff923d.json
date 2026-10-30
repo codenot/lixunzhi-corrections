@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-c8b3b0e6f57ca2ff923d",
+  "question_id": "q-57c7faf0cb72a58ba96f",
+  "admitted_attempt_id": "a-57c7faf0cb72a58ba96f",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "feel good 与 feel well 的语义及题目限制需要核实，不能套用“系动词后用副词”的错误解释。"
+}

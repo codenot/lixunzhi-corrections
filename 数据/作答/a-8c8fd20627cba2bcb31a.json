@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-8c8fd20627cba2bcb31a",
+  "question_id": "q-8c8fd20627cba2bcb31a",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "\\(0.23,\\ (-2)^2,\\ 0,\\ -\\left(-\\dfrac{1}{7}\\right)\\) ❌（漏了一项）",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "0.23、(−2)²、0、−(−2024²)、−(−1/7)，共 5 个",
+    "analysis": "非负数为 0.23、(−2)²、0、−(−2024²)、−(−1/7)，共五个。−(−a)=a 的符号取决于 a，不能笼统说双负号后必为正。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "概念或性质应用错误",
+        "error_reason": "针对“在 \\(-|-3|\\)、\\(0.23\\)、\\((-2)^2\\)、\\(0\\)、\\((-3)^3\\)、\\(-(-2024^2)\\)、\\(-\\dfrac{1}{5}\\)、\\(-\\left(-\\dfrac{1}{7}\\right)\\) 中，非负数有 ________。”，历史记录的作答为“\\(0.23,\\ (-2)^2,\\ 0,\\ -\\left(-\\dfrac{1}{7}\\right)\\) ❌（漏了一项）”；复核说明：非负数为 0.23、(−2)²、0、−(−2024²)、−(−1/7)，共五个。−(−a)=a 的符号取决于 a，不能笼统说双负号后必为正。",
+        "knowledge_point_ids": [
+          "k-88cf9d0ff1d005e35a14"
+        ],
+        "location": "第 11 题",
+        "evidence": "\\(0.23,\\ (-2)^2,\\ 0,\\ -\\left(-\\dfrac{1}{7}\\right)\\) ❌（漏了一项）",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 11 题",
+    "line": 626,
+    "end_line": 679,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "0eff05be01647eb8f1887be0a812e48052ed0b3bc5a22163e3a21be8e27c2f77"
+}

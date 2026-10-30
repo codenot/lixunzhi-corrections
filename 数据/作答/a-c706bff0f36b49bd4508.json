@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-c706bff0f36b49bd4508",
+  "question_id": "q-c706bff0f36b49bd4508",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "**D（23:00）** ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "B（17:00）",
+    "analysis": "按题设墨尔本比北京快 3 小时，起飞时北京时间 8−3=5 时，再加 12 小时，得到 17:00。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "条件遗漏或误用",
+        "error_reason": "针对“墨尔本与北京的时差是 \\(+3\\,\\text{h}\\)（即同一时刻墨尔本时间比北京时间早 \\(3\\,\\text{h}\\)），班机从墨尔本飞到北京需用 \\(12\\,\\text{h}\\)。若乘坐从墨尔本 \\(8{:}00\\)（当地时间）起飞的航班，到达北京机场时，北京时间是（　）\n\n- A. \\(15{”，历史记录的作答为“**D（23:00）** ❌”；复核说明：按题设墨尔本比北京快 3 小时，起飞时北京时间 8−3=5 时，再加 12 小时，得到 17:00。",
+        "knowledge_point_ids": [
+          "k-0cf8f361b5137e9ca8ef"
+        ],
+        "location": "第 9 题",
+        "evidence": "**D（23:00）** ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 9 题",
+    "line": 492,
+    "end_line": 548,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "9b602c190b9b5b9303fc5720e7ead4bcf5a3972ea488d930fa9cfbd0639d46d1"
+}

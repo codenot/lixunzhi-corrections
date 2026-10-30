@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-bec9d307f65f19114639",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "page_id": "pg-be53ae254c00811aaed0",
+  "original_number": "历史条目 2-4（原题号未知）",
+  "location": "(4) 主旨理解选择题",
+  "subject": "语文",
+  "chapter": "现代文阅读",
+  "prompt": "关于本文主旨的理解最适合的一项是（　）",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-fd27c82bfd8edba42865"
+  ],
+  "knowledge_point_ids": [
+    "k-10fbcdf83dd3bdf99cd1"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-10fbcdf83dd3bdf99cd1",
+      "error_type": "概括与推断"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "C ✅",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 语文/现代文阅读.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (4) 主旨理解选择题",
+    "line": 144,
+    "end_line": 162,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

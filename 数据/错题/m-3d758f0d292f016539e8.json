@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-3d758f0d292f016539e8",
+  "question_id": "q-f25009a60d873a56881d",
+  "admitted_attempt_id": "a-f25009a60d873a56881d",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "旧记录把“数次”注作 shuò，需查可靠词典和原题；暂不判定学生 shù 错误。"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-9d5c5aa0c70c862a64f1",
+  "question_id": "q-24f9707f86df2f80393e",
+  "admitted_attempt_id": "a-24f9707f86df2f80393e",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "原文没有保留同义改写题的完整空格限制，需核实是否确实要求填写整句。"
+}

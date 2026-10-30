@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-4811132a327f38bf33a5",
+  "question_id": "q-4811132a327f38bf33a5",
+  "submission_id": "sub-feb004f54e8005ce3501",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "> Hi! I am Hanson. I am 11 years old. Last Sunday, I **play** badminton with my father. My father is good at playing it, so I want to beat him very much. That day, I beat my father. I am very happy. **What is your enjoyable sport moment? Why?**",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "> Hi! I am Hanson. I am 11 years old. Last Sunday, I **played** badminton with my father. My father is good at playing it, so I wanted to beat him very much. We played for an hour. The score was 18-19, and I was behind. I took a deep breath and tried my best. Finally, I won 21-19! I was so happy and excited. It was really an enjoyable sport moment.",
+    "analysis": "叙述 Last Sunday 的事件用过去时，如 play→played、want→wanted、am very happy→was very happy。一般事实如年龄、父亲擅长运动可保留现在时。按当前转录全文为49词，距50词差1词。\n\n复核备注：按旧文全文以空白分词（数字计一词），学生 49 词，参考作文 71 词；原记录“约42词/约60词”不准确。末尾提问及一般现在时的自我介绍不能一律判错；按内容和题目要求判断。",
+    "errors": [
+      {
+        "error_type": "时态与语态",
+        "error_reason": "针对“Write at least 50 words about the topic \"An enjoyable sport moment\".  \nSuggested questions:\n- What sport did you do?\n- How did you do that sport?\n- Wh”，历史记录的作答为“> Hi! I am Hanson. I am 11 years old. Last Sunday, I **play** badminton with my father. My father is good at playing it, so I want to beat him very much. That day, I beat my father. I am very happy. **What is your enjoyable sport moment? Why?**”；复核说明：叙述 Last Sunday 的事件用过去时，如 play→played、want→wanted、am very happy→was very happy。一般事实如年龄、父亲擅长运动可保留现在时。按当前转录全文为49词，距50词差1词。",
+        "knowledge_point_ids": [
+          "k-0e5cbb3e6110543ac4f3"
+        ],
+        "location": "第 1 题",
+        "evidence": "> Hi! I am Hanson. I am 11 years old. Last Sunday, I **play** badminton with my father. My father is good at playing it, so I want to beat him very much. That day, I beat my father. I am very happy. **What is your enjoyable sport moment? Why?**",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      },
+      {
+        "error_type": "写作任务完成",
+        "error_reason": "题目要求至少50词，当前全文按空白分词为49词，差1词；不是旧文所称少8词。",
+        "knowledge_point_ids": [
+          "k-ec78a223f3ed00b894a0"
+        ],
+        "location": "全文字数",
+        "evidence": "> Hi! I am Hanson. I am 11 years old. Last Sunday, I **play** badminton with my father. My father is good at playing it, so I want to beat him very much. That day, I beat my father. I am very happy. **What is your enjoyable sport moment? Why?**",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/写作.md",
+    "section": "## 第 1 题",
+    "line": 5,
+    "end_line": 42,
+    "sha256": "a049e8a64688f5f2b781c23c260ddae6872c99838b4a28ce1e195968efbdfb28"
+  },
+  "question_context_hash": "c233ebf7148827d0a4082b18e4fd9b2d80258dcb673563c6b96c165cb3acfb3f"
+}

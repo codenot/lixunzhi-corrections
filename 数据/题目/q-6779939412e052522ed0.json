@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-6779939412e052522ed0",
+  "assignment_id": "as-ca58f2cdde898e805698",
+  "page_id": "pg-ca58f2cdde898e805698",
+  "original_number": "历史条目 2（原题号未知）",
+  "location": "第 2 题",
+  "subject": "英语",
+  "chapter": "词汇与语法",
+  "prompt": "Nina realized how lucky she was to have all of her family, didn't she?",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-7b68915517fe25553d75"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-7b68915517fe25553d75",
+      "error_type": "句子结构"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "**Yes, she did.**",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 英语/词汇与语法.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 2 题",
+    "line": 37,
+    "end_line": 69,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  }
+}

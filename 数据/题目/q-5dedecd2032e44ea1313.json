@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-5dedecd2032e44ea1313",
+  "assignment_id": "as-fb0d17a77082dea9a59e",
+  "page_id": "pg-fb0d17a77082dea9a59e",
+  "original_number": "练习 4 / 小题 1",
+  "location": "练习 4（对应错题 · 说明文结构梳理《触角》)",
+  "subject": "语文",
+  "chapter": "历史巩固练习",
+  "prompt": "1. 第 1 段写了猫爪肉垫的 **____（样子 / 形态）**。（选一个更书面、更准确的词填在横线上）",
+  "content_status": "待核实",
+  "material_ids": [
+    "mt-20e95ab442831f74a611"
+  ],
+  "knowledge_point_ids": [
+    "k-e458d3919a1904f315bd"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-e458d3919a1904f315bd",
+      "error_type": "概括与推断"
+    }
+  ],
+  "assessment_kind": "同类变式",
+  "source_mistake_ids": [
+    "m-d343bcf024662bd084d2",
+    "m-a6e6819c35d2965339d5",
+    "m-51e959612efde82c5c2a"
+  ],
+  "origin": "历史练习",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "1. **形态**。\"样子\"太口语化，说明文要用书面语\"形态\"。\n2. **多种功能**。\"用处\"太笼统，\"多种功能\"更准确——缓冲、消音、防滑，不止一种。\n3. **启发**。\"启发\"侧重从别人那里得到启示；这里具体指仿生学应用，用\"启发\"更准确（也可答\"启示\"）。\n\n**技巧：** 结构梳理题找每段的**中心句**，用原文中的关键词概括，不要自己编口语。",
+    "solution": "该小题对应的精确答案与评分要点待从分组解析核验。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "练习/语文/语文巩固练习-2026-10-05.md 第二部分练习 4 答案"
+    },
+    "verification": "待核实",
+    "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。"
+  },
+  "provenance": {
+    "path": "练习/语文/语文巩固练习-2026-10-05.md",
+    "section": "## 练习 4（对应错题 · 说明文结构梳理《触角》)",
+    "line": 60,
+    "end_line": 80,
+    "sha256": "184f1d0accc91d0ce0530d60882024d3714deb4487a73a4cd15da4de36f9b42d"
+  }
+}

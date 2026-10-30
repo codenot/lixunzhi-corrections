@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-be615087ee41870d5fc1",
+  "question_id": "q-be615087ee41870d5fc1",
+  "submission_id": "sub-ca58f2cdde898e805698",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "like",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "doing",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "句子结构",
+        "error_reason": "本题“Alice likes **playing volleyball**.（对画线部分提问）  What \\___ Alice like \\___ ?  本记录对应第 2 空。”，历史作答记录为“like”。历史参考答案为“doing”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-932c8166c217dc85cffe"
+        ],
+        "location": "第 12 题",
+        "evidence": "like",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 12 题",
+    "line": 369,
+    "end_line": 399,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  },
+  "question_context_hash": "e3c9cdbafab9bf1ec74224fda70b099d7f47ed594e862a73279262bcfc1b13b9"
+}

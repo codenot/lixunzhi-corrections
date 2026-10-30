@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-290338ecc6a7a4378ed8",
+  "question_id": "q-290338ecc6a7a4378ed8",
+  "submission_id": "sub-320838ee57a8715c1e25",
+  "submitted_at": "2026-10-18",
+  "recorded_at": "2026-10-30",
+  "student_answer": "\\(-\\dfrac{1}{2023}\\) ❌",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "错误",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "1",
+    "analysis": "按分母分组：(2023−1012)/1011+(−2023+1011)/1012+(1011+1012)/2023=1−1+1=1。学生具体展开过程未保留。\n\n复核备注：按当前转录题面独立复算；这不等于原图和学生作答已经核实。",
+    "errors": [
+      {
+        "error_type": "计算错误",
+        "error_reason": "针对“计算：\\(2023\\times\\left(\\dfrac{1}{1011}-\\dfrac{1}{1012}\\right)+1011\\times\\left(\\dfrac{1}{1012}+\\dfrac{1}{2023}\\right)-1012\\times\\left(\\dfrac{1}{1011}-\\df”，历史记录的作答为“\\(-\\dfrac{1}{2023}\\) ❌”；复核说明：按分母分组：(2023−1012)/1011+(−2023+1011)/1012+(1011+1012)/2023=1−1+1=1。学生具体展开过程未保留。",
+        "knowledge_point_ids": [
+          "k-f018c2379a5b63a04a63"
+        ],
+        "location": "第 14 题",
+        "evidence": "\\(-\\dfrac{1}{2023}\\) ❌",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "数学/有理数.md",
+    "section": "## 第 14 题",
+    "line": 779,
+    "end_line": 845,
+    "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+  },
+  "question_context_hash": "d1bddebb3ca7960c21600be5680e20778be4f7a6ae820aeac8a5a3ab6151d4f5"
+}

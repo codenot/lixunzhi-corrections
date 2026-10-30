@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-525ff0a970c9c0a729f5",
+  "question_id": "q-525ff0a970c9c0a729f5",
+  "submission_id": "sub-ca58f2cdde898e805698",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "does",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "does",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": []
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "英语/词汇与语法.md",
+    "section": "## 第 12 题",
+    "line": 369,
+    "end_line": 399,
+    "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+  },
+  "question_context_hash": "626d61911f4cd23a0137a8ae66d68d2972ed6df76a035ea4005a73fef305637d"
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-4811132a327f38bf33a5",
+  "assignment_id": "as-feb004f54e8005ce3501",
+  "page_id": "pg-feb004f54e8005ce3501",
+  "original_number": "历史条目 1（原题号未知）",
+  "location": "第 1 题",
+  "subject": "英语",
+  "chapter": "写作",
+  "prompt": "Write at least 50 words about the topic \"An enjoyable sport moment\".  \nSuggested questions:\n- What sport did you do?\n- How did you do that sport?\n- Why did you think it is enjoyable?",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-0e5cbb3e6110543ac4f3",
+    "k-ec78a223f3ed00b894a0"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-0e5cbb3e6110543ac4f3",
+      "error_type": "时态与语态"
+    },
+    {
+      "knowledge_point_id": "k-ec78a223f3ed00b894a0",
+      "error_type": "写作任务完成"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "> Hi! I am Hanson. I am 11 years old. Last Sunday, I **played** badminton with my father. My father is good at playing it, so I wanted to beat him very much. We played for an hour. The score was 18-19, and I was behind. I took a deep breath and tried my best. Finally, I won 21-19! I was so happy and excited. It was really an enjoyable sport moment.",
+    "solution": "叙述 Last Sunday 的事件用过去时，如 play→played、want→wanted、am very happy→was very happy。一般事实如年龄、父亲擅长运动可保留现在时。按当前转录全文为49词，距50词差1词。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "按旧文全文以空白分词（数字计一词），学生 49 词，参考作文 71 词；原记录“约42词/约60词”不准确。末尾提问及一般现在时的自我介绍不能一律判错；按内容和题目要求判断。"
+    },
+    "verification": "待核实",
+    "note": "按旧文全文以空白分词（数字计一词），学生 49 词，参考作文 71 词；原记录“约42词/约60词”不准确。末尾提问及一般现在时的自我介绍不能一律判错；按内容和题目要求判断。"
+  },
+  "provenance": {
+    "path": "英语/写作.md",
+    "section": "## 第 1 题",
+    "line": 5,
+    "end_line": 42,
+    "sha256": "a049e8a64688f5f2b781c23c260ddae6872c99838b4a28ce1e195968efbdfb28"
+  }
+}

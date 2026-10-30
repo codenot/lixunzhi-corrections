@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "kind": "material",
+  "id": "mt-e54e2d7cba0f0daa493b",
+  "assignment_id": "as-aea149272975e9276ef1",
+  "title": "第 3 题",
+  "text": "",
+  "completeness": "缺失",
+  "provenance": {
+    "path": "英语/阅读理解.md",
+    "section": "## 第 3 题",
+    "line": 71,
+    "end_line": 104,
+    "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+  }
+}

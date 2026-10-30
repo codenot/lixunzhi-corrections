@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-e500139ceb8ca6d50be7",
+  "assignment_id": "as-0aeb8b10755cac83ff11",
+  "page_id": "pg-0aeb8b10755cac83ff11",
+  "original_number": "历史条目 6-1（原题号未知）",
+  "location": "第 6 题：《螳螂捕蝉》\"其\"字指代",
+  "subject": "语文",
+  "chapter": "古诗文",
+  "prompt": "根据材料，写出其①的指代。",
+  "content_status": "完整",
+  "material_ids": [
+    "mt-cedacb0ad280fb23688f"
+  ],
+  "knowledge_point_ids": [
+    "k-e2df6755937c294aabc6"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-e2df6755937c294aabc6",
+      "error_type": "词句理解"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "树",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 语文/古诗文.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "语文/古诗文.md",
+    "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+    "line": 177,
+    "end_line": 209,
+    "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+  }
+}

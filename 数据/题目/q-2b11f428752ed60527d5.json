@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-2b11f428752ed60527d5",
+  "assignment_id": "as-f2fa3cb1b6f68256599a",
+  "page_id": "pg-f2fa3cb1b6f68256599a",
+  "original_number": "历史条目 2-5（原题号未知）",
+  "location": "第 2 题：多音字注音（差 / 数 / 折）",
+  "subject": "语文",
+  "chapter": "字词基础",
+  "prompt": "给“骨折”中的多音字注音。\n\n原题上下文：\n读句子，给下列加点的多音字注音：\n\n(1) 自从做了语文课代表这一差（　）使，我的语文成绩也算是差（　）强人意了。\n\n(2) 校足球队已经数（　）次取得好成绩，成为区里数（　）一数二的强队。\n\n(4) 自从他的腿摔骨折（　）了就再也不折（　）腾了，只能乖乖待在家里。",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-bdf0cdb10f52785dc692"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-bdf0cdb10f52785dc692",
+      "error_type": "字音判断"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "zhé",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "取自 语文/字词基础.md 的历史条目，未取得原始答案。"
+    },
+    "verification": "待核实",
+    "note": "只保留旧记录，不将历史解释自动当作核实结论。"
+  },
+  "provenance": {
+    "path": "语文/字词基础.md",
+    "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+    "line": 7,
+    "end_line": 60,
+    "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+  }
+}

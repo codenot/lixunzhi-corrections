@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-c3d24f1da3a29e42f85c",
+  "assignment_id": "as-f2fa3cb1b6f68256599a",
+  "page_id": "pg-f2fa3cb1b6f68256599a",
+  "original_number": "历史条目 1（原题号未知）",
+  "location": "第 1 题：标点符号判断",
+  "subject": "语文",
+  "chapter": "字词基础",
+  "prompt": "下列语句中标点符号有误的一项是（　）\n\nA. 静寂的草原热闹起来：欢呼声，车声，马蹄声，响成一片。\n\nB. 结，是解不完的，人生中的问题也是解不完的。不然，岂不太平淡无味了吗？\n\nC. 新中国的国旗——五星红旗在雄壮的《义勇军进行曲》中徐徐上升。\n\nD. 两股\"红流\"分头向东城、西城的街道流去，光明充满了整个北京城。",
+  "content_status": "完整",
+  "material_ids": [],
+  "knowledge_point_ids": [
+    "k-8b6111c50ffc082876a1"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-8b6111c50ffc082876a1",
+      "error_type": "标点使用"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "B ✅\n\n**解析：** B 选项中\"结，是解不完的\"和\"人生中的问题也是解不完的\"是两个并列的分句，中间应该用**分号**（或句号），不能只用逗号。原句\"结，是解不完的，人生中的问题也是解不完的\"一逗到底，是典型的标点错误。",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "保留原记录日期 2025-10-21。旧解析把并列分句必须用分号绝对化，不能据此直接判逗号错误，需原题和标准答案。"
+    },
+    "verification": "待核实",
+    "note": "保留原记录日期 2025-10-21。旧解析把并列分句必须用分号绝对化，不能据此直接判逗号错误，需原题和标准答案。"
+  },
+  "provenance": {
+    "path": "语文/字词基础.md",
+    "section": "## 第 1 题：标点符号判断",
+    "line": 104,
+    "end_line": 164,
+    "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+  }
+}

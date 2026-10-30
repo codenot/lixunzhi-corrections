@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-2b11f428752ed60527d5",
+  "question_id": "q-2b11f428752ed60527d5",
+  "submission_id": "sub-f2fa3cb1b6f68256599a",
+  "submitted_at": "2026-10-23",
+  "recorded_at": "2026-10-30",
+  "student_answer": "zhé",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "zhé",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": []
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/字词基础.md",
+    "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+    "line": 7,
+    "end_line": 60,
+    "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+  },
+  "question_context_hash": "1b0f42f97e87a28bc2bc7c025c5709380eb4057f4e749abdf79610ac1d4befab"
+}

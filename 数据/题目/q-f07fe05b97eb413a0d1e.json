@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-f07fe05b97eb413a0d1e",
+  "assignment_id": "as-fb0d17a77082dea9a59e",
+  "page_id": "pg-fb0d17a77082dea9a59e",
+  "original_number": "练习 2 / 小题 1",
+  "location": "练习 2（对应错题 · 引号的作用《触角》)",
+  "subject": "语文",
+  "chapter": "历史巩固练习",
+  "prompt": "1. 妈妈说，天气热了，\"绿色\"食品越来越受大家的欢迎。（　）",
+  "content_status": "待核实",
+  "material_ids": [
+    "mt-f043a2e52779c8aeb6f3"
+  ],
+  "knowledge_point_ids": [
+    "k-ed2203451071bf733cba"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-ed2203451071bf733cba",
+      "error_type": "标点使用"
+    }
+  ],
+  "assessment_kind": "同类变式",
+  "source_mistake_ids": [
+    "m-7eda36c7c79c8de6117f"
+  ],
+  "origin": "历史练习",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "1. **① 特殊含义**。\"绿色\"在这里不是指颜色，而是指无污染、无公害，是特殊含义。\n2. **② 特定称谓**。给这片湿地起了一个特定的名称。\n3. **③ 引用**。直接引用老舍先生的原话。\n4. **④ 强调**。突出\"最\"这个字用得好。\n\n**口诀：** 引号作用就四类——特殊含义（意思变了）、特定称谓（专有名称）、引用（别人原话）、强调（突出强调）。",
+    "solution": "该小题对应的精确答案与评分要点待从分组解析核验。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "练习/语文/语文巩固练习-2026-10-05.md 第二部分练习 2 答案"
+    },
+    "verification": "待核实",
+    "note": "历史练习尚未重新核验；原分组的答案解析保留供核对，不是学生完成记录。"
+  },
+  "provenance": {
+    "path": "练习/语文/语文巩固练习-2026-10-05.md",
+    "section": "## 练习 2（对应错题 · 引号的作用《触角》)",
+    "line": 30,
+    "end_line": 48,
+    "sha256": "184f1d0accc91d0ce0530d60882024d3714deb4487a73a4cd15da4de36f9b42d"
+  }
+}

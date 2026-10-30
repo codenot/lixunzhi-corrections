@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "kind": "exercise",
+  "id": "ex-26bfcf12756b30083c07",
+  "title": "数学练习 · 有理数巩固（2026-10-03）",
+  "created_at": "2026-10-03",
+  "purpose": "历史资料",
+  "status": "历史资料待核验",
+  "question_ids": [
+    "q-432dc00f62a0f168d0f7",
+    "q-7d5cc588615552d7400e",
+    "q-a41c183e296e184ea8d4",
+    "q-0a5437b89d6387f39c6c",
+    "q-bb7a9000923325bc2824",
+    "q-eb6a0a8041f49ada995e",
+    "q-cd2c8d52a7021ee5339b",
+    "q-b199e51f7a10eb43f17c",
+    "q-c5837fd6e5693c51bb60",
+    "q-e1d1e91baa4a7c1ca692",
+    "q-16bcb819d11c57ae95e6",
+    "q-706e06bb003aa4a818ee",
+    "q-ae76d920c2c9c3423dc7",
+    "q-3a86e13c9c01059a8efb"
+  ],
+  "selection_note": "由既有错题生成的历史资料；未记录实际作答。",
+  "provenance": {
+    "path": "练习/数学/有理数巩固练习-2026-10-03.md",
+    "section": "# 数学练习 · 有理数巩固（2026-10-03）",
+    "line": 1,
+    "end_line": 182,
+    "sha256": "ca04666fab3f74a2fd3ba22cfea12d4c3a5c184cc406ae75f764aee17933c52c"
+  }
+}

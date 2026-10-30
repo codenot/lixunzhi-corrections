@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-5be2afdd6bf25c99d4e9",
+  "question_id": "q-279864bd5bc55adede2c",
+  "admitted_attempt_id": "a-279864bd5bc55adede2c",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": ""
+}

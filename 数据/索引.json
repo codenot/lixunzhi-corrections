@@ -1,0 +1,3478 @@
+{
+  "schema_version": 1,
+  "mistake_count": 75,
+  "subject_counts": {
+    "数学": 18,
+    "英语": 25,
+    "语文": 32
+  },
+  "mistakes": [
+    {
+      "id": "m-f3bfad309ec14ce98a4c",
+      "question_id": "q-6c89156603e619d666a1",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-5b82466a38a51690510a"
+      ],
+      "original_number": "历史条目 1（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "概念或性质应用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-6c89156603e619d666a1"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 1 题",
+        "line": 7,
+        "end_line": 48,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-0d681593e7078e41b350",
+      "question_id": "q-6536bf9dffad7a42021f",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-eb6f6ec652cf2c327374"
+      ],
+      "original_number": "历史条目 2（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "条件遗漏或误用"
+      ],
+      "evidence_attempt_ids": [
+        "a-6536bf9dffad7a42021f"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 2 题",
+        "line": 49,
+        "end_line": 107,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-a8311e1d356a920fa29a",
+      "question_id": "q-47aef8b26ab77e577cd7",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-3821b839c030c35d21e9"
+      ],
+      "original_number": "历史条目 3（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "运算规则使用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-47aef8b26ab77e577cd7"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 3 题",
+        "line": 108,
+        "end_line": 171,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-d1c5e03d6449be976a5f",
+      "question_id": "q-da80448c314d73a4d1cb",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-729f95680193f1df42f4"
+      ],
+      "original_number": "历史条目 4（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "运算规则使用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-da80448c314d73a4d1cb"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 4 题",
+        "line": 172,
+        "end_line": 236,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-8ab8a3ec6a9c92fa7cdc",
+      "question_id": "q-f05331a34b166eb8898d",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-9a3d8ba0f6940dc8512b"
+      ],
+      "original_number": "历史条目 5（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "计算错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-f05331a34b166eb8898d"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 5 题",
+        "line": 237,
+        "end_line": 293,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-01a4c33b333dacf7fca6",
+      "question_id": "q-eb96f2eede980481936e",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-7e6da426c5720b4b4339"
+      ],
+      "original_number": "历史条目 6（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "运算规则使用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-eb96f2eede980481936e"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 6 题",
+        "line": 294,
+        "end_line": 354,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-e0eee610b11be579a956",
+      "question_id": "q-43640325f164a9abfc02",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-729f95680193f1df42f4"
+      ],
+      "original_number": "历史条目 7（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "运算规则使用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-43640325f164a9abfc02"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 7 题",
+        "line": 355,
+        "end_line": 433,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-e75b6eed6c7935687bb6",
+      "question_id": "q-ae9000abbabd379273a1",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-bfcee61bc688181028bd"
+      ],
+      "original_number": "历史条目 8（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "概念或性质应用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-ae9000abbabd379273a1"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 8 题",
+        "line": 434,
+        "end_line": 491,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-eccc97b1890864797e27",
+      "question_id": "q-c706bff0f36b49bd4508",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-0cf8f361b5137e9ca8ef"
+      ],
+      "original_number": "历史条目 9（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "条件遗漏或误用"
+      ],
+      "evidence_attempt_ids": [
+        "a-c706bff0f36b49bd4508"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 9 题",
+        "line": 492,
+        "end_line": 548,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-d59d6c2c30e7c8d50657",
+      "question_id": "q-4a42fc4cbbf751ee6e66",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-5446601d90dde6b3f894"
+      ],
+      "original_number": "历史条目 10（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "概念或性质应用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-4a42fc4cbbf751ee6e66"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 10 题",
+        "line": 549,
+        "end_line": 625,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-d1efc1e96e0aff4c1aa8",
+      "question_id": "q-8c8fd20627cba2bcb31a",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-88cf9d0ff1d005e35a14"
+      ],
+      "original_number": "历史条目 11（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "概念或性质应用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-8c8fd20627cba2bcb31a"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 11 题",
+        "line": 626,
+        "end_line": 679,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-88c0e9ebfa119a29cec3",
+      "question_id": "q-58e2a5c05ecd4762cc4d",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-01fbce85c0148e90cb0a"
+      ],
+      "original_number": "历史条目 12（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "条件遗漏或误用"
+      ],
+      "evidence_attempt_ids": [
+        "a-58e2a5c05ecd4762cc4d"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 12 题",
+        "line": 680,
+        "end_line": 720,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-fdbe7d3a7559310c7d17",
+      "question_id": "q-633c674870aa4dfeea4d",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-5b9165334cd6bf43015d"
+      ],
+      "original_number": "历史条目 13（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "计算错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-633c674870aa4dfeea4d"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 13 题",
+        "line": 721,
+        "end_line": 778,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-90e3f3ba967ce312a0f6",
+      "question_id": "q-290338ecc6a7a4378ed8",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-f018c2379a5b63a04a63"
+      ],
+      "original_number": "历史条目 14（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "计算错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-290338ecc6a7a4378ed8"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 14 题",
+        "line": 779,
+        "end_line": 845,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-7c2ff225af75d8a2afc6",
+      "question_id": "q-73dda3561fc56aa74146",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-265c3de6c3c270b6a1b5"
+      ],
+      "original_number": "历史条目 15（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "条件遗漏或误用"
+      ],
+      "evidence_attempt_ids": [
+        "a-73dda3561fc56aa74146"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 15 题",
+        "line": 846,
+        "end_line": 907,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-b8de3a68917821247cae",
+      "question_id": "q-23e8c69757a177e77c84",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-9a3d8ba0f6940dc8512b"
+      ],
+      "original_number": "历史条目 16（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "计算错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-23e8c69757a177e77c84"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 16 题",
+        "line": 908,
+        "end_line": 959,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-5f406e8d77fc4cf94695",
+      "question_id": "q-cdb2a94a3643a14043f0",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-f018c2379a5b63a04a63"
+      ],
+      "original_number": "历史条目 17（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "计算错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-cdb2a94a3643a14043f0"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 17 题",
+        "line": 960,
+        "end_line": 1013,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-0cea5c56184829156b85",
+      "question_id": "q-79d10d1d6f70637e6b83",
+      "subject": "数学",
+      "knowledge_point_ids": [
+        "k-70082514dde43952a7a5"
+      ],
+      "original_number": "历史条目 18（原题号未知）",
+      "chapter": "有理数",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "运算规则使用错误"
+      ],
+      "evidence_attempt_ids": [
+        "a-79d10d1d6f70637e6b83"
+      ],
+      "provenance": {
+        "path": "数学/有理数.md",
+        "section": "## 第 18 题",
+        "line": 1014,
+        "end_line": 1097,
+        "sha256": "28a240fc0112c5ab237382ecaf3eb620f8326a8283c4ea231929a864cf37b7fc"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-cc722a8f29ad9696d7d8",
+      "question_id": "q-4811132a327f38bf33a5",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-0e5cbb3e6110543ac4f3",
+        "k-ec78a223f3ed00b894a0"
+      ],
+      "original_number": "历史条目 1（原题号未知）",
+      "chapter": "写作",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "写作任务完成",
+        "时态与语态"
+      ],
+      "evidence_attempt_ids": [
+        "a-4811132a327f38bf33a5"
+      ],
+      "provenance": {
+        "path": "英语/写作.md",
+        "section": "## 第 1 题",
+        "line": 5,
+        "end_line": 42,
+        "sha256": "a049e8a64688f5f2b781c23c260ddae6872c99838b4a28ce1e195968efbdfb28"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-3d7d13394beaf6f77633",
+      "question_id": "q-ce21bf9af80879dba4d5",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-6333e07f8fcf5f411e3d"
+      ],
+      "original_number": "历史条目 1（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "待核实",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-ce21bf9af80879dba4d5"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 1 题",
+        "line": 5,
+        "end_line": 36,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面仍有疑点"
+    },
+    {
+      "id": "m-cc5f275b95b5d6f48cb7",
+      "question_id": "q-6779939412e052522ed0",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-7b68915517fe25553d75"
+      ],
+      "original_number": "历史条目 2（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "句子结构"
+      ],
+      "evidence_attempt_ids": [
+        "a-6779939412e052522ed0"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 2 题",
+        "line": 37,
+        "end_line": 69,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-e1b22def62fa22abb092",
+      "question_id": "q-e93e74e2b7e3e9fafdbe",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-927a60ec92ce1db0fcdd"
+      ],
+      "original_number": "历史条目 3（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-e93e74e2b7e3e9fafdbe"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 3 题",
+        "line": 70,
+        "end_line": 105,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-e822a17052b519aa39cf",
+      "question_id": "q-a7b5c70ba1c46a85da2a",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-0b8bfb321b92570bb607"
+      ],
+      "original_number": "历史条目 4（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "拼写"
+      ],
+      "evidence_attempt_ids": [
+        "a-a7b5c70ba1c46a85da2a"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 4 题",
+        "line": 106,
+        "end_line": 135,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-9d5c5aa0c70c862a64f1",
+      "question_id": "q-24f9707f86df2f80393e",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-7a717a656f990e1a2132"
+      ],
+      "original_number": "历史条目 5（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "待核实",
+      "error_types": [
+        "句子结构"
+      ],
+      "evidence_attempt_ids": [
+        "a-24f9707f86df2f80393e"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 5 题",
+        "line": 136,
+        "end_line": 166,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面仍有疑点"
+    },
+    {
+      "id": "m-cf063d74318498e5598e",
+      "question_id": "q-3b64cc34c275acbf6d37",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-40298d46d6fb090551a3"
+      ],
+      "original_number": "历史条目 6（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "待核实",
+      "error_types": [
+        "拼写"
+      ],
+      "evidence_attempt_ids": [
+        "a-3b64cc34c275acbf6d37"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 6 题",
+        "line": 167,
+        "end_line": 196,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面仍有疑点"
+    },
+    {
+      "id": "m-ee9673c47985b20a5ca1",
+      "question_id": "q-1d66831fa9e1dbf4df4b",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-4375641e44cd9d354a5b"
+      ],
+      "original_number": "历史条目 7（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-1d66831fa9e1dbf4df4b"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 7 题",
+        "line": 197,
+        "end_line": 228,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-d254f209cb3764aab477",
+      "question_id": "q-b5b01bbcc79c269222d8",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-fe606acb2d33a90b9b88"
+      ],
+      "original_number": "历史条目 8（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-b5b01bbcc79c269222d8"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 8 题",
+        "line": 229,
+        "end_line": 260,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-e909d8f47aa71b4de7f0",
+      "question_id": "q-058d551ee8ca282f14e6",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-17230ba9833db96550a6"
+      ],
+      "original_number": "历史条目 9（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "句子结构"
+      ],
+      "evidence_attempt_ids": [
+        "a-058d551ee8ca282f14e6"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 9 题",
+        "line": 261,
+        "end_line": 294,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-187627aef98b46a329c2",
+      "question_id": "q-8372f743a6bd191fbb46",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-6d3f4afc6cf860ab9c59"
+      ],
+      "original_number": "历史条目 10（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "待分类"
+      ],
+      "evidence_attempt_ids": [
+        "a-8372f743a6bd191fbb46"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 10 题",
+        "line": 295,
+        "end_line": 333,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-c8b3b0e6f57ca2ff923d",
+      "question_id": "q-57c7faf0cb72a58ba96f",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-d94e5196037e7a0e8173"
+      ],
+      "original_number": "历史条目 11（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-57c7faf0cb72a58ba96f"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 11 题",
+        "line": 334,
+        "end_line": 368,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-edf088b50e6e1436377f",
+      "question_id": "q-be615087ee41870d5fc1",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-932c8166c217dc85cffe"
+      ],
+      "original_number": "历史条目 12-2（原题号未知）",
+      "chapter": "词汇与语法",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "句子结构"
+      ],
+      "evidence_attempt_ids": [
+        "a-be615087ee41870d5fc1"
+      ],
+      "provenance": {
+        "path": "英语/词汇与语法.md",
+        "section": "## 第 12 题",
+        "line": 369,
+        "end_line": 399,
+        "sha256": "e2dbc79bfeefd1d8160105ad01a3b9f8c009e77f0031e641490952127365a723"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-7b20d1a401629c34f201",
+      "question_id": "q-e9240fbff30b570ebb51",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-44473e2d4834fd2e018e"
+      ],
+      "original_number": "历史条目 1（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "阅读信息理解"
+      ],
+      "evidence_attempt_ids": [
+        "a-e9240fbff30b570ebb51"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 1 题",
+        "line": 5,
+        "end_line": 36,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-02a2f6865ccaf90d22d3",
+      "question_id": "q-8eb02b18308c228a70f2",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-845a595b13279b02d88d"
+      ],
+      "original_number": "历史条目 2（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "阅读信息理解"
+      ],
+      "evidence_attempt_ids": [
+        "a-8eb02b18308c228a70f2"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 2 题",
+        "line": 37,
+        "end_line": 70,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-37c1dee048e0239c2a34",
+      "question_id": "q-c5cc21d27fc4101aa87d",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-41d3e7d8bb7bad1eeac0"
+      ],
+      "original_number": "历史条目 3（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-c5cc21d27fc4101aa87d"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 3 题",
+        "line": 71,
+        "end_line": 104,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-8f955ab295e164314b3d",
+      "question_id": "q-4c7c3d93b9bf2269c52d",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-9f2b99b87a6189341bd2"
+      ],
+      "original_number": "历史条目 4（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-4c7c3d93b9bf2269c52d"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 4 题",
+        "line": 105,
+        "end_line": 135,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-021616b9f81e94ab7bca",
+      "question_id": "q-c2a2494c3e87d7f125b0",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-15236f36a971596734a8"
+      ],
+      "original_number": "历史条目 5（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-c2a2494c3e87d7f125b0"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 5 题",
+        "line": 136,
+        "end_line": 167,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-ab9f96b331511fd7edb6",
+      "question_id": "q-7ce66db99221f7832ee4",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-0ed8a735197319c464ab"
+      ],
+      "original_number": "历史条目 6（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "词汇与搭配"
+      ],
+      "evidence_attempt_ids": [
+        "a-7ce66db99221f7832ee4"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 6 题",
+        "line": 168,
+        "end_line": 204,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-7e464e8aae4cd5267a7c",
+      "question_id": "q-537cea47cfa140696a3b",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-eacce8ce1742841e8536"
+      ],
+      "original_number": "历史条目 7（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "句子结构"
+      ],
+      "evidence_attempt_ids": [
+        "a-537cea47cfa140696a3b"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 7 题",
+        "line": 205,
+        "end_line": 236,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-5909847d8adf2ec353f3",
+      "question_id": "q-181d1c2e3452a827a90a",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-eacce8ce1742841e8536"
+      ],
+      "original_number": "历史条目 8（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "句子结构"
+      ],
+      "evidence_attempt_ids": [
+        "a-181d1c2e3452a827a90a"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 8 题",
+        "line": 237,
+        "end_line": 266,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-5be2afdd6bf25c99d4e9",
+      "question_id": "q-279864bd5bc55adede2c",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-0e5cbb3e6110543ac4f3"
+      ],
+      "original_number": "历史条目 9（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "时态与语态"
+      ],
+      "evidence_attempt_ids": [
+        "a-279864bd5bc55adede2c"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 9 题",
+        "line": 267,
+        "end_line": 301,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-7899c75a2ec7379188bc",
+      "question_id": "q-586cad9aeb60c49cdee0",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-e966c4c4b4746315e836"
+      ],
+      "original_number": "历史条目 10（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "写作任务完成"
+      ],
+      "evidence_attempt_ids": [
+        "a-586cad9aeb60c49cdee0"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 10 题",
+        "line": 302,
+        "end_line": 336,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-397eb48667e23134b78c",
+      "question_id": "q-2e3a0fd7754870b1fb97",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-06283eddd061f9be9209"
+      ],
+      "original_number": "历史条目 11（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "待核实",
+      "error_types": [
+        "词形变化"
+      ],
+      "evidence_attempt_ids": [
+        "a-2e3a0fd7754870b1fb97"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 11 题",
+        "line": 337,
+        "end_line": 374,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面仍有疑点"
+    },
+    {
+      "id": "m-63fc53be7f49ca73984f",
+      "question_id": "q-2dd3d678f8be066f2039",
+      "subject": "英语",
+      "knowledge_point_ids": [
+        "k-2468a77113a31447e2f2"
+      ],
+      "original_number": "历史条目 12（原题号未知）",
+      "chapter": "阅读理解",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "待核实",
+      "error_types": [
+        "句子结构"
+      ],
+      "evidence_attempt_ids": [
+        "a-2dd3d678f8be066f2039"
+      ],
+      "provenance": {
+        "path": "英语/阅读理解.md",
+        "section": "## 第 12 题",
+        "line": 375,
+        "end_line": 406,
+        "sha256": "4c0c960f09b1c2be21dc376d4133ea57b7ec89451cbbcdfab51db17970baebef"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面仍有疑点"
+    },
+    {
+      "id": "m-e48444642af5fcf14e06",
+      "question_id": "q-0bd93ae5f265c17370c0",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-606e633c00dcf56f95d0"
+      ],
+      "original_number": "历史条目 1（原题号未知）",
+      "chapter": "古诗文",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-0bd93ae5f265c17370c0"
+      ],
+      "provenance": {
+        "path": "语文/古诗文.md",
+        "section": "## 第 1 题：《越车》文言文阅读",
+        "line": 7,
+        "end_line": 38,
+        "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-f71d620fb54bfa392b07",
+      "question_id": "q-32117d5ac97995046b3e",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-59bbc2ab18c17ace4242"
+      ],
+      "original_number": "历史条目 2（原题号未知）",
+      "chapter": "古诗文",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "词句理解"
+      ],
+      "evidence_attempt_ids": [
+        "a-32117d5ac97995046b3e"
+      ],
+      "provenance": {
+        "path": "语文/古诗文.md",
+        "section": "## 第 2 题：《江南春》词语解释",
+        "line": 39,
+        "end_line": 64,
+        "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-df604a343b8100c3168d",
+      "question_id": "q-9babb1edcbb8e33b49fe",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-0aea8358ec9fa2310f69"
+      ],
+      "original_number": "历史条目 3（原题号未知）",
+      "chapter": "古诗文",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "词句理解"
+      ],
+      "evidence_attempt_ids": [
+        "a-9babb1edcbb8e33b49fe"
+      ],
+      "provenance": {
+        "path": "语文/古诗文.md",
+        "section": "## 第 3 题：《管鲍之交》古文翻译 —— 被动句",
+        "line": 65,
+        "end_line": 108,
+        "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-62cb0650145cd303206a",
+      "question_id": "q-0c5fcf076f7301afc9ec",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-3cd6416b36ca29347f46"
+      ],
+      "original_number": "历史条目 4（原题号未知）",
+      "chapter": "古诗文",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "概括与推断"
+      ],
+      "evidence_attempt_ids": [
+        "a-0c5fcf076f7301afc9ec"
+      ],
+      "provenance": {
+        "path": "语文/古诗文.md",
+        "section": "## 第 4 题：《管鲍之交》人物形象概括",
+        "line": 109,
+        "end_line": 143,
+        "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-9ce0e6f2cbaf1f32dd83",
+      "question_id": "q-6368276ad178543890fa",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-59bbc2ab18c17ace4242"
+      ],
+      "original_number": "历史条目 5（原题号未知）",
+      "chapter": "古诗文",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "词句理解"
+      ],
+      "evidence_attempt_ids": [
+        "a-6368276ad178543890fa"
+      ],
+      "provenance": {
+        "path": "语文/古诗文.md",
+        "section": "## 第 5 题：《螳螂捕蝉》文言实词——\"取\"",
+        "line": 144,
+        "end_line": 176,
+        "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-335395d6ca75f666bc21",
+      "question_id": "q-94df0ef207a94c6e9849",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-e2df6755937c294aabc6"
+      ],
+      "original_number": "历史条目 6-6（原题号未知）",
+      "chapter": "古诗文",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "未作答",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "漏题未答"
+      ],
+      "evidence_attempt_ids": [
+        "a-94df0ef207a94c6e9849"
+      ],
+      "provenance": {
+        "path": "语文/古诗文.md",
+        "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
+        "line": 177,
+        "end_line": 209,
+        "sha256": "db5b297426ca1f7f34bef06287b13bab2505b0c453b680db1d3a6828ce3c28ae"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-3d758f0d292f016539e8",
+      "question_id": "q-f25009a60d873a56881d",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-bdf0cdb10f52785dc692"
+      ],
+      "original_number": "历史条目 2-3（原题号未知）",
+      "chapter": "字词基础",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "字音判断"
+      ],
+      "evidence_attempt_ids": [
+        "a-f25009a60d873a56881d"
+      ],
+      "provenance": {
+        "path": "语文/字词基础.md",
+        "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+        "line": 7,
+        "end_line": 60,
+        "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-db140cdd2be216f43b59",
+      "question_id": "q-7882fac67d684f993d88",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-bdf0cdb10f52785dc692"
+      ],
+      "original_number": "历史条目 2-6（原题号未知）",
+      "chapter": "字词基础",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "字音判断"
+      ],
+      "evidence_attempt_ids": [
+        "a-7882fac67d684f993d88"
+      ],
+      "provenance": {
+        "path": "语文/字词基础.md",
+        "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+        "line": 7,
+        "end_line": 60,
+        "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-e7c3449512a43a2f9cfa",
+      "question_id": "q-8b3405f1dd9622045797",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-bdf0cdb10f52785dc692"
+      ],
+      "original_number": "历史条目 2-2（原题号未知）",
+      "chapter": "字词基础",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "字音判断"
+      ],
+      "evidence_attempt_ids": [
+        "a-8b3405f1dd9622045797"
+      ],
+      "provenance": {
+        "path": "语文/字词基础.md",
+        "section": "## 第 2 题：多音字注音（差 / 数 / 折）",
+        "line": 7,
+        "end_line": 60,
+        "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-9e4a16a09847faf16457",
+      "question_id": "q-da500deb1035f568fc5b",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-4c7fde22e0c5c56b1200"
+      ],
+      "original_number": "历史条目 3（原题号未知）",
+      "chapter": "字词基础",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "字音判断"
+      ],
+      "evidence_attempt_ids": [
+        "a-da500deb1035f568fc5b"
+      ],
+      "provenance": {
+        "path": "语文/字词基础.md",
+        "section": "## 第 3 题：加点字注音有误的一项",
+        "line": 61,
+        "end_line": 103,
+        "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-db84d4f7a564aba09ba5",
+      "question_id": "q-c3d24f1da3a29e42f85c",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-8b6111c50ffc082876a1"
+      ],
+      "original_number": "历史条目 1（原题号未知）",
+      "chapter": "字词基础",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "标点使用"
+      ],
+      "evidence_attempt_ids": [
+        "a-c3d24f1da3a29e42f85c"
+      ],
+      "provenance": {
+        "path": "语文/字词基础.md",
+        "section": "## 第 1 题：标点符号判断",
+        "line": 104,
+        "end_line": 164,
+        "sha256": "3b2a939b4cac379b66c15155a962858a438b3a15ffaae3bb69f34d0e0677d065"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    },
+    {
+      "id": "m-7eda36c7c79c8de6117f",
+      "question_id": "q-4dfbdd45cc29c092dfbe",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-ed2203451071bf733cba"
+      ],
+      "original_number": "历史条目 1-1（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "标点使用"
+      ],
+      "evidence_attempt_ids": [
+        "a-4dfbdd45cc29c092dfbe"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (1) 引号的作用",
+        "line": 15,
+        "end_line": 27,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-36cbd5fe0ba3c425bb54",
+      "question_id": "q-7341a1b857a6b53729f1",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-ce8706218d5109439980"
+      ],
+      "original_number": "历史条目 1-2（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-7341a1b857a6b53729f1"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (2) 开头讲故事的作用",
+        "line": 27,
+        "end_line": 48,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-51e959612efde82c5c2a",
+      "question_id": "q-8148dc32c9068f3a3d98",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-e458d3919a1904f315bd"
+      ],
+      "original_number": "历史条目 1-3-3（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "概括与推断"
+      ],
+      "evidence_attempt_ids": [
+        "a-8148dc32c9068f3a3d98"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (3) 文章结构梳理填空",
+        "line": 48,
+        "end_line": 74,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-a6e6819c35d2965339d5",
+      "question_id": "q-6c721bf2413f25668d54",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-e458d3919a1904f315bd"
+      ],
+      "original_number": "历史条目 1-3-2（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "概括与推断"
+      ],
+      "evidence_attempt_ids": [
+        "a-6c721bf2413f25668d54"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (3) 文章结构梳理填空",
+        "line": 48,
+        "end_line": 74,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-d343bcf024662bd084d2",
+      "question_id": "q-247a81a137cfc22a0b3e",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-e458d3919a1904f315bd"
+      ],
+      "original_number": "历史条目 1-3-1（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "概括与推断"
+      ],
+      "evidence_attempt_ids": [
+        "a-247a81a137cfc22a0b3e"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (3) 文章结构梳理填空",
+        "line": 48,
+        "end_line": 74,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-8b4ca06f6501c5994610",
+      "question_id": "q-4dd2a4b1df9a18c86956",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-149df03d4e075d6a95f6"
+      ],
+      "original_number": "历史条目 2-1-1（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-4dd2a4b1df9a18c86956"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (1) 概括 \"游戏\" 的内容和目的",
+        "line": 81,
+        "end_line": 105,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-fb496533167ba10323b6",
+      "question_id": "q-921de134364019f37dbe",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-149df03d4e075d6a95f6"
+      ],
+      "original_number": "历史条目 2-1-2（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-921de134364019f37dbe"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (1) 概括 \"游戏\" 的内容和目的",
+        "line": 81,
+        "end_line": 105,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-0634ef993d4d6a3bae15",
+      "question_id": "q-75fcbe82875bf09a73f6",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-6ba71135dd3c6e4f1ab8"
+      ],
+      "original_number": "历史条目 2-2-2（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-75fcbe82875bf09a73f6"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (2) 描写方法及作用",
+        "line": 105,
+        "end_line": 127,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-77a539a65971ef7977c9",
+      "question_id": "q-4622b80471fd1682533c",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-4384dfb06b7337668510"
+      ],
+      "original_number": "历史条目 2-3（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-4622b80471fd1682533c"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (3) 标题的含义",
+        "line": 127,
+        "end_line": 144,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-ede346e56504fc5b4b4d",
+      "question_id": "q-bec9d307f65f19114639",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-10fbcdf83dd3bdf99cd1"
+      ],
+      "original_number": "历史条目 2-4（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "概括与推断"
+      ],
+      "evidence_attempt_ids": [
+        "a-bec9d307f65f19114639"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (4) 主旨理解选择题",
+        "line": 144,
+        "end_line": 162,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-580d54c4fb6627a9c720",
+      "question_id": "q-f945acd5942a38d861b4",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-72600c329457e29e13c1"
+      ],
+      "original_number": "历史条目 3-1-2（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-f945acd5942a38d861b4"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (1) 视角转换补写情节",
+        "line": 169,
+        "end_line": 191,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-7dd4448d1a0e422ea214",
+      "question_id": "q-e882ccfd044d486e699d",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-72600c329457e29e13c1"
+      ],
+      "original_number": "历史条目 3-1-1（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-e882ccfd044d486e699d"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (1) 视角转换补写情节",
+        "line": 169,
+        "end_line": 191,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-b6c0f4bbd19a93a6388b",
+      "question_id": "q-5b2ab64fa64e91ae6ea7",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-6f0753b8dd2f7648facd"
+      ],
+      "original_number": "历史条目 3-2（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-5b2ab64fa64e91ae6ea7"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (2) 句子赏析：\"是我的 ——\" 她气汹汹地嚷了半句，就扭过脸去。",
+        "line": 191,
+        "end_line": 214,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-4b0a3c47a5bfac30572e",
+      "question_id": "q-c12d4d9ba39c01055d33",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-4384dfb06b7337668510"
+      ],
+      "original_number": "历史条目 3-3（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "待核实",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-c12d4d9ba39c01055d33"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (3) 标题 \"百合花\" 的含义",
+        "line": 214,
+        "end_line": 232,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-c3d64d026bbb2e51b218",
+      "question_id": "q-b9925ba191821cf23bdd",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-56c45deaf164aba58b64"
+      ],
+      "original_number": "历史条目 4-1（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "概括与推断"
+      ],
+      "evidence_attempt_ids": [
+        "a-b9925ba191821cf23bdd"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (1) 写作手法与内容理解选择题",
+        "line": 240,
+        "end_line": 270,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-b206ca36ab3e6a47b325",
+      "question_id": "q-ca980a7738f447978e09",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-f490e6d327ec8f7b93e2"
+      ],
+      "original_number": "历史条目 4-2（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "概括与推断"
+      ],
+      "evidence_attempt_ids": [
+        "a-ca980a7738f447978e09"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (2) 二月兰精神内涵理解选择题",
+        "line": 270,
+        "end_line": 299,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-51d37297d6ee16a53a52",
+      "question_id": "q-fc05e8976858547c3ff6",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-60597588ac569b05202f"
+      ],
+      "original_number": "历史条目 5-1（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-fc05e8976858547c3ff6"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (1) 词语赏析——\"毛嘟嘟\"",
+        "line": 307,
+        "end_line": 329,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-835cc42121e971c6e1d4",
+      "question_id": "q-bf1742d46dee5895909e",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-2ff27ef2b697222790f7"
+      ],
+      "original_number": "历史条目 5-2（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "答案要点缺漏"
+      ],
+      "evidence_attempt_ids": [
+        "a-bf1742d46dee5895909e"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (2) 内容概括——\"我\"在后园做的趣事",
+        "line": 329,
+        "end_line": 353,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-cb7a0514e40b4edd434b",
+      "question_id": "q-f46ccda9b4362a4d9363",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-e9d84f10a7dbeb98336b"
+      ],
+      "original_number": "历史条目 5-3-1（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "词句理解"
+      ],
+      "evidence_attempt_ids": [
+        "a-f46ccda9b4362a4d9363"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (3) 修辞手法判断——\"我一跨进这个门槛，我就出不来了！\"",
+        "line": 353,
+        "end_line": 376,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-1657085f23ae0d64cbe8",
+      "question_id": "q-b1360f374aae77d53052",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-29bd601797dbf72605df"
+      ],
+      "original_number": "历史条目 5-4（原题号未知）",
+      "chapter": "现代文阅读",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "部分正确",
+      "verification": "待核实",
+      "content_status": "材料不全",
+      "error_types": [
+        "信息提取"
+      ],
+      "evidence_attempt_ids": [
+        "a-b1360f374aae77d53052"
+      ],
+      "provenance": {
+        "path": "语文/现代文阅读.md",
+        "section": "#### (4) 人物事件梳理——父亲\"惯\"出的\"野\"",
+        "line": 376,
+        "end_line": 395,
+        "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图及必要材料缺失或不全"
+    },
+    {
+      "id": "m-96e9fae5b173a52598ee",
+      "question_id": "q-766c2f27c5c51a5ff1a8",
+      "subject": "语文",
+      "knowledge_point_ids": [
+        "k-4ec69691abd73867c2a6"
+      ],
+      "original_number": "历史条目 1（原题号未知）",
+      "chapter": "病句修改",
+      "original_status": "未重做",
+      "note": "",
+      "current_admission_result": "错误",
+      "verification": "待核实",
+      "content_status": "完整",
+      "error_types": [
+        "语法与病句"
+      ],
+      "evidence_attempt_ids": [
+        "a-766c2f27c5c51a5ff1a8"
+      ],
+      "provenance": {
+        "path": "语文/病句修改.md",
+        "section": "## 第 1 题：成分残缺——\"具有\"后面缺宾语",
+        "line": 7,
+        "end_line": 52,
+        "sha256": "c3ded915d148126fb60c580196203c39f48ca190538009d5c9735b167985792a"
+      },
+      "source_verification": "待核实",
+      "source_verification_note": "原图缺失；转录题面完整"
+    }
+  ],
+  "patterns": [
+    {
+      "knowledge_point_id": "k-f018c2379a5b63a04a63",
+      "error_type": "计算错误",
+      "mistake_ids": [
+        "m-5f406e8d77fc4cf94695",
+        "m-90e3f3ba967ce312a0f6"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "乘法分配律与分组",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-bfcee61bc688181028bd",
+      "error_type": "概念或性质应用错误",
+      "mistake_ids": [
+        "m-e75b6eed6c7935687bb6"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "分数所在的整数区间",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-70082514dde43952a7a5",
+      "error_type": "运算规则使用错误",
+      "mistake_ids": [
+        "m-0cea5c56184829156b85"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "多层括号的混合运算",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-01fbce85c0148e90cb0a",
+      "error_type": "条件遗漏或误用",
+      "mistake_ids": [
+        "m-88c0e9ebfa119a29cec3"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "平方条件与多解",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-5b9165334cd6bf43015d",
+      "error_type": "计算错误",
+      "mistake_ids": [
+        "m-fdbe7d3a7559310c7d17"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "新定义运算代入",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-0cf8f361b5137e9ca8ef",
+      "error_type": "条件遗漏或误用",
+      "mistake_ids": [
+        "m-eccc97b1890864797e27"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "时差与经过时间",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-9a3d8ba0f6940dc8512b",
+      "error_type": "计算错误",
+      "mistake_ids": [
+        "m-8ab8a3ec6a9c92fa7cdc",
+        "m-b8de3a68917821247cae"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "有理数乘除与约分",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-eb6f6ec652cf2c327374",
+      "error_type": "条件遗漏或误用",
+      "mistake_ids": [
+        "m-0d681593e7078e41b350"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "有理数命题中的零与定义域",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-5b82466a38a51690510a",
+      "error_type": "概念或性质应用错误",
+      "mistake_ids": [
+        "m-f3bfad309ec14ce98a4c"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "有理数和与积的符号",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-5446601d90dde6b3f894",
+      "error_type": "概念或性质应用错误",
+      "mistake_ids": [
+        "m-d59d6c2c30e7c8d50657"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "有理数和积符号与绝对值",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-265c3de6c3c270b6a1b5",
+      "error_type": "条件遗漏或误用",
+      "mistake_ids": [
+        "m-7c2ff225af75d8a2afc6"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "绝对值符号分类讨论",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-729f95680193f1df42f4",
+      "error_type": "运算规则使用错误",
+      "mistake_ids": [
+        "m-d1c5e03d6449be976a5f",
+        "m-e0eee610b11be579a956"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "负号与括号变号",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-3821b839c030c35d21e9",
+      "error_type": "运算规则使用错误",
+      "mistake_ids": [
+        "m-a8311e1d356a920fa29a"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "除法与括号内运算",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-7e6da426c5720b4b4339",
+      "error_type": "运算规则使用错误",
+      "mistake_ids": [
+        "m-01a4c33b333dacf7fca6"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "除法转乘倒数",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-88cf9d0ff1d005e35a14",
+      "error_type": "概念或性质应用错误",
+      "mistake_ids": [
+        "m-d1efc1e96e0aff4c1aa8"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "非负数与多重负号",
+      "subject": "数学"
+    },
+    {
+      "knowledge_point_id": "k-15236f36a971596734a8",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-021616b9f81e94ab7bca"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "before doing 的时间关系",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-40298d46d6fb090551a3",
+      "error_type": "拼写",
+      "mistake_ids": [
+        "m-cf063d74318498e5598e"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "clinic 的拼写",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-d94e5196037e7a0e8173",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-c8b3b0e6f57ca2ff923d"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "feel 的补语与语境",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-6333e07f8fcf5f411e3d",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-3d7d13394beaf6f77633"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "high in 与 low in",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-932c8166c217dc85cffe",
+      "error_type": "句子结构",
+      "mistake_ids": [
+        "m-edf088b50e6e1436377f"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "like doing 的疑问句",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-17230ba9833db96550a6",
+      "error_type": "句子结构",
+      "mistake_ids": [
+        "m-e909d8f47aa71b4de7f0"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "no matter how 从句",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-4375641e44cd9d354a5b",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-ee9673c47985b20a5ca1"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "onto 与 into 的区别",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-6d3f4afc6cf860ab9c59",
+      "error_type": "待分类",
+      "mistake_ids": [
+        "m-187627aef98b46a329c2"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "oo 的发音辨析",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-44473e2d4834fd2e018e",
+      "error_type": "阅读信息理解",
+      "mistake_ids": [
+        "m-7b20d1a401629c34f201"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "out of 的部分与整体",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-9f2b99b87a6189341bd2",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-8f955ab295e164314b3d"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "prepare your body 搭配",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-fe606acb2d33a90b9b88",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-d254f209cb3764aab477"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "solve problems 搭配",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-0ed8a735197319c464ab",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-ab9f96b331511fd7edb6"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "the key to 搭配",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-0e5cbb3e6110543ac4f3",
+      "error_type": "时态与语态",
+      "mistake_ids": [
+        "m-5be2afdd6bf25c99d4e9",
+        "m-cc722a8f29ad9696d7d8"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "一般过去时的使用",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-06283eddd061f9be9209",
+      "error_type": "词形变化",
+      "mistake_ids": [
+        "m-397eb48667e23134b78c"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "介词后的动名词",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-ec78a223f3ed00b894a0",
+      "error_type": "写作任务完成",
+      "mistake_ids": [
+        "m-cc722a8f29ad9696d7d8"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "写作字数与任务要求",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-2468a77113a31447e2f2",
+      "error_type": "句子结构",
+      "mistake_ids": [
+        "m-63fc53be7f49ca73984f"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "动名词作主语",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-7b68915517fe25553d75",
+      "error_type": "句子结构",
+      "mistake_ids": [
+        "m-cc5f275b95b5d6f48cb7"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "反意疑问句的简答",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-0b8bfb321b92570bb607",
+      "error_type": "拼写",
+      "mistake_ids": [
+        "m-e822a17052b519aa39cf"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "否定句中的动词原形",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-7a717a656f990e1a2132",
+      "error_type": "句子结构",
+      "mistake_ids": [
+        "m-9d5c5aa0c70c862a64f1"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "建议句式的同义转换",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-41d3e7d8bb7bad1eeac0",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-37c1dee048e0239c2a34"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "比较级词义与语境",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-e966c4c4b4746315e836",
+      "error_type": "写作任务完成",
+      "mistake_ids": [
+        "m-7899c75a2ec7379188bc"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "续写的语境衔接",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-927a60ec92ce1db0fcdd",
+      "error_type": "词汇与搭配",
+      "mistake_ids": [
+        "m-e1b22def62fa22abb092"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "表示喜悦的介词搭配",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-845a595b13279b02d88d",
+      "error_type": "阅读信息理解",
+      "mistake_ids": [
+        "m-02a2f6865ccaf90d22d3"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "阅读细节定位",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-eacce8ce1742841e8536",
+      "error_type": "句子结构",
+      "mistake_ids": [
+        "m-5909847d8adf2ec353f3",
+        "m-7e464e8aae4cd5267a7c"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "阅读问答的表达要求",
+      "subject": "英语"
+    },
+    {
+      "knowledge_point_id": "k-149df03d4e075d6a95f6",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-8b4ca06f6501c5994610",
+        "m-fb496533167ba10323b6"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "事件内容与目的概括",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-f490e6d327ec8f7b93e2",
+      "error_type": "概括与推断",
+      "mistake_ids": [
+        "m-b206ca36ab3e6a47b325"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "事物形象与精神内涵",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-29bd601797dbf72605df",
+      "error_type": "信息提取",
+      "mistake_ids": [
+        "m-1657085f23ae0d64cbe8"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "人物与事件对应",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-3cd6416b36ca29347f46",
+      "error_type": "概括与推断",
+      "mistake_ids": [
+        "m-62cb0650145cd303206a"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "人物品质与事件证据",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-e9d84f10a7dbeb98336b",
+      "error_type": "词句理解",
+      "mistake_ids": [
+        "m-cb7a0514e40b4edd434b"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "修辞手法与表达作用",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-6f0753b8dd2f7648facd",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-b6c0f4bbd19a93a6388b"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "关键词与人物情感",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-56c45deaf164aba58b64",
+      "error_type": "概括与推断",
+      "mistake_ids": [
+        "m-c3d64d026bbb2e51b218"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "写作手法与文本证据",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-72600c329457e29e13c1",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-580d54c4fb6627a9c720",
+        "m-7dd4448d1a0e422ea214"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "叙述视角与情节概括",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-59bbc2ab18c17ace4242",
+      "error_type": "词句理解",
+      "mistake_ids": [
+        "m-9ce0e6f2cbaf1f32dd83",
+        "m-f71d620fb54bfa392b07"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "古诗文实词释义",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-bdf0cdb10f52785dc692",
+      "error_type": "字音判断",
+      "mistake_ids": [
+        "m-3d758f0d292f016539e8",
+        "m-db140cdd2be216f43b59",
+        "m-e7c3449512a43a2f9cfa"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "多音字的读音与词义",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-4c7fde22e0c5c56b1200",
+      "error_type": "字音判断",
+      "mistake_ids": [
+        "m-9e4a16a09847faf16457"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "字音辨析",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-8b6111c50ffc082876a1",
+      "error_type": "标点使用",
+      "mistake_ids": [
+        "m-db84d4f7a564aba09ba5"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "并列结构的标点",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-ed2203451071bf733cba",
+      "error_type": "标点使用",
+      "mistake_ids": [
+        "m-7eda36c7c79c8de6117f"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "引号的作用",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-2ff27ef2b697222790f7",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-835cc42121e971c6e1d4"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "按要求概括事件",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-6ba71135dd3c6e4f1ab8",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-0634ef993d4d6a3bae15"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "描写方法及作用",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-10fbcdf83dd3bdf99cd1",
+      "error_type": "概括与推断",
+      "mistake_ids": [
+        "m-ede346e56504fc5b4b4d"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "文章主旨理解",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-e458d3919a1904f315bd",
+      "error_type": "概括与推断",
+      "mistake_ids": [
+        "m-51e959612efde82c5c2a",
+        "m-a6e6819c35d2965339d5",
+        "m-d343bcf024662bd084d2"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "文章结构概括",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-e2df6755937c294aabc6",
+      "error_type": "漏题未答",
+      "mistake_ids": [
+        "m-335395d6ca75f666bc21"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "文言代词指代",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-606e633c00dcf56f95d0",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-e48444642af5fcf14e06"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "文言文启示题的要点",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-0aea8358ec9fa2310f69",
+      "error_type": "词句理解",
+      "mistake_ids": [
+        "m-df604a343b8100c3168d"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "文言被动句式",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-4384dfb06b7337668510",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-4b0a3c47a5bfac30572e",
+        "m-77a539a65971ef7977c9"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "标题的含义",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-4ec69691abd73867c2a6",
+      "error_type": "语法与病句",
+      "mistake_ids": [
+        "m-96e9fae5b173a52598ee"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "病句成分残缺",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-60597588ac569b05202f",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-51d37297d6ee16a53a52"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "词语赏析",
+      "subject": "语文"
+    },
+    {
+      "knowledge_point_id": "k-ce8706218d5109439980",
+      "error_type": "答案要点缺漏",
+      "mistake_ids": [
+        "m-36cbd5fe0ba3c425bb54"
+      ],
+      "status": "掌握情况待验证",
+      "evidence": [],
+      "distinct_variants_since_last_error": 0,
+      "knowledge_name": "说明文开头的作用",
+      "subject": "语文"
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "k-01fbce85c0148e90cb0a",
+      "name": "平方条件与多解",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-06283eddd061f9be9209",
+      "name": "介词后的动名词",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-0aea8358ec9fa2310f69",
+      "name": "文言被动句式",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-0b8bfb321b92570bb607",
+      "name": "否定句中的动词原形",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-0cf8f361b5137e9ca8ef",
+      "name": "时差与经过时间",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-0e5cbb3e6110543ac4f3",
+      "name": "一般过去时的使用",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-0ed8a735197319c464ab",
+      "name": "the key to 搭配",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-10fbcdf83dd3bdf99cd1",
+      "name": "文章主旨理解",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-149df03d4e075d6a95f6",
+      "name": "事件内容与目的概括",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-15236f36a971596734a8",
+      "name": "before doing 的时间关系",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-17230ba9833db96550a6",
+      "name": "no matter how 从句",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-2468a77113a31447e2f2",
+      "name": "动名词作主语",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-265c3de6c3c270b6a1b5",
+      "name": "绝对值符号分类讨论",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-29bd601797dbf72605df",
+      "name": "人物与事件对应",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-2ff27ef2b697222790f7",
+      "name": "按要求概括事件",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-3821b839c030c35d21e9",
+      "name": "除法与括号内运算",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-3cd6416b36ca29347f46",
+      "name": "人物品质与事件证据",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-40298d46d6fb090551a3",
+      "name": "clinic 的拼写",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-41d3e7d8bb7bad1eeac0",
+      "name": "比较级词义与语境",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-4375641e44cd9d354a5b",
+      "name": "onto 与 into 的区别",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-4384dfb06b7337668510",
+      "name": "标题的含义",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-44473e2d4834fd2e018e",
+      "name": "out of 的部分与整体",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-4c7fde22e0c5c56b1200",
+      "name": "字音辨析",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-4ec69691abd73867c2a6",
+      "name": "病句成分残缺",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-5446601d90dde6b3f894",
+      "name": "有理数和积符号与绝对值",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-56c45deaf164aba58b64",
+      "name": "写作手法与文本证据",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-59bbc2ab18c17ace4242",
+      "name": "古诗文实词释义",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-5b82466a38a51690510a",
+      "name": "有理数和与积的符号",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-5b9165334cd6bf43015d",
+      "name": "新定义运算代入",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-60597588ac569b05202f",
+      "name": "词语赏析",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-606e633c00dcf56f95d0",
+      "name": "文言文启示题的要点",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-6333e07f8fcf5f411e3d",
+      "name": "high in 与 low in",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-6ba71135dd3c6e4f1ab8",
+      "name": "描写方法及作用",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-6d3f4afc6cf860ab9c59",
+      "name": "oo 的发音辨析",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-6f0753b8dd2f7648facd",
+      "name": "关键词与人物情感",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-70082514dde43952a7a5",
+      "name": "多层括号的混合运算",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-72600c329457e29e13c1",
+      "name": "叙述视角与情节概括",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-729f95680193f1df42f4",
+      "name": "负号与括号变号",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-7a717a656f990e1a2132",
+      "name": "建议句式的同义转换",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-7b68915517fe25553d75",
+      "name": "反意疑问句的简答",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-7e6da426c5720b4b4339",
+      "name": "除法转乘倒数",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-845a595b13279b02d88d",
+      "name": "阅读细节定位",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-88cf9d0ff1d005e35a14",
+      "name": "非负数与多重负号",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-8b6111c50ffc082876a1",
+      "name": "并列结构的标点",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-927a60ec92ce1db0fcdd",
+      "name": "表示喜悦的介词搭配",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-932c8166c217dc85cffe",
+      "name": "like doing 的疑问句",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-9a3d8ba0f6940dc8512b",
+      "name": "有理数乘除与约分",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-9f2b99b87a6189341bd2",
+      "name": "prepare your body 搭配",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-bdf0cdb10f52785dc692",
+      "name": "多音字的读音与词义",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-bfcee61bc688181028bd",
+      "name": "分数所在的整数区间",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-ce8706218d5109439980",
+      "name": "说明文开头的作用",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-d94e5196037e7a0e8173",
+      "name": "feel 的补语与语境",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-e2df6755937c294aabc6",
+      "name": "文言代词指代",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-e458d3919a1904f315bd",
+      "name": "文章结构概括",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-e966c4c4b4746315e836",
+      "name": "续写的语境衔接",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-e9d84f10a7dbeb98336b",
+      "name": "修辞手法与表达作用",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-eacce8ce1742841e8536",
+      "name": "阅读问答的表达要求",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-eb6f6ec652cf2c327374",
+      "name": "有理数命题中的零与定义域",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-ec78a223f3ed00b894a0",
+      "name": "写作字数与任务要求",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-ed2203451071bf733cba",
+      "name": "引号的作用",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-f018c2379a5b63a04a63",
+      "name": "乘法分配律与分组",
+      "subject": "数学",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-f490e6d327ec8f7b93e2",
+      "name": "事物形象与精神内涵",
+      "subject": "语文",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    },
+    {
+      "id": "k-fe606acb2d33a90b9b88",
+      "name": "solve problems 搭配",
+      "subject": "英语",
+      "status": "掌握情况待验证",
+      "note": "仅汇总已观察到的错误模式，不代表该知识点全部能力"
+    }
+  ],
+  "scope_note": "错题样本不能推算整体正确率；历史转述及待核实批改不作为掌握证据。"
+}

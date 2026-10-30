@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "mistake",
+  "id": "m-f3bfad309ec14ce98a4c",
+  "question_id": "q-6c89156603e619d666a1",
+  "admitted_attempt_id": "a-6c89156603e619d666a1",
+  "approval": {
+    "mode": "历史迁移",
+    "at": "2026-10-30",
+    "evidence": "用户已明确要求实施方案，并将现有错题一起迁移；仅适用于迁移前已记录的错题。"
+  },
+  "note": "若题干确为“需要满足”，A 与 C 都是必要条件，需核对原图的单选表述。"
+}

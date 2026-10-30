@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "kind": "question",
+  "id": "q-c12d4d9ba39c01055d33",
+  "assignment_id": "as-be53ae254c00811aaed0",
+  "page_id": "pg-be53ae254c00811aaed0",
+  "original_number": "历史条目 3-3（原题号未知）",
+  "location": "(3) 标题 \"百合花\" 的含义",
+  "subject": "语文",
+  "chapter": "现代文阅读",
+  "prompt": "(3) 标题 \"百合花\" 的含义",
+  "content_status": "材料不全",
+  "material_ids": [
+    "mt-dbe233a421511b25d64b"
+  ],
+  "knowledge_point_ids": [
+    "k-4384dfb06b7337668510"
+  ],
+  "targets": [
+    {
+      "knowledge_point_id": "k-4384dfb06b7337668510",
+      "error_type": "答案要点缺漏"
+    }
+  ],
+  "assessment_kind": "原题",
+  "source_mistake_ids": [],
+  "origin": "历史错题",
+  "required": "未知",
+  "answer_area_visible": false,
+  "reference": {
+    "answer": "- **表层含义：** 指新媳妇那条新被子上的**白色百合花图案**；\n- **深层含义（象征）：** 百合花象征着**纯洁、高尚、美好**，既象征着通讯员和新媳妇两个人**纯洁高尚的心灵**，也象征着**军民之间纯洁深厚的感情**。",
+    "solution": "历史参考答案尚需结合原图、原文及评分要求核实。",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "“我的答案”只保留整理者评价，没有学生逐字作答。"
+    },
+    "verification": "待核实",
+    "note": "“我的答案”只保留整理者评价，没有学生逐字作答。"
+  },
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (3) 标题 \"百合花\" 的含义",
+    "line": 214,
+    "end_line": 232,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  }
+}

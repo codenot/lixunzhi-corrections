@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "kind": "attempt",
+  "id": "a-75fcbe82875bf09a73f6",
+  "question_id": "q-75fcbe82875bf09a73f6",
+  "submission_id": "sub-be53ae254c00811aaed0",
+  "submitted_at": "2026-10-03",
+  "recorded_at": "2026-10-30",
+  "student_answer": "写出了父亲和儿子关系好……（历史片段）",
+  "answer_fidelity": "历史转述",
+  "independence": "未知",
+  "supersedes_attempt_id": null,
+  "revision_reason": "",
+  "grade": {
+    "result": "部分正确",
+    "verification": "待核实",
+    "basis": {
+      "kind": "历史记录",
+      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+    },
+    "reference_answer": "**动作描写。**",
+    "analysis": "原题及评分依据不完整，先核实后用于教学。",
+    "errors": [
+      {
+        "error_type": "答案要点缺漏",
+        "error_reason": "本题“文中画横线的句子（\"父亲伸出手，钩住儿子的小拇指。他们仔细地拉钩，每一下都很到位。\"）是\\___\\_描写，作用是？ 本记录对应作用。”，历史作答记录为“写出了父亲和儿子关系好……（历史片段）”。历史参考答案为“**动作描写。**”。具体差异及判分仍需对照原始材料核实。",
+        "knowledge_point_ids": [
+          "k-6ba71135dd3c6e4f1ab8"
+        ],
+        "location": "(2) 描写方法及作用",
+        "evidence": "写出了父亲和儿子关系好……（历史片段）",
+        "cause": {
+          "hypothesis": null,
+          "status": "未知",
+          "evidence": ""
+        }
+      }
+    ]
+  },
+  "assessments": [],
+  "provenance": {
+    "path": "语文/现代文阅读.md",
+    "section": "#### (2) 描写方法及作用",
+    "line": 105,
+    "end_line": 127,
+    "sha256": "7942bc82063c3616367d42e28f340bb70efe03bede0f1b2b4593a035fe1306c4"
+  },
+  "question_context_hash": "0032f1b183de4c3cf95f723406f906372b06829efcf553ad13cfe8be606b21fa"
+}

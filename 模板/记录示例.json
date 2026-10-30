@@ -1,0 +1,146 @@
+{
+  "records": [
+    {
+      "schema_version": 1,
+      "kind": "knowledge",
+      "id": "k-reciprocal",
+      "subject": "数学",
+      "name": "除法转乘倒数",
+      "aliases": [
+        "除以分数"
+      ]
+    },
+    {
+      "schema_version": 1,
+      "kind": "assignment",
+      "id": "as-example",
+      "title": "格式示例（非真实学生作业）",
+      "date": "2026-10-01",
+      "coverage": "整份作业",
+      "scope_note": "虚构的文字作答，仅供参考记录格式。",
+      "expected_question_count": 1,
+      "pages": [
+        {
+          "id": "pg-example",
+          "upload_order": 1,
+          "printed_page": 1,
+          "label": "示例第一页",
+          "image_path": null,
+          "sha256": null,
+          "note": "文字示例，没有实际图片。"
+        }
+      ],
+      "provenance": {
+        "path": null,
+        "section": "",
+        "line": null,
+        "end_line": null,
+        "sha256": null
+      }
+    },
+    {
+      "schema_version": 1,
+      "kind": "question",
+      "id": "q-example",
+      "revision": 1,
+      "assignment_id": "as-example",
+      "page_id": "pg-example",
+      "original_number": "1",
+      "location": "第一题",
+      "subject": "数学",
+      "chapter": null,
+      "prompt": "计算：2 ÷ (1/2)。",
+      "content_status": "完整",
+      "material_ids": [],
+      "knowledge_point_ids": [
+        "k-reciprocal"
+      ],
+      "targets": [
+        {
+          "knowledge_point_id": "k-reciprocal",
+          "error_type": "运算规则使用错误"
+        }
+      ],
+      "assessment_kind": "原题",
+      "source_mistake_ids": [],
+      "origin": "作业",
+      "required": "必答",
+      "answer_area_visible": true,
+      "reference": {
+        "answer": "4",
+        "solution": "除以 1/2 等于乘以 2，因此 2×2=4。",
+        "basis": {
+          "kind": "AI解答",
+          "evidence": "按分数除法规则独立复算。"
+        },
+        "verification": "已核验",
+        "note": "已重新计算结果及步骤。"
+      },
+      "provenance": {
+        "path": null,
+        "section": "",
+        "line": null,
+        "end_line": null,
+        "sha256": null
+      }
+    },
+    {
+      "schema_version": 1,
+      "kind": "attempt",
+      "id": "a-example",
+      "question_id": "q-example",
+      "submission_id": "sub-a-example",
+      "based_on": {
+        "question_revision": 1,
+        "material_revisions": {}
+      },
+      "submitted_at": "2026-10-01",
+      "recorded_at": "2026-10-01",
+      "student_answer": "2×(1/2)=1",
+      "answer_fidelity": "原始作答",
+      "independence": "独立完成",
+      "supersedes_attempt_id": null,
+      "revision_reason": "",
+      "grade": {
+        "result": "错误",
+        "verification": "已核验",
+        "basis": {
+          "kind": "AI解答",
+          "evidence": "核对学生书写步骤并独立复算。"
+        },
+        "reference_answer": "4",
+        "analysis": "除以 1/2 等于乘以 2，因此 2×2=4。",
+        "errors": [
+          {
+            "error_type": "运算规则使用错误",
+            "error_reason": "对原题“计算：2 ÷ (1/2)。”，将除以分数误写成乘以原分数，应乘倒数。",
+            "knowledge_point_ids": [
+              "k-reciprocal"
+            ],
+            "location": "第一步",
+            "evidence": "学生写出 2×(1/2)=1。",
+            "cause": {
+              "hypothesis": null,
+              "status": "未知",
+              "evidence": ""
+            }
+          }
+        ]
+      },
+      "assessments": [
+        {
+          "knowledge_point_id": "k-reciprocal",
+          "error_type": "运算规则使用错误",
+          "result": "错误"
+        }
+      ],
+      "provenance": {
+        "path": null,
+        "section": "",
+        "line": null,
+        "end_line": null,
+        "sha256": null
+      }
+    }
+  ]
+}
