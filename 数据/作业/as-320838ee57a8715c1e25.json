@@ -11,7 +11,7 @@
       "id": "pg-320838ee57a8715c1e25",
       "upload_order": 1,
       "printed_page": null,
-      "label": "数学/有理数.md",
+      "label": "历史遗留/数学/有理数.md",
       "image_path": null,
       "sha256": null,
       "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
@@ -19,7 +19,7 @@
   ],
   "expected_question_count": null,
   "provenance": {
-    "path": "数学/有理数.md",
+    "path": "历史遗留/数学/有理数.md",
     "section": "# 数学错题集 · 有理数",
     "line": 1,
     "end_line": 1097,

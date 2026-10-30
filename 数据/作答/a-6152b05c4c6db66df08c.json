@@ -16,7 +16,7 @@
     "verification": "待核实",
     "basis": {
       "kind": "历史记录",
-      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+      "evidence": "依据已保存文档中的作答和批改；原图及原始评分记录缺失。"
     },
     "reference_answer": "动作描写",
     "analysis": "原题及评分依据不完整，先核实后用于教学。",
@@ -24,7 +24,7 @@
   },
   "assessments": [],
   "provenance": {
-    "path": "语文/现代文阅读.md",
+    "path": "历史遗留/语文/现代文阅读.md",
     "section": "#### (2) 描写方法及作用",
     "line": 105,
     "end_line": 127,

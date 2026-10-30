@@ -11,7 +11,7 @@
       "id": "pg-feb004f54e8005ce3501",
       "upload_order": 1,
       "printed_page": null,
-      "label": "英语/写作.md",
+      "label": "历史遗留/英语/写作.md",
       "image_path": null,
       "sha256": null,
       "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
@@ -19,7 +19,7 @@
   ],
   "expected_question_count": null,
   "provenance": {
-    "path": "英语/写作.md",
+    "path": "历史遗留/英语/写作.md",
     "section": "# 英语错题集 · 写作",
     "line": 1,
     "end_line": 42,

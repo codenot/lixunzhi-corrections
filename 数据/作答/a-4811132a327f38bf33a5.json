@@ -16,7 +16,7 @@
     "verification": "待核实",
     "basis": {
       "kind": "历史记录",
-      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+      "evidence": "依据已保存文档中的作答和批改；原图及原始评分记录缺失。"
     },
     "reference_answer": "> Hi! I am Hanson. I am 11 years old. Last Sunday, I **played** badminton with my father. My father is good at playing it, so I wanted to beat him very much. We played for an hour. The score was 18-19, and I was behind. I took a deep breath and tried my best. Finally, I won 21-19! I was so happy and excited. It was really an enjoyable sport moment.",
     "analysis": "叙述 Last Sunday 的事件用过去时，如 play→played、want→wanted、am very happy→was very happy。一般事实如年龄、父亲擅长运动可保留现在时。按当前转录全文为49词，距50词差1词。\n\n复核备注：按旧文全文以空白分词（数字计一词），学生 49 词，参考作文 71 词；原记录“约42词/约60词”不准确。末尾提问及一般现在时的自我介绍不能一律判错；按内容和题目要求判断。",
@@ -53,7 +53,7 @@
   },
   "assessments": [],
   "provenance": {
-    "path": "英语/写作.md",
+    "path": "历史遗留/英语/写作.md",
     "section": "## 第 1 题",
     "line": 5,
     "end_line": 42,

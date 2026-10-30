@@ -16,7 +16,7 @@
     "verification": "待核实",
     "basis": {
       "kind": "历史记录",
-      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+      "evidence": "依据已保存文档中的作答和批改；原图及原始评分记录缺失。"
     },
     "reference_answer": "螳螂",
     "analysis": "原题及评分依据不完整，先核实后用于教学。",
@@ -24,7 +24,7 @@
   },
   "assessments": [],
   "provenance": {
-    "path": "语文/古诗文.md",
+    "path": "历史遗留/语文/古诗文.md",
     "section": "## 第 6 题：《螳螂捕蝉》\"其\"字指代",
     "line": 177,
     "end_line": 209,

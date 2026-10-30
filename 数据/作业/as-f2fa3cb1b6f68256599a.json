@@ -11,7 +11,7 @@
       "id": "pg-f2fa3cb1b6f68256599a",
       "upload_order": 1,
       "printed_page": null,
-      "label": "语文/字词基础.md",
+      "label": "历史遗留/语文/字词基础.md",
       "image_path": null,
       "sha256": null,
       "note": "原仓库未保存图片；此编号代表历史文档，不是原始图片编号。"
@@ -19,7 +19,7 @@
   ],
   "expected_question_count": null,
   "provenance": {
-    "path": "语文/字词基础.md",
+    "path": "历史遗留/语文/字词基础.md",
     "section": "# 语文错题集 · 字词基础",
     "line": 1,
     "end_line": 164,

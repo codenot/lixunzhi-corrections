@@ -16,7 +16,7 @@
     "verification": "待核实",
     "basis": {
       "kind": "历史记录",
-      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+      "evidence": "依据已保存文档中的作答和批改；原图及原始评分记录缺失。"
     },
     "reference_answer": "Go to the **clinic** when you fall and hurt your knee.",
     "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：原题词表含 The，参考答案以 Go 开头，词表与答案可能不一致；需核对原图。",
@@ -39,7 +39,7 @@
   },
   "assessments": [],
   "provenance": {
-    "path": "英语/词汇与语法.md",
+    "path": "历史遗留/英语/词汇与语法.md",
     "section": "## 第 6 题",
     "line": 167,
     "end_line": 196,

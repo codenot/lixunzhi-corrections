@@ -16,7 +16,7 @@
     "verification": "待核实",
     "basis": {
       "kind": "历史记录",
-      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+      "evidence": "依据已保存文档中的作答和批改；原图及原始评分记录缺失。"
     },
     "reference_answer": "**He was born in New Delhi in July 1992.**",
     "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：短语作答是否扣分取决于题目要求；旧文转述老师要求“写完整”，原始评分依据待核实。",
@@ -39,7 +39,7 @@
   },
   "assessments": [],
   "provenance": {
-    "path": "英语/阅读理解.md",
+    "path": "历史遗留/英语/阅读理解.md",
     "section": "## 第 7 题",
     "line": 205,
     "end_line": 236,

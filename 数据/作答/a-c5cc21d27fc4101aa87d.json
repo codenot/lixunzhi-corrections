@@ -16,7 +16,7 @@
     "verification": "待核实",
     "basis": {
       "kind": "历史记录",
-      "evidence": "仅迁移旧文档中的作答和批改；原图及原始评分记录缺失。"
+      "evidence": "依据已保存文档中的作答和批改；原图及原始评分记录缺失。"
     },
     "reference_answer": "**B. easier**",
     "analysis": "原题及评分依据不完整，先核实后用于教学。\n\n复核备注：make it easier 中 easier 是形容词比较级，不是旧标签所称副词；选择仍需结合原文。",
@@ -39,7 +39,7 @@
   },
   "assessments": [],
   "provenance": {
-    "path": "英语/阅读理解.md",
+    "path": "历史遗留/英语/阅读理解.md",
     "section": "## 第 3 题",
     "line": 71,
     "end_line": 104,
