@@ -14,10 +14,10 @@
       "schema_version": 1,
       "kind": "assignment",
       "id": "as-example",
-      "title": "格式示例（非真实学生作业）",
+      "title": "明确收录后的格式示例（非真实学生作业）",
       "date": "2026-10-01",
-      "coverage": "整份作业",
-      "scope_note": "虚构的文字作答，仅供参考记录格式。",
+      "coverage": "指定范围",
+      "scope_note": "虚构示例：用户明确要求收录第一题后，只保存这一题及必要资料；不代表对话中的整批批改范围。作答与确认原话均为虚构，仅供格式参考。",
       "expected_question_count": 1,
       "pages": [
         {
@@ -141,6 +141,19 @@
         "end_line": null,
         "sha256": null
       }
+    },
+    {
+      "schema_version": 1,
+      "kind": "mistake",
+      "id": "m-example",
+      "question_id": "q-example",
+      "admitted_attempt_id": "a-example",
+      "approval": {
+        "mode": "用户确认",
+        "at": "2026-10-01",
+        "evidence": "把第一题记入错题本。"
+      },
+      "note": "格式示例：以上用户确认原话与日期均为虚构，不是学生真实记录，也不构成任何实际收录授权。"
     }
   ]
 }
