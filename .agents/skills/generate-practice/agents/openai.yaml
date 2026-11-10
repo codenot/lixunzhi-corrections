@@ -1,0 +1,6 @@
+interface:
+  display_name: "练习题生成"
+  short_description: "按已有题型编制学生卷与答案卷，逐题核验并保留稳定题型映射"
+
+policy:
+  allow_implicit_invocation: true

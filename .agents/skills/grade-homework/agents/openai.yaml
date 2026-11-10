@@ -1,0 +1,6 @@
+interface:
+  display_name: "试卷作业批改"
+  short_description: "按卷面顺序逐题批改并完整解析，按项目规则处理练习回交与计数"
+
+policy:
+  allow_implicit_invocation: true
