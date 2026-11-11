@@ -1,6 +1,6 @@
 interface:
   display_name: "错题登记"
-  short_description: "按指定范围归型登记错题，维护统一正文、原图来源和知识点索引"
+  short_description: "按明确收录要求保存错题及不熟悉的知识点，维护讲解、来源与索引"
 
 policy:
   allow_implicit_invocation: true
