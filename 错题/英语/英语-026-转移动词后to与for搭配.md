@@ -46,6 +46,38 @@ Bailing is adding **notes to** the pictures in the family album.
 - 知识点：add A to B 表示"把 A 加到 B 上"，不用 for
 - 结果：部分正确
 
+<a id="q-20261122-004"></a>
+
+### 原题 q-20261122-004
+
+#### 原题
+
+短语默写：在牛肉上加酱油。
+
+#### 我的答案
+
+add soy sauce on the beef
+
+#### 参考答案
+
+**add** soy sauce **to** the beef
+
+#### 解析与纠正
+
+本题考查 add A to B 结构。add 表示"添加"，被添加的东西 A 落到对象 B 上/里，介词用 **to** 表落点，不用 on，也不用 for。同类例子：add some salt to the soup（往汤里加盐）、add notes to the picture（给图片加注释）。
+
+学生写 on the beef，把落点介词误用成 on；add…to… 是固定转移搭配。
+
+易错提醒：说"把 A 加到 B 上"时，记 add A to B，to 后接被加入的对象。
+
+#### 记录信息
+
+- 来源：英语练习 Week 5 Unit 3 P27 第 I 节短语默写第 18 题；[原图](原始资料/2026-11-22_01/图01.jpg)
+- 批改日期：2026-11-22
+- 收录依据：用户原话"收录 介词搭配：recipe for、ingredients for、be good for、add…to…，这几个题目都容易犯错"
+- 知识点：add A to B = 把 A 加到 B 上，介词用 to
+- 结果：部分正确
+
 ## 练习作答记录
 
 暂无已记录的练习作答。
